@@ -1,0 +1,4 @@
+Name,Species,SubCluster,Clade,SubClade,Pigment type,Sequencing center,Genome status,Genome size,Contigs,CDS,rRNA,tRNA,Clusters,GC %
+Pro_MED4,Prochlorococcus marinus,,HL,HLI,Low b/a,JGI,Complete,1 657 991,1,1 722,None,None,1 688,30.8
+Pro_MIT9313,Prochlorococcus sp.,,LL,LLIV,High b/a,JGI,Complete,2 410 874,1,2 278,None,None,2 162,50.7
+Pro_SS120,Prochlorococcus marinus,,LL,LLII,High b/a,Genoscope,Complete,1 751 081,1,1 883,None,None,1 847,36.4
