@@ -8,6 +8,6 @@ Author : Mark HOEBEKE (mark.hoebeke@sb-roscoff.fr)
 
 """
 
-infile = open("../data/fasta/cyanorak_complete.faa")
+infile = open("../data/fasta/Syn_RCC307.faa")
 lines = infile.readlines()
 print(len(lines))
