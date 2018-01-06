@@ -1,14 +1,4 @@
-#!/usr/bin/env python
-
-# -*- coding: utf-8 -*-
-
-"""
-Synopsis : readseqlists.py is a trivial program read sequences in a multi-fasta file.
-Author : Mark HOEBEKE (mark.hoebeke@sb-roscoff.fr)
-
-"""
-
-infile = open("../data/fasta/Syn_RCC307.faa")
+infile = open("../../data/fasta/Syn_RCC307.faa")
 lines = infile.readlines()
 infile.close()
 seqIds=[]

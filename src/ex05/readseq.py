@@ -1,20 +1,4 @@
-#!/usr/bin/env python
-
-# -*- coding: utf-8 -*-
-
-"""
-Synopsis : readseqwithargs.py is a trivial program read sequences in a multi-fasta file.
-Author : Mark HOEBEKE (mark.hoebeke@sb-roscoff.fr)
-
-"""
-import argparse
-
-parser=argparse.ArgumentParser(description='Read a set of sequences.')
-parser.add_argument('seqfile',help='A multi-fasta sequence file.')
-
-args=parser.parse_args()
-
-infile = open(args.seqfile)
+infile = open("../../data/fasta/Syn_RCC307.faa")
 lines = infile.readlines()
 infile.close()
 sequenceInfo={}

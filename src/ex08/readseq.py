@@ -1,12 +1,3 @@
-#!/usr/bin/env python
-
-# -*- coding: utf-8 -*-
-
-"""
-Synopsis : readseqwithargs.py is a trivial program read sequences in a multi-fasta file.
-Author : Mark HOEBEKE (mark.hoebeke@sb-roscoff.fr)
-
-"""
 import argparse
 
 parser=argparse.ArgumentParser(description='Read a set of sequences.')
