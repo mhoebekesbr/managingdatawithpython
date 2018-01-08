@@ -1,0 +1,2936 @@
+genre	espece	autorite	statut	id	id_espece
+Exogone	hebes		f	231	178
+Chondria	scintillans	G. Feldmann	t	2723	1650
+Tharyx	marioni		f	1	296
+Malmgrenia	castanea	McIntosh, 1876	f	2	59
+Euphrosine	foliosa	(Audouin & Milne-Edwards, 1833)	t	3	90
+Lumbriconereis	impatiens		f	4	242
+Polygordius	lacteus	Schneider, 1868	t	5	18
+Polygordius	villoti	Perrier, 1875	t	6	26
+Polygordius	appendiculatus	Fraipont, 1887	t	7	27
+Protodrilus	purpureus	(Schneider, 1868)	t	8	28
+Protodrilus	oculifer	Pierantoni,1908	t	9	292
+Protodrilus	bahusiensis	Jägersten, 1952	f	10	292
+Protodrilus	ciliatus	Jägersten, 1952	t	11	29
+Protodrilus	affinis	Jouin, 1968	t	12	30
+Protodrilus	adhaerens	Jägersten, 1952	t	13	52
+Protodrilus	hypoleucus	Armenante, 1903	t	14	345
+Protodrilus	hatscheki	Pierantoni,1908	t	15	32
+Protodrilus	symbioticus	Giard, 1904	t	16	54
+Protodriloides	chaetifer	(Remane, 1926)	t	17	55
+Saccocirrus	papillocercus	Bobretzky, 1871	t	18	33
+Nerilla	antennata	Schmidt, 1848	t	19	34
+Nerillidium	gracile	Remane, 1925	t	20	35
+Nerillidium	troglochaetoides	Remane, 1925	t	21	36
+Nerillidium	simplex	Lévi, 1953	t	22	37
+Nerillidium	mediterraneum	Remane, 1925	t	23	38
+Nerillidopsis	hyalina	jouin, 1966	t	24	39
+Mesonerilla	roscovita	Lévi, 1953	t	25	40
+Mesonerilla	armoricana	Swedmark, 1959	t	26	41
+Mesonerilla	fagei	Swedmark, 1959	t	27	42
+Mesonerilla	biantennata	Jouin, 1963	t	28	43
+Meganerilla	clavata 	Magagnini, 1966	t	29	44
+Dinophilus	taeniatus	Harmer, 1889	t	30	46
+Dinophilus	gyrociliatus	Schmidt, 1857	t	31	47
+Trilobodrilus	heideri	Remane, 1925	t	32	48
+Trilobodrilus	sp.		t	33	49
+Aphroditida	aculeata	Linnaeus, 1758	t	34	50
+Laetmonice	hystrix	(Savigny in Lamarck, 1818)	t	35	51
+Hermonia	hystrix	(Savigny in Lamarck, 1818)	f	36	51
+Lepidonotus	squamatus	(Linnaeus, 1758)	t	37	57
+Lepidonotus	clava	(Montagu, 1808)	t	38	58
+Malmgreniella	castanea	McIntosh, 1876	t	39	59
+Gattyana	cirrhosa	(Pallas, 1766)	t	40	60
+Gattyana	cirrosa	(Pallas, 1766)	f	41	60
+Harmothoe	imbricata	(Linnaeus, 1767)	t	42	61
+Harmothoe	maxillospinosa	de Saint Joseph, 1888	f	43	61
+Harmothoe	coeliaca	de Saint Joseph, 1888	t	44	62
+Malmgreniella	mcintoshi	Tebble & Chambers, 1982	t	45	63
+Harmothoe	haliaeti	Mc Intosh, 1876	f	46	63
+Harmothoe	echinopustulata	Fauvel, 1913	f	47	64
+Leucia	nivea	(Sars, 1863)	t	48	64
+Harmothoe	impar	(Johnston, 1839)	t	49	65
+Harmothoe	areolata	(Grube, 1860)	t	50	45
+Malmgreniella	ljungmani	(Malmgren, 1867)	t	51	66
+Harmothoe	ljungmani	Malmgren, 1867	f	52	66
+Harmothoe	spinifera	(Ehlers, 1864)	t	53	67
+Malmgreniella	glabra	(Malmgren, 1865)	t	54	68
+Harmothoe	longisetis	(Grube, 1863)	f	55	68
+Malmgreniella	arenicolae	(de Saint Joseph, 1888)	t	56	1
+Harmothoe	lunulata var. arenicolae		f	57	1
+Malmgreniella	marphysae	(McIntosh, 1876)	t	58	69
+Harmothoe	lunulata var. marphysae		f	59	69
+Pisione	remota	(Southern, 1914)	t	60	70
+Praegeria	remota		f	61	70
+Subadyte	pellucida	de Savigny, 1822	t	62	71
+Scalisetosus	pellucidus		f	63	71
+Adyte	assimilis	(McIntosh, 1874)	t	64	72
+Scalisetosus	assimilis		f	65	72
+Harmothoe	extenuata	(Grube, 1840)	t	66	73
+Lagisca	extenuata		f	67	73
+Polynoe	scolopendrina	de Savigny, 1822	t	68	76
+Alentia	gelatinosa	(Sars, 1835)	t	69	78
+Halosydna	gelatinosa		f	70	78
+Sigalion	mathildae	Audoin et Milne-Edwars, 1830	t	71	79
+Sigalion	squamosus	Delle Chiaje, 1830	t	72	80
+Sigalion	squamatum		f	73	80
+Psammolyce	arenosa	(Delle Chiaje, 1830)	f	74	81
+Pelogenia	arenosa	(Delle Chiaje, 1830)	t	75	81
+Psammolyce	inclusa	de Claparède, 1868	f	76	82
+Claparedepelogenia	inclusa	(Claparède, 1868)	t	77	82
+Sthenelais	boa	(Johnston, 1833)	t	78	83
+Sthenelais	minor		f	79	83
+Sthenelais	limicola	(Ehlers, 1864)	t	80	84
+Euthalenessa	dendrolepis	(de Claparède, 1868)	f	81	85
+Euthalenessa	oculata	(Peters, 1855)	t	82	85
+Pholoe	baltica	Oersted, 1843	t	83	86
+Pholoe	synophthalmica		f	84	86
+Pholoe	inornata	Johnston, 1839	t	85	87
+Pholoe	minuta		f	86	87
+Hipponoe	gaudichaudi	(Audouin et Milne-Edwards, 1830)	t	87	88
+Hipponoa	gaudichaudi		f	88	88
+Diurodrilus	minimus	Remane, 1925	t	89	89
+Spinther	oniscoides	Johnston, 1845	t	90	91
+Phyllodoce	laminosa	de Savigny, 1818	t	91	92
+Phyllodoce	macrophthalma	Schmarda, 1861	t	92	93
+Phyllodoce	lineata	(de Claparède, 1870)	t	93	94
+Phyllodoce	longipes	Kinberg, 1866	t	94	95
+Phyllodoce	macropapillosa		f	95	95
+Phyllodoce (Anaitides)	maculata	(Linnaeus, 1767)	t	96	74
+Anaitides	maculata		f	97	74
+Phyllodoce	maculata	(Linnaeus, 1767)	f	98	74
+Phyllodoce (Anaitides)	mucosa	Oersted, 1843	t	99	96
+Aniatides	mucosa		f	100	96
+Phyllodoce	mucosa	Oersted, 1843	f	101	96
+Nereiphylla	rubiginosa	(de Saint Joseph, 1888)	t	102	98
+Phyllodoce	rubiginosa		f	103	98
+Nereiphylla	paretti	Blainville, 1828	t	104	77
+Phyllodoce	paretti	(Blainville, 1828)	f	105	77
+Dioplosyllis	cirrosa	Gidhom, 1962	t	211	169
+Protodrilus	hypoleucus tenuis	Jouin in Cabioch, L'Hardy & Rullier, 1968	t	106	53
+Paranaitis	kosteriensis	(Malmgren, 1867)	t	107	99
+Iphitime	cuenoti	Fauvel, 1913	t	108	241
+Phyllodoce	kosteriensis	(Malmgren, 1867)	f	109	99
+Phyllodoce (Anaitides)	groenlandica	Oersted, 1842	t	110	100
+Anaitides	groenlandica	(Oersted, 1842)	f	111	100
+Eulalia	clavigera	(Audouin & Milne-Edwards, 1833)	t	112	101
+Eulalia	ornata	de Saint Joseph, 1888	t	113	102
+Eulalia	viridis var. ornata 	Mc Intosh, 1908	f	114	102
+Eulalia	expusilla	Pleijel, 1987	t	115	103
+Eulalia	pusilla	Oersted, 1843	f	116	103
+Eulalia	venusta	de Saint Joseph, 1888	t	117	104
+Eulalia	trilineata	de Saint Joseph, 1888	t	118	105
+Eumida	punctifera	(Grube, 1860)	f	119	106
+Eulalia	punctifera	(Grube, 1860)	f	120	106
+Pirakia	punctifera	(Grube, 1860)	t	121	106
+Eulalia	tripunctata	McIntosh, 1874	t	122	107
+Eumida	sanguinea	(Oersted, 1843)	t	123	108
+Eulalia (Eumida)	sanguinea	Oersted, 1843	f	124	108
+Eumida	parva	(Saint Joseph, 1888)	t	125	109
+Eulalia (Eumida)	parva	Saint Joseph, 1888	f	126	109
+Sige	macroceros	(Grube, 1860)	t	127	110
+Polymnia	nesidensis		f	128	358
+Eulalia (Pterocirrus)	macroceros	(Grube, 1860)	f	129	110
+Pterocirrus	microceros	Claparède, 1870	t	130	111
+Eulalia (Pterocirrus)	microcephala	Claparède, 1870	f	131	111
+Eulalia	limbata	(Claparède, 1868)	t	132	112
+Eulalia (Pterocirrus)	limbata	Claparède, 1868	f	133	112
+Notophyllum	foliosum	(Sars, 1835)	t	134	113
+Eteone	foliosa	de Quatrefages, 1866	t	135	114
+Eteone	longa	(Fabricius, 1780)	t	136	115
+Mysta	picta	de Quatrefages, 1865	t	137	116
+Eteone (Mysta)	picta	de Quatrefages, 1866	f	138	116
+Mystides	caeca	Langerhans, 1880	t	139	75
+Mystides	borealis		f	140	75
+Pseudomystides	limbata	(de Saint Joseph, 1888)	t	141	117
+Mystides (Pseudomystides)	limbata		f	142	117
+Eulalia	mustela	Pleijel, 1987	t	143	118
+Protomystides	bidentata		f	144	118
+Euphrosyne	foliosa	Audouin et Milne-Edwards, 1833	f	145	90
+Eulalia	viridis	(Linneus, 1767)	f	146	101
+Eulalia	brunnea	(Hartman-Schroeder, 1963)	t	147	97
+Protomystides	brunnea		f	148	97
+Lacydonia	miranda	Marion & Bobretzky, 1875	t	149	119
+Tomopteris	helgolandica	Greeff, 1879	t	150	120
+Kefersteinia	cirrata	(Keferstein, 1862)	t	151	121
+Nereimyra	punctata	(O.F. Müller, 1776)	t	152	122
+Gyptis	propinqua	Marion & Bobretzky, 1875	t	153	123
+Oxydromus	propinquus		f	154	123
+Ophiodromus	flexuosus	(Delle Chiaje, 1825)	t	155	124
+Syllidia	armata	de Quatrefages, 1866	t	156	125
+Magalia	perarmata		f	157	125
+Microphthalmus	sczelkowii	Mecnikow, 1865	t	158	126
+Haplosyllis	spongicola	(Grube, 1855)	t	159	127
+Syllis (Haplosyllis)	spongicola		f	160	127
+Haplosyllis	spongicola forma tentaculata		f	161	127
+Haplosyllis	spongicola spongicola	(Grube, 1855)	f	162	127
+Haplosyllis	spongicola forma spongicola		f	163	127
+Syllis	amica	de Quatrefages, 1866	t	164	128
+Syllis	gracilis	Grube, 1840	t	165	129
+Syllis	krohni	(Ehlers, 1864)	t	166	130
+Syllis (Typosyllis)	krohnii		f	167	130
+Syllis	atlantica	Cognetti, 1960	t	168	131
+Syllis	variegata	Grube, 1860	t	169	132
+Syllis (Typosyllis)	atlantica lineata		f	170	132
+Syllis	armillaris	(O.F. Müller, 1776)	t	171	135
+Syllis (Typosyllis)	armillaris		f	172	135
+Syllis	cornuta	Rathke, 1843	t	173	137
+Syllis (Ehlersia)	cornuta		f	174	137
+Paraehlersia	ferrugina	(Langerhans, 1881)	t	175	138
+Syllis (Ehlersia)	ferrugina		f	176	138
+Trypanosyllis	zebra	(Grube, 1860)	t	177	139
+Trypanosyllis	coeliaca	de Claparède, 1868	t	178	140
+Eurysyllis	tuberculata	Ehlers, 1864	t	179	141
+Xenosyllis	scabra	Ehlers, 1864	t	180	142
+Plakosyllis	brevipes	Hartmann-Schroeder, 1956	t	181	143
+Eurysyllis (Plakosyllis)	brevipes		f	182	143
+Odontosyllis	fulgurans	(Audouin et Milne-Edwards, 1833)	t	183	146
+Odontosyllis	gibba	de Claparède, 1863	t	184	147
+Odontosyllis	polyodonta	de Saint-Joseph, 1887	t	185	148
+Odontosyllis	ctenostoma	de Claparède, 1868	t	186	149
+Amblyosyllis	formosa	(de Claparède, 1863)	t	187	151
+Pterosyllis	formosa		f	188	151
+Streptosyllis	websteri	Southern, 1914	t	189	153
+Streptosyllis	bidentata	Southern, 1914	t	190	154
+Syllides	longocirratus	(Oersted, 1845)	t	191	156
+Syllides	longocirrata		f	192	156
+Anoplosyllis	edentula	(de Claparède, 1868)	t	193	157
+Syllides	edentula		f	194	157
+Nudisyllis	pulligera	(Krohn, 1852)	t	195	159
+Pionosyllis	pulligera		f	196	159
+Pionosyllis	serrata	(Krohn, 1852)	f	197	159
+Nudisyllis	divaricata	(Krohn, 1852)	t	198	160
+Pionosyllis	divaricata		f	199	160
+Parapionosyllis	longocirrata	(de Saint Joseph, 1887)	t	200	161
+Pionosyllis	longocirrata		f	201	161
+Pionosyllis	lamelligera	de Saint Joseph, 1887	t	202	162
+Pionosyllis	weismanni	(Langerhans, 1879)	t	203	163
+Palposyllis	prosostoma	Dauvin & Lee, 1983	t	204	164
+Pionosyllis	prope-weismanni		f	205	164
+Parapionosyllis	minuta	(Pierantoni, 1903)	t	206	165
+Eusyllis	blomstrandi	Malmgren, 1867	t	207	167
+Eusyllis	assimilis	Marenzeller, 1875	t	208	168
+Eusyllis	lamelligera	Marion & Bobretzky, 1875	t	209	150
+Eusyllis	intermedia	de Saint-Joseph, 1887	t	210	3
+Grubeosyllis	clavata	(de Claparède, 1863)	t	212	170
+Grubea	clavata		f	213	170
+Brania	pusilla	(Dujardin, 1839)	t	214	152
+Grubea	pusilla		f	215	152
+Salvatoria	limbata	(de Claparède, 1868)	t	216	171
+Grubea	limbata		f	217	171
+Salvatoria	swedmarki	(Gidholm, 1962)	t	218	172
+Brania (Grubea)	swedmarki		f	219	172
+Sphaerosyllis	hystrix	de Calparède, 1863	t	220	173
+Erinaceusyllis	erinaceus	de Claparède, 1863	t	221	174
+Sphaerosyllis	erinaceus		f	222	174
+Sphaerosyllis	bulbosa	Southern, 1914	t	223	155
+Prosphaerosyllis	tetralix	Eliason, 1920	t	224	175
+Sphaerosyllis	tetralix		f	225	175
+Exogone (Exogone)	naidina	Oersted, 1845	t	226	176
+Exogone	gemmifera		f	227	176
+Exogone (Sylline)	brevipes	(de Claparède, 1864)	t	228	177
+Exogone	brevipes		f	229	177
+Exogone (Paraexogone)	hebes	(Webster & Benedict, 1884)	t	230	178
+Exogone (Exogone)	fauveli	Cognetti, 1961	t	232	179
+Exogone	fauveli		f	233	179
+Myrianida	prolifera	(O.F. Müller, 1788)	t	234	180
+Autolytus	ehbiensis		f	235	180
+Autolytus	prolifer		f	236	180
+Proceraea	aurantiaca	(de Claparède, 1868)	t	237	181
+Autolytus	aurantiacus		f	238	181
+Myrianida	rubropunctata	(Grube, 1860)	t	239	182
+Autolytus	rubropunctatus		f	240	182
+Proceraea	pictus	Ehlers, 1864	t	241	183
+Autolytus	pictus		f	242	183
+Proceraea	scapularis	(de Claparède, 1864)	t	243	184
+Autolytus	megodon		f	244	184
+Autolytus	benazzii		f	245	186
+Myrianida	brachycephala	(Marenzeller, 1874)	t	246	186
+Autolytus	brachycephalus		f	247	186
+Autolytus	punctatus		f	248	186
+Myrianida	edwardsi	de Saint Joseph, 1887	t	249	187
+Autolytus	edwardsi		f	250	187
+Autolytus	longeferiens		f	251	188
+Epigamia	alexandri	(Malmgren, 1867)	t	252	188
+Autolytus	paradoxus		f	253	188
+Myrianida	quindecimdentata	Langerhans, 1864	t	254	190
+Autolytus	lugens		f	255	190
+Myrianida	inermis	de Saint Joseph, 1887	t	256	191
+Autolytus (Autolytides)	inermis		f	257	191
+Myrianida	pinnigera	(Montagu, 1808)	t	258	192
+Virchowia	clavata	Langerhans, 1879	t	259	193
+Procerastea	halleziana	Malaquin, 1893	t	260	133
+Procerastea	nematodes	Langerhans, 1884	t	261	134
+Procerastea	perrieri		f	262	134
+Micronereis	variegata	de Claparède, 1863	t	263	195
+Websterinereis	glauca	(de Claparède, 1870)	t	264	196
+Leptonereis	glauca		f	265	196
+Nereis	pelagica	Linneaus, 1761	t	266	197
+Neanthes	irrorata	(Malmgren, 1867)	t	267	198
+Nereis	irrorata		f	268	198
+Nereis	zonata	Malmgren, 1867	t	269	199
+Hediste	diversicolor	(O.F. Müller, 1776)	t	270	204
+Nereis	diversicolor 		f	271	204
+Neanthes	fucata	(de Savigny, 1818)	t	272	205
+Nereis (Nereilepas)	fucata		f	273	205
+Eunereis	longissima	Johnston, 1840	t	274	206
+Nereis	longissima		f	275	206
+Perinereis	cultrifera	(Grube, 1840)	t	276	209
+Perinereis	marionii	(Audouin & Milne-Edwards, 1833)	t	277	210
+Platynereis	dumerilii	(Audouin & Milne-Edwards, 1833)	t	278	211
+Platynereis	coccinea	(Delle Chiaje, 1841)	t	279	212
+Nephtys	caeca	(Fabricius, 1780)	t	280	213
+Nephthys	caeca		f	281	213
+Nephtys	hombergii	de Savigny, 1818	t	282	217
+Nephthys	hombergii		f	283	217
+Nephtys	longosetosa	Oersted, 1842	t	284	218
+Nephthys	longoseta		f	285	218
+Nephtys	cirrosa	Ehlers, 1868	t	286	185
+Nephthys	cirrosa		f	287	185
+Nephtys	ciliata	(O.F. Müller, 1789)	t	288	201
+Nephthys	ciliata		f	289	201
+Nephtys	incisa	Malmgren, 1865	t	290	202
+Nephthys	incisa		f	291	202
+Nephtys	assimilis	Oersted, 1843	t	292	203
+Nephtys	assimilis		f	293	203
+Sphaerodorum	flavum	Oersted, 1843	f	294	200
+Sphaerodorum	gracilis	(Rathke, 1843)	t	295	200
+Ephesia	gracilis		f	296	200
+Ephesiella	abyssorum	(Hansen, 1878)	t	297	219
+Ephesia	peripatus		f	298	219
+Sphaerodoropsis	minuta	(Webster & Benedict, 1887)	t	299	220
+Sphaerodorum	minutum		f	300	220
+Sphaerodoridium	claparedeii	(Greef, 1866)	t	301	207
+Sphaerodorum	claparedii		f	302	207
+Glycera	tridactyla	Schmarda, 1861	f	303	222
+Glycera	convoluta		t	304	222
+Glycera	alba	(O.F. Müller, 1776)	t	305	223
+Glycera	capitata	Oersted, 1843	t	306	224
+Glycera	lapidum		f	307	224
+Glycera	gigantea	de Quatrefages, 1866	t	308	225
+Glycera	unicornis	de Savigny, 1818	t	309	214
+Glycera	celtica	O'Connor, 1987	t	310	4
+Goniada	emerita	Audouin & Milne-Edwards, 1833	t	311	226
+Glycinde	nordmanni	(Malmgren, 1866)	t	312	227
+Eone	nordmanni		f	313	227
+Goniada	maculata	Oersted, 1843	t	314	194
+Goniadella	bobretzkii	(Annenkova, 1929)	t	315	215
+Eunice	harassii	Audoin et Milne-Edwars, 1833	t	316	229
+Eunice	vittata	(Delle Chiaje, 1828)	t	317	230
+Marphysa	sanguinea	(Montagu, 1815)	t	318	231
+Marphysa	bellii	(Audouin et Milne-Edwards, 1833)	t	319	232
+Marphysa	fallax	Marion & Bobretzky, 1875	t	320	233
+Lysidice	ninetta	Audouin & Milne-Edwards, 1833	t	321	235
+Nematonereis	unicornis	(Grube, 1840)	t	322	237
+Nothria	conchylega	(Sars, 1835)	t	323	238
+Onuphis	conchylega		f	324	238
+Aponuphis	bilineata	(Baird, 1870)	t	325	239
+Hyalinoecia	bilineata	(Baird, 1870)	f	326	239
+Aponuphis	fauveli	(Rioja, 1918)	t	327	240
+Hyalinoecia	fauveli		f	328	240
+Scoletoma	impatiens	(de Claparède, 1868)	t	329	242
+Lumbrineris	fragilis	(O.F. Müller, 1776)	f	330	243
+Scoletoma	fragilis	(O.F. Müller, 1776)	t	331	243
+Lumbriconereis	fragilis		f	332	243
+Lumbrinereis	gracilis	Ehlers, 1868	t	333	244
+Lumbriconereis	gracilis		f	334	244
+Lumbrineris	coccinea	(Renier, 1804)	t	335	245
+Lumbriconereis	coccinea		f	336	245
+Stylarioides	plumosa		f	337	305
+Lumbrineris	latreilli	Audouin & Milne-Edwards, 1833	t	338	249
+Lumbriconereis	latreilli		f	339	249
+Lumbrineris	funchalensis	(Kinberg, 1865)	t	340	228
+Lumbriconereis	funchalensis		f	341	228
+Lumbrineris	labrofimbriata	(de Saint Joseph, 1888)	t	342	250
+Lumbriconereis	labrofimbriata		f	343	250
+Lumbrineriopsis	paradoxa	(de Saint Joseph, 1888)	t	344	20
+Lumbriconereis	paradoxa		f	345	20
+Drilonereis	filum	(de Claparède, 1868)	t	346	2
+Drilonereis	macrocephala		f	347	2
+Arabella	iricolor	(Montagu, 1804)	t	348	251
+Arabella	geniculata	(de Claparède, 1868)	t	349	252
+Schistomeringos	rudolphi	(Delle Chiaje, 1828)	t	350	253
+Shistomeringos (Staurocephalus)	rudolphii		f	351	253
+Dorvillea	rubrovittata	(Grube, 1855)	t	352	254
+Staurocephalus	rubrovittatus		f	353	254
+Schistomeringos	neglecta	(Fauvel, 1923)	t	354	11
+Dorvillea	neglecta	(Fauvel, 1923)	f	355	11
+Protodorvillea	kefersteini	(McIntosh, 1869)	t	356	256
+Staurocephalus	kefersteini		f	357	256
+Ophryotrocha	puerilis siberti	(McIntosh, 1885)	t	358	221
+Ophryotrocha	minuta	Lévi, 1954	t	359	236
+Ophryotrocha	hartmanni	Huth, 1933	t	360	5
+Ophryotrocha	baccii	Parenti, 1961	t	361	257
+Ophryotrocha	gracilis	Huth, 1933	t	362	258
+Histriobdella	homari	van Beneden, 1858	t	363	259
+Orbinia	latreilli	(Audouin & Milne-Edwards, 1833)	t	364	260
+Aricia	latreilli		f	365	260
+Orbinia	sertulata	de Savigny, 1818	t	366	261
+Aricia	cuvieri		f	367	261
+Phylo	foetida	(de Claparède, 1868)	t	368	262
+Aricia	foetida var. atlantica		f	369	262
+Scoloplos	armiger	(O.F. Müller, 1776)	t	370	263
+Malacoceros	fuliginosus	(de Claparède, 1868)	t	371	264
+Scolelepis	fuliginosus		f	372	264
+Malacoceros	tetracerus	(Schmarda, 1861)	t	373	247
+Scolelepis	ciliata		f	374	247
+Malacoceros	vulgaris	(Johnston, 1827)	t	375	248
+Scolelepis	girardi		f	376	248
+Scolelepis	cantabra	Rioja, 1919	t	377	265
+Nerinides	cantabra		f	378	265
+Scolelepis	foliosa	(Audouin & Milne-Edwards, 1833)	t	379	268
+Nerine	foliosa		f	380	268
+Scolelepis	squamata	(O.F. Müller, 1789)	t	381	269
+Nerine	cirratulus		f	382	269
+Scolelepis	bonnieri	(Mesnil, 1896)	t	383	270
+Nerine	bonnieri	(Mesnil, 1896)	f	384	270
+Laonice	bahusiensis	Söderström, 1920	t	385	271
+Laonice	cirrata		f	386	271
+Aonides	oxycephala	(Sars, 1862)	t	387	272
+Microspio	mecznikowianus	de Claparède, 1870	t	388	234
+Spio	decoratus	Bobretzky, 1870	t	389	278
+Spio	martinensis	Mesnil, 1896	t	390	255
+Spio	multioculata	(Rioja, 1918)	t	391	144
+Spiophanes	bombyx	(de Claparède, 1870)	t	392	145
+Spiophanes	kroyeri	Grube, 1860	t	393	166
+Pygospio	elegans	de Claparède, 1870	t	394	273
+Polydora	ciliata	(Johnston, 1838)	t	395	411
+Polydora	hoplura	de Claparède, 1870	t	396	274
+Dipolydora	coeca	(Oersted, 1843)	t	397	208
+Polydora	caeca		f	398	208
+Polydora	flava	de Claparède, 1870	t	399	275
+Dipolydora	giardi	(Mesnil, 1896)	t	400	276
+Polydora	giardi	Mesnil, 1896	f	401	276
+Dipolydora	armata	(Langerhans, 1880)	t	402	14
+Polydora	armata	Langerhans, 1880	f	403	14
+Pseudopolydora	pulchra	Carazzi, 1895	t	404	246
+Polydora	antennata		f	405	246
+Prionospio	cirrifera	Wirén, 1883	t	406	6
+Prionospio	malmgreni	de Claparède, 1870	t	407	266
+Aricidea	suecica	Eliason, 1920	t	408	277
+Aricidea	capensis bansei	Laubier & Ramos, 1974	t	409	21
+Aricidea	cerrutii	Laubier, 1966	t	410	136
+Aricidea	fragilis	Webster, 1879	t	411	216
+Aricidea	minuta	Southward, 1956	t	412	279
+Paradoneis	armata	Glémarec, 1966	t	413	280
+Paradoneis	lyra	(Southern, 1914)	t	414	15
+Paraonis	fulgens	(Levinsen, 1884)	t	415	7
+Apistobranchus	tullbergi	(Théek, 1870)	t	416	281
+Magelona	mirabilis	(Johnston, 1865)	t	417	282
+Magelona	papillicornis		f	418	282
+Magelona	filiformis	Wilson, 1959	t	419	56
+Magelona	alleni	Wilson, 1958	t	420	158
+Oriopsis	armandi	(de Claparède, 1856)	t	421	284
+Poecilochaetus	serpens	Allen, 1904	t	422	284
+Chaetopterus	variopedatus	(Renier, 1804)	t	423	285
+Phyllochaetopterus	socialis	Claparède, 1869	f	424	286
+Phyllochaetopterus	anglicus	Potts, 1914	t	425	286
+Cirriformia	tentaculata	(Montagu, 1808)	t	426	287
+Audouinia	tentaculata		f	427	287
+Cirratulus	cirratus	(O.F. Müller, 1776)	t	428	288
+Aphelochaeta	filiformis	(Keferstein, 1862)	t	429	289
+Cirratulus	filiformis		f	430	289
+Cirratulus	chrysoderma	de Claparède, 1870	t	431	290
+Caulleriella	bioculata	(Keferstein, 1862)	t	432	293
+Heterocirrus	bioculatus		f	433	293
+Chaetozone	caputesocis	(de Saint-Joseph, 1894)	t	434	22
+Heterocirrus	caput-esocis		f	435	22
+Caulleriella	alata	(Southern, 1914)	t	436	294
+Heterocirrus	alatus		f	437	294
+Chaetozone	setosa	Malmgren, 1867	t	438	295
+Aphelochaeta	marioni	(de Saint Joseph, 1894)	t	439	296
+Dodecaceria	concharum	Oersted, 1843	t	440	299
+Dodecaceria	caulleryi	Oersted, 1843	f	441	299
+Macrochaeta	clavicornis	Sars, 1835	t	442	300
+Ctenodrilus	serratus	(Schmidt, 1857)	t	443	301
+Streblospio	benedicti	Webster, 1879	t	444	302
+Streblospio	shrubsolii		f	445	302
+Flabelligera	affinis	Sars, 1829	t	446	303
+Pherusa	eruca	(de Claparède, 1870)	t	447	304
+Stylarioides	eruca		f	448	304
+Pherusa	plumosa	(O.F. Müller, 1776)	t	449	305
+Pherusa	monilifera	Delle Chiaje, 1841	t	450	306
+Stylarioides	monolifer		f	451	306
+Sclerocheilus	minutus	Grube, 1863	t	452	23
+Scalibregma	celticum	Mackie, 1991	t	453	307
+Scalibregma	inflatum		f	454	307
+Asclerocheilus	intermedius	(de Saint-Joseph, 1894)	t	455	308
+Diplocirrus	glaucus	(Malmgren, 1867)	t	456	309
+Ophelia	bicornis	de Savigny, 1818	t	457	310
+Ophelia	radiata	(Delle Chiaje, 1828)	t	458	311
+Ophelia	neglecta	Schneider, 1887	t	459	312
+Ophelia	roscoffensis	Augener, 1910	t	460	313
+Ophelia	limacina		f	461	313
+Ophelia	rathkei	McIntosh, 1908	t	462	8
+Ophelia	celtica	Amoureux & Dauvin, 1981	t	463	400
+Armandia	polyophthalma	Kükenthal, 1887	t	464	314
+Polyophthalmus	pictus	(Dujardin, 1939)	t	465	315
+Travisia	forbesii	Johnston, 1840	t	466	317
+Arenicola	marina	(Linnaeus, 1767)	t	467	318
+Arenicolides	ecaudata	Johnston, 1865	t	468	320
+Arenicola	ecaudata		f	469	320
+Arenicolides	branchialis	Audouin & Milne-Edwards, 1833	t	470	321
+Arenicola	grubii		f	471	321
+Euclymene	lumbricoides	de Quatrefages, 1866	t	472	322
+Clymene (Euclymene)	lumbricoides		f	473	322
+Euclymene	oerstedii	de Claparède, 1863	t	474	324
+Clymene (Euclymene)	oerstedii		f	475	324
+Clymenella	cincta	de Saint-Joseph, 1894	t	476	325
+Johnstonia	clymenoides	de Quatrefages, 1866	t	477	326
+Clymenura	clypeata	de Saint-Joseph, 1894	t	478	327
+Leiochone	clypeata		f	479	327
+Micromaldane	ornithochaeta	Mesnil, 1897	t	480	9
+Proclymene	muelleri	(Sars, 1897)	t	481	328
+Proclymene	mulleri		f	482	328
+Praxillella	affinis	Sars, 1872	t	483	329
+Petaloproctus	terricola	de Quatrefages, 1866	t	484	330
+Owenia	fusiformis	Delle Chiaje, 1842	t	485	332
+Galathowenia	oculata	(Zachs, 1922)	t	486	333
+Myriochele	sp.		f	487	333
+Myriochele	heeri	Malmgren, 1867	t	488	297
+Mediomastus	fragilis	Rasmussen, 1973	t	489	334
+Notomastus	latericeus	Sars, 1851	t	490	335
+Heteromastus	filiformis	(de Claparède, 1864)	t	491	17
+Capitella	giardi	(Mesnil, 1897)	t	492	336
+Capitella	capitata	(Fabricius, 1780)	t	493	319
+Capitella	minima	Langerhans,1881	t	494	16
+Capitomastus	minimus	(Langerhans,1881)	f	495	16
+Cossura	pygodactylata	Jones, 1956	t	496	10
+Cossura	soyeri		f	497	10
+Sabellaria	alveolata	(Linnaeus, 1767)	t	498	337
+Sabellaria	spinulosa	(Leuckart, 1849)	t	499	340
+Lygdamis	muratus	(Allen, 1904)	t	500	341
+Pallasia	murata		f	501	341
+Pectinaria (Lagis)	koreni	(Malmgren, 1866)	t	502	342
+Pectinaria (Amphictene)	auricoma	(Müller, 1776)	t	503	343
+Ampharete	baltica	Eliason, 1962	t	504	401
+Ampharete	grubei		f	505	401
+Amphicteis	gunneri	(Sars, 1835)	t	506	344
+Melinna	cristata	(Sars, 1835)	t	507	291
+Melinna	palmata	Grube, 1869	t	508	346
+Neoamphitrite	edwardsii	(de Quatrefages, 1866)	t	509	347
+Amphitrite	edwardsi		f	510	347
+Amphitritides	gracilis	(Grube, 1860)	t	511	348
+Amphitrite	gracilis		f	512	348
+Neoamphitrite	figulus	(Dallyel, 1853)	t	513	349
+Amphitrite	johnstoni		f	514	349
+Terebella	lapidaria	(Linnaeus, 1767)	t	515	350
+Lanice	conchilega	Pallas, 1778	t	516	354
+Eupolymnia	nebulosa	(Montagu, 1818)	t	517	357
+Polymnia	nebulosa		f	518	357
+Eupolymnia	nesidensis	(Delle Chiaje, 1828)	t	519	358
+Nicolea	venustula	(Montagu, 1818)	t	520	360
+Pista	maculata	(Dallyel, 1853)	t	521	361
+Pista	cretacea	(Grube, 1860)	t	522	24
+Pista	cristata	(Müller, 1776)	t	523	362
+Thelepus	cincinnatus	(Fabricius, 1780)	t	524	363
+Thelepus	setosus	(de Quatrefages, 1866)	t	525	364
+Thelepus	triserialis		t	526	365
+Streblosoma	bairdi	(Malmgren, 1866)	t	527	366
+Polycirrus	aurantiacus	Grube, 1860	t	528	367
+Polycirrus	caliendrum	de Claparède, 1868	t	529	353
+Polycirrus	tenuisetis	Langerhans, 1880	t	530	351
+Polycirrus	denticulatus	Langerhans, 1880	t	531	19
+Polycirrus	haematodes	de Calparède, 1864	t	532	338
+Trichobranchus	glacialis	Malmgren, 1866	t	533	25
+Terebellides	stroemii	Sars, 1835	t	534	368
+Terebellides	stroemi		f	535	368
+Psammodrilus	balanoglossoides	Swedmark, 1852	t	536	339
+Psammodriloides	fauveli	Swedmark, 1958	t	537	355
+Sabella	pavonina	de Savigny, 1822	t	538	370
+Sabella	spallanzanii	Gmelin, 1788	t	539	373
+Spirographis	spallanzanii		f	540	373
+Bispira	volutacornis	(Montagu, 1804)	t	541	374
+Pseudopotamilla	reniformis	(Bruguière, 1789)	t	542	376
+Potamilla	reniformis		f	543	376
+Perkinsiana	rubra	(Langerhans, 1880)	t	544	377
+Potamilla	torelli		f	545	377
+Megalomma	vesiculum	(Montagu, 1815)	t	546	378
+Branchiomma	vesiculosum		f	547	378
+Sabella	discifera	(Grube, 1874)	t	548	379
+Branchiomma	linaresi		f	549	379
+Branchiomma	bombyx	(Dallyel, 1853)	t	550	380
+Dasychone	bombyx		f	551	380
+Branchiomma	lucullanum	(Delle Chiaje, 1828)	t	552	382
+Dasychone	lucullana		f	553	382
+Amphiglena	mediterranea	(Leydig, 1851)	t	554	384
+Fabricia	stellaris stellaris	(O.F. Müller, 1774)	t	555	385
+Fabricia	sabella		f	556	385
+Manayunkia	aestuarina	Bourne, 1883	t	557	386
+Oridia	armandi		f	558	387
+Oriopsis	metchnikowi	Caullery & Mesnil, 1896	t	559	331
+Jasmineira	elegans	de Saint-Joseph, 1894	t	560	375
+Jasmineira	caudata	Langerhans,1880	t	561	13
+Euchone	rubrocincta	(Sars, 1861)	t	562	189
+Chone	infundibuliformis		t	563	298
+Chone	filicaudata	Southern, 1914	t	564	316
+Myxicola	infundibulum	(Renier, 1804)	t	565	388
+Myxicola	aesthetica	(de Claparède, 1870)	t	566	389
+Serpula	vermicularis	Linnaeus, 1767	t	567	390
+Hydroides	norvegicus	(Gunnerus, 1768)	t	568	391
+Vermiliopsis	infundibulum	(Gmelin, 1788)	t	569	392
+Vermiliopsis	striaticeps	(Grube, 1862)	t	570	393
+Vermiliopsis	langerhansi		f	571	393
+Pomatoceros	triqueter	(Linnaeus, 1767)	t	572	352
+Pomatoceros	lamarcki	(de Quatrefages, 1866)	t	573	381
+Filograna	implexa	M. Berkeley, 1828	t	574	394
+Salmacina	dysteri	(Huxley, 1855)	t	575	396
+Josephella	marenzelleri	Caullery & Mesnil, 1896	t	576	397
+Protula	tubularia	(Montagu, 1803)	t	577	371
+Protula	intestinum	(Savigny, 1818)	t	578	372
+Apomatus	similis	(Marion & Bobretzky, 1875)	t	579	323
+Paralaeospira	vitrea	(Fabricius, 1780)	t	580	398
+Paradexiospira	vitrea		f	581	398
+Circeis	spirillum	(Linneaus, 1758)	t	582	399
+Dexiospira	spirilla		f	583	399
+Circeis	armoricana	de Saint-Joseph, 1894	t	584	12
+Janua (Dexiospira)	pagenstecheri	(de Quatrefages, 1866)	t	585	402
+Dexiospira	pagenstecheri		f	586	402
+Dexiospira	pusilloides		f	587	402
+Neodexiospira	pseudocorrugata	(Bush, 1904)	t	588	359
+Dexiospira	corrugata		f	589	359
+Leodora	laevis	de Quatrefages, 1866	t	590	403
+Spirorbis (Leodora)	laevis		f	591	403
+Spirorbis	spirorbis	Linnaeus, 1758	t	592	404
+Spirorbis (Laeospira)	borealis		f	593	404
+Paralaeospira	malardi	Linnaeus, 1758	t	594	405
+Protolaeospira	striata	(Quièvreux, 1963)	t	595	406
+Paralaeospira	striata		f	596	406
+Pileolaria	militaris	(de Claparède, 1868)	t	597	407
+Spirorbis (Laeospira)	mediterraneus		f	598	407
+Spirorbis (Laeospira)	militaris	(de Claparède, 1868)	f	599	407
+Spirorbis	inornatus	L'Hardy & Quiévreux, 1962	t	600	408
+Spirorbis (Laeospira)	inornatus		f	601	408
+Spirorbis (Laeospira)	corallinae f. reptans	L'Hardy & Quiévreux, 1962	f	602	408
+Spirorbis	rupestris	Gee & Knight-Jones, 1962	t	603	395
+Spirorbis (Laeospira)	rupestris		f	604	395
+Spirorbis (Laeospira)	cornu-arietis		f	605	383
+Laeospira	cornuarietis		t	606	383
+Jugaria	granulata	(Linneaus, 1767)	t	607	409
+Spirorbis	granulata	(Linnaeus, 1767)	f	608	409
+Spirorbis	tridentatus	Levinsen, 1883	t	609	410
+Spirorbis (Laeospira)	tridentatus		f	610	410
+Spirorbis	corallinae forma scandens	L'Hardy & Quiévreux, 1962	t	611	356
+Spirorbis	corallinae		f	612	356
+Eulalia	splendens		t	613	369
+Eulalia	rubiginosa		t	614	267
+Praxillura	longissima	Arwidsson, 1906	t	615	283
+Spio	filicornis	(O.F. Müller, 1766)	f	616	278
+Protodrilus	adhaerens gracilis	Jouin in Cabioch, L'Hardy & Rullier, 1968	t	617	31
+Acidostoma	obesum	(Bate et Westwood, 1861)	t	618	529
+Cheirocratus	sundevallii	(Rathke, 1843)	t	619	505
+Hyale	nilssoni var. stebbingi	Chevreux, 1888		620	536
+Acidostoma	laticorne	Sars, 1879	f	621	529
+Perrierella	audouiniana	(Bate, 1857)	t	622	429
+Normanion	chevreuxi	Diviacco & Vader, 1988	t	623	426
+Normanion	quadrimanus	(Bate & Westwood, 1868)	f	624	426
+Nannonyx	goesi	(Boeck, 1871)	t	625	430
+Lysianassa	ceratina	(Walker, 1889)	t	626	432
+Lysianassa	plumosa	Boeck, 1871	t	627	433
+Ichnopus	spinicornis	Boeck, 1861	t	628	419
+Socarnes	erythrophthalmus	Robertson, 1892	t	629	434
+Hippomedon	denticulatus	(Bate, 1857)	t	630	435
+Orchomene	humilis	(Costa, 1853)	t	631	436
+Orchomene	similis	Chevreux, 1912	t	632	437
+Tryphosella	sarsi	Bonnier, 1893	t	633	413
+Orchomenella	nana	(Kröyer, 1846)	t	634	438
+Tryphosa	grandimana	Chevreux & Fage, 1925 	f	635	413
+Ampelisca	brevicornis	(Costa, 1853)	t	636	439
+Ampelisca	spinipes	Boeck, 1860	t	637	440
+Ampelisca	spinimana	Chevreux, 1887	t	638	441
+Ampelisca	tenuicornis	Liljeborg, 1855	t	639	442
+Ampelisca	typica	(Bate, 1856)	t	640	443
+Ampelisca	sarsi	Chevreux, 1887	t	641	444
+Ampelisca	spooneri	Dauvin & Bellan-Santini 1982	t	642	445
+Ampelisca	armoricana	Bellan-Santini & Dauvin 1981	t	643	446
+Ampelisca	diadema	Dauvin & Gentil 1979	t	644	447
+Bathyporeia	guilliamsoniana	(Bate, 1856)	t	645	448
+Bathyporeia	elegans	Watkin, 1938	t	646	449
+Bathyporeia	pelagica	(Bate, 1856)	t	647	451
+Bathyporeia	tenuipes	Meinert, 1877	t	648	415
+Bathyporeia	pilosa	Lindström, 1855	t	649	416
+Bathyporeia	sarsi	Watkin, 1938	t	650	425
+Haustorius	arenarius	(Slabber, 1769)	t	651	452
+Monoculodes	tuberculatus	Boeck, 1871	t	652	422
+Urothoe	marina	(Bate, 1857)	t	653	423
+Urothoe	pulchella	(Costa, 1853)	t	654	453
+Urothoe	poseidonis	Reibish, 1905	t	655	455
+Urothoe	grimaldii	Chevreux, 1895	t	656	454
+Urothoe	grimaldii var. poseidonis	Reibish, 1905	f	657	455
+Urothoe	brevicornis	Bate, 1861	t	658	456
+Urothoe	elegans	Bate, 1856	t	659	457
+Parametaphoxus	fultoni	(Scott, 1890)	f	660	458
+Metaphoxus	fultoni	(Scott, 1890)	t	661	458
+Harpinia	crenulata	(Boeck, 1871)	t	662	459
+Harpinia	pectinata	Sars, 1891	t	663	420
+Amphilochus	neapolitanus	Della Valle, 1893	t	664	460
+Amphilochus	spencebatei	(Stebbing, 1876)	t	665	461
+Peltocoxa	damnoniensis	(Stebbing, 1855)	t	666	469
+Peltocoxa	marioni	Catta, 1875	f	667	469
+Peltocoxa	brevirostris	(Scott & Scott, 1893)	t	668	463
+Amphilochus	manudens	Bate, 1862	t	669	464
+Gitana	sarsi	Boeck, 1871	t	670	465
+Leucothoe	spinicarpa	(Abildgaard, 1789)	t	671	466
+Leucothoe	incisa	Robertson, 1892	t	672	470
+Leucothoe	lilljeborgi	Bate, 1861	t	673	471
+Leucothoe	procera	Bate, 1857	t	674	472
+Stenula	rubrovittata	(Sars, 1882)	t	675	473
+Stenothoides	latipes	Chevreux & Fage, 1925	f	676	473
+Metopa	rubrovittata	Sars, 1882	f	677	473
+Stenothoe	eduardi	Krapp-Schickel, 1976	t	678	462
+Stenothoe	cattai	Stebbing, 1906)	f	679	462
+Stenothoe	monoculoides	(Montagu, 1815)	t	680	467
+Stenothoe	tergestina	(Nebeski, 1881)	t	681	468
+Stenothoe	spinimana	Chevreux & Fage, 1925	f	682	468
+Parametopa	kervillei	Chevreux, 1901	t	683	474
+Stenothoe	ascidiae	(Pirlot, 1933)	t	684	475
+Microstenothoe	ascidiae	Pirlot, 1933	f	685	475
+Colomastix	pusilla	Grube, 1861	t	686	476
+Iphimedia	minuta	Sars, 1882	t	687	477
+Iphimedia	eblanae	Bate, 1857	t	688	478
+Panoplea	minuta	(Sars, 1882)	f	689	477
+Panoplea	eblanae	(Bate, 1857)	f	690	478
+Iphimedia	nexa	Myers & Mc Grath, 1987	t	691	479
+Iphimedia	obesa	Rathke, 1843	t	692	480
+Iphimedia	perplexa	Myers & Costello, 1987	t	693	481
+Iphimedia	spatula	Myers & Mc Grath, 1987	t	694	482
+Liljeborgia	kinahani	(Bate, 1862)	t	695	450
+Listriella	picta	(Norman, 1889)	t	696	483
+Idunella	picta	Norman, 1889	f	697	483
+Sextonia	longirostris	Chevreux, 1920	t	698	484
+Liljeborgia	pallida	(Bate, 1857)	t	699	485
+Listriella	dentipalma	Dauvin & Gentil 1983	t	700	486
+Listriella	spinifera	Dauvin & Gentil 1983	t	701	427
+Perioculodes	longimanus	(Bate & Westwood, 1862)	t	702	487
+Pontocrates	arenarius	(Bate, 1858)	t	703	489
+Pontocrates	norvegicus	Boeck, 1871	f	704	489
+Monoculodes	carinatus	(Bate, 1856)	t	705	488
+Monoculodes	subnudus	Norman, 1889	t	706	421
+Tmetonyx	similis	(Sars, 1891)	t	707	599
+Pontocrates	altamarinus	(Bate & Westwood, 1862)	t	708	490
+Synchelidium	haplocheles	(Grube, 1864)	t	709	491
+Synchelidium	maculatum	Stebbing, 1906	t	710	414
+Apherusa	bispinosa	(Bate, 1856)	t	711	492
+Apherusa	cirrus	(Bate, 1862)	t	712	494
+Apherusa	jurinei	(Milne-Edwards, 1830)	t	713	495
+Apherusa	ovalipes	Norman & Scott, 1906	t	714	496
+Calliopius	laeviusculus	(Kröyer, 1838)	t	715	497
+Atylus	guttatus	(Costa, 1851)	t	716	498
+Nototropis	guttatus	(Costa, 1851)	f	717	498
+Atylus	swammerdami	(Milne-Edwards, 1830)	t	718	499
+Nototropis	swammerdami	(Milne-Edwards, 1830)	f	719	499
+Nototropis	falcatus	(Metzger, 1871)	f	720	500
+Atylus	falcatus	Metzger, 1871	t	721	500
+Atylus	vedlomensis	(Bate & Westwood, 1862)	t	722	501
+Eusirus	longipes	Boeck, 1861	t	723	502
+Gammarellus	angulosus	(Rathke, 1843)	t	724	503
+Eriopisella	pusilla	Chevreux, 1920	t	725	504
+Megaluropus	agilis	Hoeck, 1889	t	726	506
+Melita	palmata	(Montagu, 1804)	t	727	507
+Melita	hergensis	Reid, 1939	t	728	508
+Melita	obtusata	(Montagu, 1813)	t	729	509
+Melita	gladiosa	Bate, 1862	t	730	510
+Ceradocus	semiserratus	(Bate, 1862)	t	731	511
+Maera	othonis	(Milne-Edwards, 1830)	t	732	512
+Maera	grossimana	(Montagu, 1808)	t	733	513
+Maera	inaequipes	(Costa, 1857)	t	734	514
+Maerella	tenuimana	(Bate, 1862)	t	735	515
+Elasmopus	rapax	Costa, 1853	t	736	516
+Gammarella	fucicola	(Leach, 1814)	t	737	517
+Pherusa	fusicola	Leach, 1814	f	738	517
+Gammarus	chevreuxi	Sexton, 1913	t	739	518
+Gammarus	locusta	(Linnaeus, 1758)	t	740	519
+Gammarus	duebeni	Lilljeborg, 1852	t	741	520
+Gammarus	salinus	Spooner, 1947	t	742	521
+Gammarus	zaddachi s. sp. salinus	Spooner, 1947	f	743	521
+Gammarus	zaddachi s. sp. oceanica	Segersträle, 1947	f	744	522
+Gammarus	marinus	Leach, 1815	t	745	523
+Marinogammarus	marinus	(Leach, 1815)	f	746	523
+Marinogammarus	obtusatus	(Dahl, 1938)	f	747	524
+Gammarus	obtusatus	Dahl, 1938	t	748	524
+Gammarus	zaddachi	Sexton, 1912	t	749	412
+Dexamine	spinosa	(Montagu, 1813)	t	750	525
+Dexamine	thea	Boeck, 1861	t	751	526
+Tritaeta	gibbosa	(Bate, 1862)	t	752	527
+Guernea	coalita	(Norman, 1868)	t	753	528
+Talitrus	saltator	(Montagu, 1808)	t	754	531
+Orchestia	mediterranea	Costa, 1857	t	755	532
+Orchestia	gammarella	(Pallas, 1766)	t	756	533
+Talorchestia	deshayesii	(Audouin, 1826)	t	757	534
+Hyale	prevostii	(Milne-Edwards, 1830)	t	758	535
+Hyale	nilssoni	Rathke, 1843	f	759	535
+Hyale	stebbingi	Chevreux, 1888	t	760	536
+Hyale	pontica	Rathke, 1837	t	761	537
+Hyale	perieri	(Lucas, 1846)	t	762	538
+Aora	gracilis	(Bate, 1857)	t	763	539
+Aora	typica	Kröyer, 1845	f	764	539
+Microdeutopus	chelifer	(Bate, 1862)	t	765	540
+Microdeutopus	damnoniensis	(Bate, 1856)	t	766	541
+Microdeutopus	stationis	Della Valle, 1893	t	767	542
+Microdeutopus	versiculatus	(Bate, 1856)	t	768	543
+Coremapus	versiculatus	Bate, 1856	f	769	543
+Lembos	websteri	Bate, 1856	t	770	544
+Uncinotarsus	pellucidus	L'Hardy & Truchot, 1964	t	771	545
+Microprotopus	longimanus	Chevreux, 1887	t	772	546
+Microprotopus	maculatus	Norman, 1867	t	773	547
+Gammaropsis	maculata	(Johnston, 1828)	t	774	548
+Eurystheus	maculatus	(Johnston, 1828)	f	775	548
+Megamphopus	cornutus	Norman, 1889	t	776	549
+Leptocheirus	hirsutimanus	(Bate, 1862)	t	777	550
+Leptocheirus	pectinatus	(Norman, 1869)	t	778	551
+Leptocheirus	bispinosus	Norman, 1908	t	779	552
+Leptocheirus	tricristatus	(Chevreux, 1886)	t	780	553
+Microdeutopus	anomalus	(Rathke, 1843)	t	781	554
+Unciola	crenatipalma	(Bate, 1855)	t	782	418
+Isaea	elmhirsti	Patience, 1909	t	783	530
+Isaea	montagui	Milne-Edwards, 1830	t	784	555
+Gammaropsis	palmata	(Stebbing & Robertson, 1891)	t	785	556
+Amphithoe	vaillanti	Lucas	f	786	557
+Ampithoe	ramondi	(Audouin, 1826)	t	787	557
+Ampithoe	rubricata	(Montagu, 1808)	t	788	558
+Ampithoe	gammaroides	(Bate, 1856)	t	789	559
+Pleonexes	gammaroides	(Bate, 1856)	f	790	559
+Sunamphithoe	pelagica	(Milne-Edwards, 1830)	t	791	560
+Amphitholina	cuniculus	(Stebbing, 1874)	t	792	561
+Biancolina	cuniculus	Stebbing, 1874	f	793	561
+Jassa	falcata	(Montagu, 1808)	t	794	562
+Jassa	pusilla	(Sars, 1894)	t	795	563
+Jassa	ocia	(Bate, 1862)	t	796	564
+Parajassa	pelagica	(Leach, 1814)	t	797	565
+Erichthonius	punctatus	(Bate, 1857)	t	798	566
+Erichthonius	brasiliensis	(Dana, 1852)	f	799	566
+Erichthonius	difformis	Milne-Edwards, 1830	t	800	567
+Ischyrocerus	anguipes	Kröyer, 1838	t	801	424
+Siphonoecetes	dellavallei	Stebbing, 1899	f	802	568
+Siphonoecetes	kroyeranus	Bate, 1856	t	803	568
+Corophium	volutator	(Pallas, 1766)	t	804	569
+Corophium	arenarium	Crawford, 1937	t	805	570
+Corophium	acutum	Chevreux, 1908	t	806	571
+Corophium	crassicorne	Bruzelius, 1859	t	807	572
+Corophium	acherusicum	(Costa, 1851)	t	808	573
+Corophium	bonellii	(Milne-Edwards, 1830)	t	809	574
+Corophium	sextonae	Crawford, 1937	t	810	417
+Siphonoecetes	striatus	Myers & Mc Grath, 1979	t	811	575
+Chelura	terebrans	Philippi, 1839	t	812	576
+Podocerus	variegatus	Leach, 1814	t	813	577
+Dyopedos	monacantha	(Metzger, 1875)	t	814	431
+Dyopedos	porrectus	Bate, 1857	t	815	428
+Hyperia	galba	(Montagu, 1813)	t	816	578
+Parathemisto	oblivia	(Kröyer, 1842)	t	817	579
+Phtisica	marina	Slabber, 1749	t	818	580
+Pseudoprotella	phasma	(Montagu, 1804)	t	819	581
+Pariambus	typicus	(Kröyer, 1844)	t	820	582
+Caprella	acanthifera	Leach, 1814	t	821	583
+Caprella	acutifrons	Latreille, 1816	t	822	584
+Caprella	linearis	(Linnaeus, 1767)	t	823	585
+Caprella	fretensis	Stebbing, 1906	t	824	586
+Caprella	erethizon	Mayer, 1901	t	825	587
+Caprella	tuberculata	Bate & Westwood, 1862	t	826	588
+Argissa	hamatipes	(Norman, 1869)	t	827	589
+Cressa	dubia	(Bate, 1857)	t	828	590
+Melphidipella	macra	(Norman, 1869)	t	829	591
+Lysianassa	sp.	inconnu	t	830	592
+Lysianassa	insperata	Lincoln, 1979	t	831	593
+Lepidepecreum	longicorne	(Bate & Westwood, 1861)	t	832	594
+Orchomenella	crenata	(Chevreux, 1925)	t	833	596
+Socarnes	filicornis	Heller, 1866	t	834	597
+Scopelocheirus	hopei	(Costa, 1851)	t	835	598
+Tryphosella	horingi	(Boeck, 1871)	t	836	600
+Tryphosella	minima	(Chevreux, 1911)	t	837	601
+Tryphosites	longipes	(Bate & Westwood, 1861)	t	838	602
+Cheirocratus	assimilis	(Lilljeborg, 1852)	t	839	603
+Cheirocratus	intermedius	Sars, 1894	t	840	604
+Photis	longicaudata	(Bate & Westwood, 1862)	t	841	605
+Stenopleustes	nodifer	(Sars, 1882)	t	842	606
+Bathyporeia	nana	Toulmond, 1966	t	843	607
+Stenothoe	marina	(Bate, 1856)	t	844	608
+Austrosyrrhoe	fimbriatus	(Stebbing & Robertson, 1891)	t	845	609
+Anonyx	sp.	inconnu	t	846	595
+Apherusa	clevei	Sars, 1904	t	847	493
+Gammarus	oceanicus	Segersträle, 1947	t	848	522
+Gammarus	crinicornis	Stock, 1966	t	849	610
+Bathyporeia	gracilis	Sars, 1891	t	850	611
+Schizoporella	unicornis	(Johnston in Wood, 1844)	t	851	682
+Aetea	anguinea	(Linnaeus, 1758)	t	852	622
+Aetea	truncata	(Landsborough, 1852)	t	853	623
+Aetea	recta	Hincks	f	854	624
+Aetea	sica	(Couch, 1844)	t	855	624
+Scruparia	chelata	(Linnaeus, 1758)	t	856	625
+Scruparia	ambigua	(d'Orbigny, 1841)	t	857	626
+Membranipora	membranacea	(Linnaeus, 1758)	t	858	629
+Conopeum	lacroixii	(Busk)	f	859	630
+Conopeum	reticulum	(Linnaeus, 1758)	t	860	630
+Electra	pilosa	(Linnaeus, 1758)	t	861	631
+Electra	hastingsae	Marcus	f	862	632
+Electra	monostachys	(Busk, 1854)	t	863	632
+Electra	verticillata	(Ellis & Scolander, 1786)	t	864	633
+Pyripora	catenularia	(Fleming, 1828)	t	865	634
+Flustra	foliacea	(Linnaeus, 1758)	t	866	635
+Flustra (Chartella)	papyracea	(Ellis & Scolander, 1786)	t	867	636
+Carbasea	calveti	(Guérin-Ganivet)	f	868	618
+Terminoflustra	calveti	(Guérin-Gavinet, 1911)	t	869	618
+Carbasea	carbasea	(Ellis & Scolander, 1786)	t	870	619
+Hincksina	flustroides	(Hincks, 1877)	t	871	620
+Cauloramphus	spinifer	(Johnston)	f	872	638
+Cauloramphus	spiniferum	(Johnston, 1832)	t	873	638
+Alderina	solidula	(Hincks)	f	874	612
+Crassimarginatella	solidula	(Hincks, 1860)	t	875	612
+Callopora	lineata	(Linnaeus, 1767)	t	876	639
+Callopora	rylandi	Bobin & Prenant, 1965	t	877	640
+Callopora	dumerilii	(Audouin, 1826)	t	878	641
+Copidozoum	curvirostre	(Hincks)	f	879	642
+Parellisina	curvirostris	(Hincks, 1862)	t	880	642
+Amphiblestrum	flemingii	(Busk, 1854)	t	881	643
+Micropora	coriacea	(Johnston, 1847)	t	882	644
+Micropora	complanata	(Norman)	f	883	645
+Watersipora	complanata	(Norman, 1864)	t	884	645
+Cellaria	fistulosa	(Linnaeus, 1758)	t	885	646
+Cellaria	sinuosa	(Hassall, 1841)	t	886	647
+Cellaria	salicornioides	Lamouroux, 1816	t	887	648
+Bugula	turbinata	Alder, 1857	t	888	649
+Bugula	neritina	(Linnaeus, 1758)	t	889	650
+Bugula	simplex	Hincks, 1886	t	890	651
+Bugula	stolonifera	Ryland, 1960	t	891	652
+Bugula	prenanti	Castric-Fey, 1971	t	892	653
+Bugula	flabellata	(J.V. Thompson)	f	893	654
+Bugula	angustiloba	(Lamark, 1816)	t	894	654
+Bugula	plumosa	(Pallas, 1766)	t	895	655
+Scrupocellaria	scruposa	(Linnaeus, 1758)	t	896	656
+Scrupocellaria	scrupea	Busk, 1852	t	897	657
+Scrupocellaria	reptans	Linnaeus, 1758	t	898	660
+Caberea	boryi	(Audouin, 1826)	t	899	661
+Caberea	ellisii	(Fleming, 1814)	t	900	662
+Bicellariella	ciliata	(Linnaeus, 1758)	t	901	665
+Bicellariella	alderi	(Busk, 1859)	t	902	666
+Beania	mirabilis	(Jonston, 1840)	t	903	667
+Cribilina	punctata	(Hassall)	f	904	668
+Cribrilina	punctata	(Hassall, 1841)	t	905	668
+Membraniporella	nitida	(Jonston, 1838)	t	906	669
+Cribrilaria	radiata	(Moll)	f	907	670
+Puellina	radiata	(Moll, 1803)	t	908	670
+Corallina	balzaci	(Audouin, 1826)	t	909	671
+Puellina	venusta	Canu & Bassler, 1925	t	910	672
+Puellina	innomita	(Couch, 1844)	t	911	673
+Figularia	figularis fissa	Hincks	f	912	621
+Figularia	figularis	(Johnston, 1847)	t	913	621
+Hippothoa	divaricata	Lamouroux, 1821	t	914	613
+Hippothoa	hyalina	(Linné)	f	915	674
+Celleporella	hyalina	(Linnaeus, 1767)	t	916	674
+Hippothoa	flagellum	Manzoni, 1870	t	917	675
+Celleporella	angusta	Alvarez, 1991	t	918	658
+Chorizopora	brongniartii	(Audouin, 1826)	t	919	659
+Haplopoma	impressum	(Audouin, 1826)	t	920	676
+Haplopoma	graniferum	(Johnston, 1847)	t	921	677
+Arthropoma	cecilii	(Audouin)	f	922	678
+Artheopoma	cecilii	(Audouin, 1826)	t	923	678
+Schizomavella	auriculata	(Hassall, 1842)	t	924	681
+Schizoporella	longirostris	Hincks, 1886	t	925	683
+Schizomavella	cuspidata	(Hincks, 1880)	t	926	684
+Schizomavella	sarniensis	Hayward & Thorpe, 1995	t	927	685
+Schizomavella	hastata	(Hincks, 1862)	t	928	686
+Schizomavella	discoidea	(Busk, 1859)	t	929	687
+Schizopodrella	linearis	(Hassall)	f	930	688
+Schizomavella	linearis	(Hassall, 1841)	t	931	688
+Schizoporella	spinifera	(Johnston)	f	932	689
+Phaeostachys	spinifera	(Johnston, 1847)	t	933	689
+Stephanosella	biaperta	(Michelin)	f	934	690
+Buffonelaria	divergens	(Smitt, 1873)	t	935	690
+Schizobrachiella	sanguinea	(Norman, 1868)	t	936	691
+Schizolavella	vulgaris	(Moll)	f	937	692
+Escharina	vulgaris	(Moll, 1803)	t	938	692
+Cryptosula	palliasana	(Moll, 1803)	t	939	693
+Hippodiplosia	pertusa	(Esper)	f	940	614
+Hippoporina	pertusa	(Esper, 1796)	t	941	614
+Hippodiplosia	foliacea	(Ellis & Solander)	f	942	694
+Pentapora	fascialis foliacea	(Pallas, 1766)	t	943	694
+Escharoides	coccinea	(Abildgaard, 1806)	t	944	695
+Microporella	ciliata	(Pallas, 1766)	t	945	696
+Fenestrunila	malusii	(Audouin, 1826)	t	946	697
+Smittina	landsborovii	(Johnston, 1847)	t	947	698
+Smittina	reticulata	(Mac Gillivray, 1842)	t	948	699
+Smittina	trispinosa	(Johnston, 1838)	t	949	700
+Smittina	cheilostoma	(Manzoni, 1869)	t	950	701
+Mucronella	peachii	(Johnston)	f	951	616
+Escharella	immersa	(Flemming, 1828)	t	952	616
+Mucronella	variolosa	(Johnston)	f	953	627
+Escharella	variolosa	(Johnston, 1838)	t	954	627
+Mucronella	ventricosa	(Hassall)	f	955	663
+Escharella	ventricosa	(Hassall, 1842)	t	956	663
+Palmicellaria	skenei	(Ellis & Solander)	f	957	664
+Palmiskenea	skenei	(Ellis & Scolander, 1786)	t	958	664
+Umbonula	verrucosa	(Esper)	f	959	702
+Umbonula	ovicellata	Hastings, 1944	t	960	702
+Umbonula	verrucosa	(Esper)	f	961	615
+Umbonula	littoralis	Hastings, 1944	t	962	615
+Porella	concinna	(Busk, 1854)	t	963	703
+Porella	cervicornis		t	964	704
+Porella	compressa	(Sowerby, 1805)	t	965	705
+Retepora	couchii	Hincks	f	966	706
+Reteporella	couchii	(Hincks, 1818)	t	967	706
+Rhynchozoon	bispinosum	(Johnston, 1847)	t	968	707
+Schizotheca	fissa	(Busk, 1856)	t	969	708
+Schizotheca	divisa	(Norman, 1864)	t	970	709
+Adeona	violacea	(Johnston)	f	971	710
+Reptadeonella	violacea	(Johnston, 1847)	t	972	710
+Microspongium	globosum	Reinke	t	1389	1021
+Reptadeonella	insidiosa	(Jullien, 1903)	t	973	711
+Alysidotella	labrosa	(Busk)	f	974	712
+Phyllactella	labrosa	(Busk, 1854)	t	975	712
+Mastigophora	simplex	(Johnston)	f	976	713
+Escharina	johnstoni	(Quelch, 1847)	t	977	713
+Schismopora	pumicosa	(Linné)	f	978	714
+Cellepora	pumicosa	(Pallas, 1766)	t	979	714
+Schismopora	avicularis	(Hincks)	f	980	715
+Tubicellepora	incrassata	(Lamark, 1816)	t	981	715
+Schismopora	dichotoma	(Hincks)	f	982	716
+Buskea	dichotoma	(Hincks, 1862)	t	983	716
+Costazia	costazii	(Audouin)	f	984	717
+Celleporina	hassallii	(Johnston, 1847)	t	985	717
+Omalosecosa	ramulosa	(Linnaeus, 1767)	t	986	719
+Hippoporidra	edax	(Busk, 1859)	t	987	720
+Flustrella	hispida	(Fabricius, 1758)	t	988	721
+Alcyonidium	polyoum	(Hassall, 1841)	t	989	722
+Alcyonidium	gelatinosum	(Linnaeus, 1767)	t	990	723
+Alcyonidium	"mytili"	Dalyell, 1848	t	991	724
+Alcyonidium	hirsutum	(Fleming, 1828)	t	992	725
+Nolella	dilatata	(Hincks, 1860)	t	993	726
+Arachnidium	fibrosum	Hincks, 1880	t	994	637
+Valkeria	uva	(Linnaeus, 1758)	t	995	727
+Mimosella	gracilis	Hincks, 1851	t	996	728
+Mimosella	verticillata	Heller	f	997	729
+Bantariella	verticillata	(Heller, 1867)	t	998	729
+Hypophorella	expansa	Ehlers, 1876	t	999	730
+Vesicularia	spinosa	(Linnaeus, 1767)	t	1000	731
+Amathia	lendigera	(Linnaeus, 1761)	t	1001	733
+Amathia	vidovici	(Heller, 1867)	t	1002	734
+Bowerbankia	imbricata	(Adams, 1798)	t	1003	735
+Bowerbankia	caudata	Hincks	f	1004	617
+Bowerbankia	gracilis	Leidy, 1855	t	1005	617
+Bowerbankia	pustulosa	(Ellis & Scolander, 1786)	t	1006	736
+Bowerbankia	citrina	(Hincks, 1877)	t	1007	737
+Bowerbankia	gracilima	(Hincks, 1877)	t	1008	738
+Buskia	nitens	Alder, 1857	t	1009	739
+Farella	repens	(Farre, 1837)	t	1010	740
+Penetrantia	sp.		f	1011	741
+Immergentia	sp.		f	1012	742
+Crisidia	cornuta	(Linnaeus, 1758)	t	1013	743
+Filicrisia	geniculata	(Edwards, 1838)	t	1014	744
+Crisia	eburnea	(Linnaeus, 1758)	t	1015	745
+Crisia	aculeata	Hassall, 1841	t	1016	746
+Crisia	denticulata	(Lamark, 1816)	t	1017	747
+Crisia	ramosa		t	1018	628
+Stomatopora	granulata	(Milne-Edwards)	f	1019	748
+Entalophoroecia	granulata	(Couch, 1842)	t	1020	748
+Stomatopora	major	(Johnston)	f	1021	749
+Annectocyma	major	(Johnston, 1847)	t	1022	749
+Tubulipora	dilatans	(Johnston)	f	1023	750
+Oncousoecia	dilatans	(Johnston, 1847)	t	1024	750
+Tubulipora	liliacea	(Pallas, 1766)	t	1025	751
+Tubulipora	flabellaris	(Fabricius, 1780)	t	1026	752
+Tubulipora	plumosa	W. Thompson in Harmer, 1898	t	1027	753
+Tubulipora	lobifera	Hastings, 1963	t	1028	754
+Tubulipora	lobulata		t	1029	755
+Entalophora	deflexa	(Couch)	f	1030	718
+Entalophoroecia	deflexa	(Couch, 1842)	t	1031	718
+Berenicea	patina	(Lamark)	f	1032	732
+Plagioecia	patina	(Lamark, 1816)	t	1033	732
+Berenicea	suborbicularis	(Hincks)	f	1034	756
+Eurystrotos	compacta	(Norman, 1866)	t	1035	756
+Diplosolen	obelia	(Johnston, 1838)	t	1036	757
+Plagioecia	sarniensis	(Norman, 1864)	t	1037	758
+Lichenopora	hispida	(Fleming)	f	1038	759
+Disporella	hispida	(Fleming, 1828)	t	1039	759
+Hornera	lichenoïdes	(Linnaeus)	t	1040	680
+Plagioecia	sarniensis	(Norman, 1864)	t	1041	679
+Ulva	flexuosa	Wulfen	t	1042	823
+Acrochaete	geniculata	(N.L. Gardner) O'Kelly	t	1043	844
+Pseudodictyon	geniculatum	N.L. Gardner	f	1044	844
+Acrosiphonia	arcta	(Dillwyn) Gain	t	1045	764
+Acrosiphonia	centralis	(Lyngbye) Kjellman	f	1046	764
+Acrosiphonia	arctiuscula 	(Kützing) Jónsson	t	1047	767
+Acrosiphonia	spinescens 	(Kützing) Kjellman	t	1048	768
+Blidingia	chadefaudii 	(Feldmann) Bliding	t	1049	770
+Enteromorpha	chadefaudii 	Feldmann	f	1050	770
+Blidingia	marginata	(J.(J. Agardh) P.J.L. Dangeard ex Bliding	t	1051	771
+Enteromorpha	marginata	J. Agardh	f	1052	771
+Blidingia	minima 	(Nägeli ex Kützing) Kylin	t	1053	765
+Bolbocoleon	piliferum 	N. Pringsheim	t	1054	772
+Brachiomonas	submarina 	Bohlin	t	1055	773
+Bryopsis	hypnoides 	J. V. Lamouroux	t	1056	774
+Bryopsis	plumosa	(Hudson) C. Agardh	t	1057	776
+Capsosiphon	fulvescens 	(C. Agardh) Setchell & N.L. Gardner	t	1058	777
+Chaetomorpha	aerea 	(Dillwyn) Kützing	t	1059	778
+Chaetomorpha	implexa	(Harvey) Feldmann	t	1060	779
+Chaetomorpha	melagonium	(F. Weber & D. Mohr) Kützing	t	1061	780
+Chlorochytrium	cohnii 	E.P. Wright	t	1062	781
+Chlorochytrium	lemnae	Cohn	t	1063	782
+Chlorochytrium	willei	Printz	f	1064	782
+Cladophora	albida	(Nees) Kutzing	t	1065	843
+Cladophora	albida var. Refracta	(Hudson) Kützing, Thuret	f	1066	843
+Cladophora	coelothrix	Kützing	t	1067	783
+Cladophora	repens	Harvey	f	1068	783
+Cladophora	dalmatica	Kützing	t	1069	784
+Cladophora	hutchinsiae	(Dillwyn) Kützing	t	1070	760
+Cladophora	rectangularis	 (A.W. Griffiths ex Harvey) Harvey 1846	f	1071	760
+Cladophora	laetevirens	(Dillwyn) Kützing	t	1072	786
+Cladophora	lehmanniana	(Lindenberg) Kützing	t	1073	787
+Cladophora	utriculosa	Kützing	f	1074	787
+Cladophora	sericea	(Hudson) Kützing	t	1075	788
+Cladophora	flexuosa	(Griffiths) Harvey	f	1076	788
+Cladophora	hirta	Kützing	f	1077	788
+Cladophora	glaucescens	(Griffiths) Harvey	f	1078	788
+Cladophora	rudolphiana	(C. Agardh) Harvey	f	1079	788
+Cladophora	rupestris	(Linnaeus) Kützing	t	1080	789
+Cladophora	rupestris var. Nuda	Holmes & Batters	f	1081	789
+Cladophora	pygmaea	Reinke	t	1082	790
+Cladophora	pellucida	(Hudson) Kützing	t	1083	791
+Cladophora	vagabunda	(Linnaeus) Hoek	t	1084	792
+Cladophora	crystallina	(Roth) Kützing	f	1085	792
+Cladophora	expansa	(Mertens) Kützing	f	1086	792
+Cladophora	liebetruthii	Grunow	t	1087	775
+Cladophora	boodleoides	Børgesen 1925: 56-61	f	1088	775
+Cladophora	liniformis	Kützing	t	1089	793
+Entocladia	wittrockii	Wille	t	1090	794
+Ectochaete	wittrockii	Kylin	f	1091	795
+Entocladia	viridis	Reinke	t	1092	795
+Entocladia	leptochaete	(Huber) Burrows	t	1093	796
+Ectochaete	leptochaete	(Huber) Wille	f	1094	796
+Derbesia	tenuissima	(Moris & De Notaris) P.L. Crouan & H.M. Crouan	t	1095	798
+Derbesia	marina	(Lyngbye) Kjellman	t	1096	799
+Codium	vermilara	(Olivi) Chiaje	t	1097	800
+Codium	tomentosum	Stackhouse   	t	1098	802
+Codium	dichotomum	(Hudson) S.F. Gray (d’après de Reviers)	f	1099	802
+Codium	fragile subsp. tomentosoides	(van Goor) P.C. Silva	t	1100	803
+Codium	bursa	(Linnaeus) C. Agardh	t	1101	766
+Codium	adhaerens	C. Agardh	t	1102	762
+Monostroma	obscurum	(Kützing) J. Agardh	t	1103	804
+Monostroma	grevillei	(Thuret) Wittrock	t	1104	805
+Gomontia	polyrhiza	(Lagerheim) Bornet & Flahault	t	1105	806
+Gayralia	oxysperma	(Kützing) K.L. Vinogradova ex Scagel et al.	t	1106	807
+Monostroma	oxyspermum	(Kützing) Doty	f	1107	807
+Epicladia	flustrae	Reinke	t	1108	808
+Rhizoclonium	riparium var. implexum	(Dillwyn) Rosenvinge	t	1109	809
+Rhizoclonium	kerneri	Stockmayer	f	1110	809
+Rhizoclonium	kochianum	Kützing (pro parte)	f	1111	809
+Lola	implexa	(Dillwyn) G. Hamel	f	1112	809
+Ulva	lactuca		f	1113	838
+Rhizoclonium	riparium	(Roth) Harvey	t	1114	810
+Pseudulvella	consociata	Setchell & N.L. Gardner	t	1115	811
+Ulothrix	consociata	Wille	f	1116	811
+Pseudopringsheimia	confluens	(Rosenvinge) Wille	t	1117	812
+Pseudendoclonium	marinum	(Reinke) Aleem & E. Schulz	t	1118	785
+Pringsheimiella	scutata	(Reinke) Höhnel ex Marchewianka	t	1119	763
+Prasiola	stipitata	Suhr ex Jessen	t	1120	813
+Prasiola	calophylla	(Carmichael ex Greville) Kützing	t	1121	814
+Prasinocladus	lubricus	Kuckuck	t	1122	815
+Phaeophila	dendroides	(P.L. Crouan & H.M. Crouan) Batters	t	1123	797
+Percursaria	percursa	(C. Agardh) Rosenvinge	t	1124	816
+Ostreobium	quekettii	Bornet & Flahault	t	1125	817
+Sykidion	droebakense	Wille	t	1126	818
+Rosenvingiella	polyrhiza	(Rosenvinge) P.C. Silva	t	1127	819
+Spongomorpha	aeruginosa	(Linnaeus) Hoek	t	1128	820
+Spongomorpha	lanosa	(Roth) Kützing	f	1129	820
+Ulva	prolifera	O.F. Müller	t	1130	821
+Enteromorpha	prolifera	(O.F. Müller)	f	1131	821
+Enteromorpha	torta	(Mert.) Reinbold	f	1132	821
+Ulva	intestinalis	Linnaeus	t	1133	822
+Enteromorpha	intestinalis	(Linné) Link	f	1134	822
+Enteromorpha	lingulata	Agardh	f	1135	823
+Enteromorpha	flexuosa subsp.pilifera	(Kützing)	f	1136	823
+Enteromorpha	flexuosa subsp.flexuosa	Bliding	f	1137	823
+Ulva	curvata	(Kützing) De Toni	t	1138	824
+Ulva	compressa	Linnaeus	t	1139	825
+Enteromorpha	compressa	(Linné) Greville	f	1140	825
+Enteromorpha	crinita	(Roth) C. Agardh	f	1141	826
+Enteromorpha	clathrata	(Linné) Greville	f	1142	826
+Enteromorpha	ramulosa	(J.E. Smith) Hooker	f	1143	826
+Ulva	chaetomorphoides	(Børgesen) Hayden, Blomster, Maggs, P.C. Silva, M.J. Stanhope & J.R. Waaland	t	1144	827
+Enteromorpha	chaetomorphoides	Børgesen	f	1145	827
+Ulva	armoricana	P. Dion, B. de Reviers & G. Coat	t	1146	828
+Enteromorpha	robertii-lamii 	Parriaud	t	1147	829
+Ulothrix	subflaccida	Wille	t	1148	830
+Ulothrix	speciosa	(Carmichael) Kützing	t	1149	831
+Urospora	speciosa	(Carmichael) Leblond	f	1150	831
+Ulva	paradoxa	C. Agardh	t	1151	832
+Enteromorpha	erecta	(Lyngbye)	f	1152	832
+Enteromorpha	hopkirkii	(M'Calla) Harvey	f	1153	832
+Tellamia	contorta	Batters	t	1154	833
+Ulothrix	flacca	(Dillwyn) Thuret	t	1155	834
+Ulothrix	pseudoflacca	Wille	f	1156	834
+Ulothrix	consociata	Wille	f	1157	834
+Urospora	kornmannii	Berger-Perrot	t	1158	761
+Urospora	curvata	(Printz) Kornmann	t	1159	835
+Uronema	curvata	Printz	f	1160	835
+Umbraulva	olivascens	(Dangeard) Bae & I.K. Lee	t	1161	836
+Ulva	olivascens	P.J.L. Dangeard	f	1162	836
+Ulvella	setchellii	P. Dangeard	t	1163	801
+Ulvella	lens	P.L. Crouan & H.M. Crouan	t	1164	837
+Ochlochaete	lentiformis	Huber	f	1165	837
+Ulva	rotundata	Bliding	t	1166	838
+Ulva	rigida	C. Agardh	t	1167	839
+Urospora	penicilliformis	(Roth) Areschoug	t	1168	840
+Urospora	mirabilis	Areschoug	f	1169	840
+Urospora	wormskioldii	(Mertens ex Hornemann) Rosenvinge	t	1170	841
+Ulva	linza	(Linné) J. Agardh	t	1171	842
+Ulva	clathrata	(Roth) C. Agardh	t	1172	826
+Ulva	procera var roscoffensis	(Baudrimont, 1960)	t	1173	769
+Enteromorpha	ahlneriana var. roscoffensis	Baudrimont, 1960	f	1174	769
+Eugyra	arenosa	(Alder & Hancock, 1848)	t	1175	848
+Molgula	bleizi	(Lacaze-Duthiers, 1877)	t	1176	849
+Molgula	citrina	Alder & Hancock, 1848	t	1177	850
+Molgula	complanata	Alder & Hancock, 1870	t	1178	853
+Molgula	manhattensis	(De Kay, 1843)	t	1179	854
+Molgula	occulta	Kupffer, 1875	t	1180	855
+Molgula	occulata	Forbes, 1848	t	1181	847
+Molgula	solenata	(Lacaze-Duthiers, 1877)	t	1182	852
+Bolteniopsis	prenanti	Harant, 1927	t	1183	858
+Pyura	savignyi	(Philippi)	f	1184	856
+Pyura	microcosmus	(Savigny, 1816)	t	1185	856
+Pyura	morus		f	1186	856
+Cynthia	morus		f	1187	856
+Ascidia	morus		f	1188	856
+Pyura	squamulosa	(Alder, 1863)	t	1189	857
+Pyura	tessellata	(Forbes, 1848)	t	1190	869
+Halocynthia	papillosa	(Linnaeus, 1767)	t	1191	851
+Microcosmus	claudicans	(Savigny, 1816)	t	1192	859
+Styela	partita	(Stimpson, 1852)	f	1193	870
+Styela	canopus	(Savigny, 1816)	t	1194	870
+Styela	coriacea	(Alder & Hancock, 1848)	t	1195	871
+Polycarpa	gracilis	Heller, 1877	t	1196	845
+Polycarpa	pomaria	(Savigny, 1816)	t	1197	872
+Stolonica	socialis	Hartmeyer, 1803	t	1198	874
+Dendrodoa	grossularia	(Van Beneden, 1846)	t	1199	876
+Distomus	variolosus	Gaertner, 1774	t	1200	877
+Botryllus	schlosseri	(Pallas, 1766)	t	1201	875
+Botrylloides	leachi	(Savigny, 1816)	f	1202	878
+Botrylloides	leachii	(Savigny, 1816)	t	1203	878
+Corella	parallelogramma	(Müller, 1776)	t	1204	860
+Ascidia	conchilega	Moeller, 1842	t	1205	846
+Ascidia	mentula	Müller, 1776	t	1206	873
+Ascidia	obliqua	Alder, 1863	t	1207	861
+Ascidia	prunum	Müller, 1776	t	1208	862
+Ascidia	virginea	Müller, 1776	t	1209	879
+Ascidia	aspersa	(Müller, 1776)	t	1210	881
+Ascidiella	scabra	(Müller, 1776)	t	1211	880
+Phallusia	fumigata var. Chloroea	Grube, 1864	f	1212	863
+Phallusia	fumigata	Grube, 1864	t	1213	863
+Ciona	intestinalis	(Linnaeus, 1758)	t	1214	883
+Diazona	violacea	Savigny, 1816	t	1215	882
+Perophora	listeri	Wiegman, 1835	t	1216	884
+Clavelina	lepadiformis	(Müller, 1776)	t	1217	885
+Clavelina	nana	Lahille, 1890	t	1218	886
+Distaplia	rosea	Della Valle, 1881	t	1219	864
+Trididemnum	tenerum	(Verrill, 1871)	t	1220	887
+Trididemnum	niveum	(Giard, 1872)	f	1221	888
+Trididemnum	cereum	(Giard, 1872)	t	1222	888
+Didemnum	niveum	(Giard, 1872)	f	1223	888
+Didemnum	candidum	Savigny, 1813	t	1224	865
+Didemnum	fulgens	Milne-Edwards, 1841	t	1225	889
+Didemnum	lahillei	Hartmeyer, 1909	t	1226	890
+Didemnum	maculosum	(Milne-Edwards, 1841)	t	1227	891
+Lissoclinum	perforatum	(Giard, 1872)	t	1228	892
+Didemnum	perforatum	(Giard, 1872)	f	1229	892
+Didemnum	perspicuum	Giard, 1873	t	1230	893
+Didemnum	maculosum	(Milne-Edwards, 1841)	t	1231	866
+Leptoclinum	tridentatum	Drasche, 1883	f	1232	866
+Didemnum	dentatum	Della Valle	f	1233	866
+Polysyncraton	lacazei	Giard, 1872	t	1234	894
+Diplosoma	listerianum	(Milne-Edwards, 1841)	t	1235	895
+Diplosoma	gelatinosum	(Milne-Edwards, 1841)	f	1236	895
+Polyclinum	aurantium	Milne-Edwards, 1841	t	1237	896
+Morchellium	argus	Milne-Edwards	t	1238	897
+Aplidium	coeruleum	Sluiter, 1906	t	1239	867
+Aplidium	pallidum	(Verrill, 1871)	t	1240	898
+Amaroucium	densum	(Giard, 1872)	f	1241	899
+Aplidium	densum	(Giard, 1872)	t	1242	899
+Amaroucium	nordmanni	Milne-Edwards, 1841	f	1243	900
+Aplidium	nordmanni	(Milne-Edwards, 1841)	t	1244	900
+Amaroucium	punctum	Giard, 1873	f	1245	901
+Aplidium	punctum	(Giard, 1873)	t	1246	901
+Sydnium	turbinatum	(Savigny, 1816)	f	1247	902
+Aplidium	turbinatum	(Savigny, 1816)	t	1248	902
+Fragarium	elegans	(Giard, 1872)	f	1249	903
+Sydnium	elegans	(Giard, 1872)	f	1250	903
+Aplidium	elegans	(Giard, 1872)	t	1251	903
+Oikopleura	dioica	Fol, 1872	t	1252	868
+Antedon	bifida	(Pennant, 1777)	t	1253	906
+Astropecten	irregulairs	(Pennant, 1777)	t	1254	904
+Asterina	gibbosa	(Pennant, 1777)	t	1255	907
+Anseropoda	membranacea	Nardo, 1834	t	1256	908
+Solaster	papposus	Linnaeus, 1767	f	1257	909
+Crossaster	papposus	(Linnaeus, 1767)	t	1258	909
+Echinaster	sepositus	Tetzius, 1805	t	1259	910
+Henricia	sanguinolenta	(O.F. Müller, 1776)	t	1260	911
+Stichastrella	rosea	(O.F. Müller, 1776)	t	1261	912
+Luidia	ciliaris	(Philippi, 1836)	t	1262	917
+Asterias	rubens	Linnaeus, 1758	t	1263	913
+Marthasterias	glacialis	(Linnaeus, 1758)	t	1264	914
+Ophiothrix	fragilis	(Abildgaard, 1789)	t	1265	920
+Ophiocomina	nigra	(Abildgaard, in O.F. Müller, 1789)	t	1266	921
+Ophiopsila	aranea	Forbes, 1843	t	1267	922
+Acrocnida	brachiata	(Montagu, 1804)	t	1268	905
+Amphipholis	squamata	(Delle Chiaje, 1828)	t	1269	923
+Ophiactis	balli	(W. Thomson, 1840)	t	1270	924
+Ophiura	textura	(Linnaeus, 1758)	f	1271	925
+Ophiura	ophiura	(Linnaeus, 1758)	t	1272	925
+Ophiura	albida	Forbes, 1839	t	1273	926
+Psammechinus	miliaris	(P.L.S. Müller, 1771)	t	1274	927
+Echinus	esculentus	Linnaeus, 1758	t	1275	928
+Echinus	acutus	de Lamarck, 1816	t	1276	929
+Paracentrotus	lividus	(de Lamarck, 1816)	t	1277	915
+Sphaerechinus	granularis	(de Lamarck, 1816)	t	1278	916
+Echinocyamus	pusillus	(O.F. Müller, 1776)	t	1279	930
+Spatangus	purpureus	(O.F. Müller, 1776)	t	1280	931
+Echinocardium	cordatum	(Pennant, 1777)	t	1281	919
+Holothuria (Panningothuria)	forskali	Delle Chiaje, 1823	t	1282	932
+Cucumaria	saxicola	Brady & Robertson, 1871	f	1283	933
+Pawsonia	saxicola	(Brady & Robertson, 1871)	t	1284	933
+Cucumaria	lefevrei	Barrois, 1882	f	1285	934
+Aslia	lefevrei	(Barrois, 1882)	t	1286	934
+Cucumaria	lactea	(Forbes, 1839)	f	1287	935
+Ocnus	lacteus	(Forbes & Goodsir, 1839)	t	1288	935
+Cucumaria	planci	Von Marenzeller	f	1289	936
+Ocnus	planci	(Brandt, 1835)	t	1290	936
+Thyone	roscovita	Hérouard, 1890	t	1291	937
+Thyone	fusus	(O.F. Müller, 1776)	t	1292	938
+Labidoplax	digitata	(Montagu, 1815)	t	1293	939
+Leptosynapta	inhaerens	(O.F. Müller, 1776)	t	1294	940
+Leptosynapta	cruenta	Cherbonnier, 1953	t	1295	941
+Leptosynapta	galliennei	(Herapath, 1865)	f	1296	942
+Leptosynapta	galliennii	(Herapath, 1865)	t	1297	942
+Leptosynapta	minuta	(Becher, 1906)	t	1298	918
+Zanardinia	typus	(Nardo) G. Furnari in Furnari, Cormacio & Serio	t	1299	957
+Zanardinia	prototypus	(Nardo) Nardo 1841	f	1300	957
+Arthrocladia	villosa	(Hudson) Duby	t	1301	959
+Desmarestia	aculeata	(Linnaeus) J.V. Lamouroux	t	1302	953
+Desmarestia	dudresnayi (dresnayi AB)	Lamouroux	t	1303	960
+Desmarestia	ligulata	Lamouroux	t	1304	961
+Desmarestia	 viridis	(O.F. Müller) Lamouroux	t	1305	962
+Dictyopteris	polypodioides	(A.P. de Candolle) Lamouroux	t	1306	963
+Dictyopteris	membranacea	(Stackhouse) Batters 1902	f	1307	963
+Dictyota	dichotoma	(Hudson) Lamouroux	t	1308	964
+Dictyota	spiralis	Montagne	t	1309	965
+Dilophus	spiralis	(Montagne) G. Hamel 1939	f	1310	965
+Padina	pavonica	(Linnaeus) Thivy in Taylor	t	1311	967
+Padina	pavonia	J.V. Lamouroux 1816	f	1312	967
+Taonia	atomaria	(Woodward) Agardh	t	1313	968
+Ectocarpus	fasciculatus	Harvey	t	1314	969
+Ectocarpus	siliculosus	(Dillwyn) Lyngbye	t	1315	972
+Ectocarpus	variabilis	Vickers	t	1316	973
+Kuckuckia	spinosa	(Kützing) Kornmann Kuckuck	t	1317	974
+Acinetospora	crinita	(Carmichael) Sauvageau	t	1318	975
+Feldmannia	irregularis	(Kützing) Hamel	t	1319	976
+Feldmannia	kjellmanii	Kylin	t	1320	977
+Feldmannia	lebelii	(Arescoug ex Crouan & Crouan) Hamel	t	1321	954
+Feldmannia	paradoxa	(Montagne) Hamel	t	1322	947
+Feldmannia	globifera	(Kützing) Hamel 1939: xvii, 67   	f	1323	947
+Feldmannia	simplex	(Crouan & Crouan) Hamel	t	1324	978
+Hincksia	granulosa	(Smith) Silva in Silva, Menez & Moe 1987. 130:5	t	1325	979
+Giffordia	granulosa	(J.E. Smith) G. Hamel 1939	f	1326	979
+Hincksia	hincksiae	(Harvey) Silva in Silva, Menez & Moe	t	1327	980
+Giffordia	hincksiae	(Harvey) G. Hamel 1939 	f	1328	980
+Hincksia	intermedia	(Rosenvinge) Silva in Silva, Menez & Moe	t	1329	981
+Giffordia	intermedia	(Rosenvinge) Lund 	f	1330	981
+Hincksia	ovata	(Kjellman) Silva in Silva, Menez & Moe	t	1331	982
+Giffordia	ovata	(Kjellman) Kylin 1947	f	1332	982
+Hincksia	sandriana	(Zanardini) Silva in Silva, Menez & Moe	t	1333	983
+Giffordia	sandriana	(Zanardini) G. Hamel 1939	f	1334	983
+Hincksia	secunda	(Kützing) Silva in Silva, Menez & Moe	t	1335	984
+Giffordia	secunda	(Kützing) Batters 1892	f	1336	984
+Pylaiella	littoralis	(Linnaeus) Kjellman	t	1337	985
+Streblonema	deformans	(Dangeard) Hamel	t	1338	986
+Streblonema	fasciculatum	Thuret	t	1339	987
+Streblonema	maculans	(Hamel) South & Tittley	t	1340	988
+Entonema	maculans	(P.A. Dangeard) G. Hamel.	f	1341	988
+Streblonema	parasiticum	(Sauvageau) Levring	t	1342	944
+Entonema	parasiticum	(Sauvageau) G. Hamel	f	1343	944
+Colpomenia	peregrina	(Sauvageau) Hamel	t	1344	970
+Petalonia	fascia	(Müller) Kuntze	t	1345	991
+Petalonia	filiformis	(Batters) Kuntze	t	1346	949
+Petalonia	zosterifolia	(Reinke) Kuntze	t	1347	950
+Scytosiphon	dotyi	Wynne	t	1348	951
+Scytosiphon	lomentaria	(Lyngbye) Link	t	1349	992
+Sorapion	simulans	Kuckuck	t	1350	993
+Stragularia	clavata	(Harvey) Hamel	t	1351	994
+Ralfsia	clavata	(Harvey) P.L. Crouan & H.M. Crouan 1852.	f	1352	994
+Asperococcus	compressus	Griffiths ex Hooker	t	1353	995
+Haloglossum	compressum	(A.W. Griffiths ex W.J. Hooker) G. Hamel 193.	f	1354	995
+Asperococcus	fistulosus	(Hudson) Hooker	t	1355	996
+Chiton	cajetanus	Poli, 1791	f	1356	1093
+Asperococcus	echinatus	(Mertens in Roth) Greville 1830.	f	1357	996
+Asperococcus	turneri	(Dillwyn ex Smith) Hooker	t	1358	997
+Asperococcus	bullosus	J.V. Lamouroux 1813 : 277, pl. 12 : fig. 5	f	1359	997
+Chilionema	hispanicum	(Sauvageau) Fletcher	t	1360	998
+Ascocyclus	hispanicus	Sauvageau</i> 1897 : 274, figs 26, 27.	f	1361	998
+Chilionema	ocellatum	(Kützing) Kornmann Kuckuck	t	1362	999
+Cladosiphon	zosterae	(Agardh) Kylin	t	1363	1000
+Castanea	zosterae	(J. Agardh) Thuret	f	1364	1000
+Clathrodiscus	mandoulii	(Sauvageau) Hamel	t	1365	1001
+Climacosorus	mediterraneus	Sauvageau	t	1366	1002
+Dictyosiphon	ekmani	Areschoug	t	1367	1003
+Dictyosiphon	foeniculaceus	(Hudson) Greville	t	1368	1004
+Elachista	flaccida	(Dillwyn) Fries	t	1369	1005
+Elachista	flaccida	(Dillwyn) Areschoug	f	1370	1005
+Elachista	fucicola	(Velley) Areschoug	t	1371	1006
+Elachista	scutulata	(Smith) Duby	t	1372	1007
+Eudesme	virescens	(Carmichael ex Harvey in Hook) Agardh	t	1373	1008
+Giraudia	sphacelarioides	Derbès & Solier in Castagne	t	1374	1009
+Halothrix	lumbricalis	(Kützing) Reinke	t	1375	1010
+Hecatonema	maculans	(Collins) Sauvageau	t	1376	1011
+Herponema	desmarestiae	(Gran) Cardinal	t	1377	1012
+Herponema	solitarium	(Sauvageau) Hamel	t	1378	1013
+Herponema	velutinum	(Greville) Agardh	t	1379	1014
+Isthmoplea	sphaerophora	(Carmichael ex Harvey) Kjellman	t	1380	948
+Kuetzingiella	battersii	(Bornet in Sauvageau) Kornmann in Kuckuck	t	1381	955
+Laminariocolax	tomentosoides	(Farlow) Kylin	t	1382	952
+Leblondiella	densa	(Batters) Hamel 1939: xl	t	1383	1015
+Leptonematella	fasciculata	(Reinke) Silva	t	1384	1016
+Leptonema	fasciculatum	Reinke 1888.	f	1385	1016
+Liebmannia	leveillei 	Agardh	t	1386	966
+Litosiphon	laminariae	(Lyngbye) Harvey	t	1387	1019
+Mesogloia	vermiculata	(Smith) Gray	t	1388	1020
+Myrionema	polycladium	Sauvageau 1897	f	1390	1021
+Myriactula	arabica	(Küntzing) Feldmann	t	1391	1022
+Myriactula	areschougii	(Crouan & Crouan) Hamel	t	1392	1023
+Myriactula	stellulata	(Harvey) Levring	t	1393	1025
+Myriactula	vlastae	Feldmann	t	1394	1026
+Myriocladia	lovenii	Agardh	t	1395	1027
+Myrionema	corunnae	Sauvageau	t	1396	1028
+Myrionema	feldmannii	Loiseaux	t	1397	1029
+Myriactula	pulvinata	(Küntzing) Kuntze	t	1398	1024
+Myrionema	magnusii	(Sauvageau) Loiseaux	t	1399	1030
+Ascocyclus	magnusii	Sauvageau	f	1400	1030
+Myrionema	papillosum	Sauvageau	t	1401	1031
+Myrionema	strangulans	Carmichael ex Greville	t	1402	1032
+Myriotrichia	clavaeformis	Harvey in Hooker	t	1403	1034
+Petrospongium	berkeleyi	(Greville) Nägeli ex Kützing	t	1404	989
+Phaeostroma	pustulosum	Kuckuck in Reinbold	t	1405	990
+Entonema	aequale	(Oltmanns) Kylin 1947	f	1406	990
+Phycocelis	crouanorum	Athanasiadis	t	1407	1035
+Chilionema	reptans	(P. et H. Crouan) Sauvageau	f	1408	1035
+Phycocelis	foecunda	Strömfelt	t	1409	1036
+Ascocyclus	sphaerophorus	Sauvageau 1897.	f	1410	1036
+Protectocarpus	speciosus	(Børgesen) Kuckuck ex Kornmann	t	1411	1037
+Punctaria	crispata	(Kützing) Batters	t	1412	1038
+Punctaria	latifolia	Greville	t	1413	1039
+Punctaria	hiemalis	Kylin 1907	f	1414	1039
+Sauvageaugloia	griffithsiana	(A.W. Griffiths ex Harvey) G. Hamel ex Kylin	t	1415	1040
+Spermatochnus	paradoxus	(Roth) Kützing	t	1416	1041
+Spongonema	tomentosum	(Hudson) Kützing	t	1417	1042
+Herponema	luteolum	(Sauvageau) G. Hamel	f	1418	1042
+Stictyosiphon	adriaticus	Kützing	t	1419	945
+Stictyosiphon	griffithsianus	(Le Jolis) Holmes & Batters	t	1420	1043
+Stictyosiphon	soriferus	(Reinke) Rosenvinge in Rosenvinge & Lund	t	1421	1044
+Stictyosiphon	subarticulatus	(Areschoug) Hauck	f	1422	1044
+Stilophora	tenella	(Esper) Silva, Basson & Moe	t	1423	1045
+Stilophora	rhizodes	Turner Agardh	f	1424	1045
+Striaria	attenuata	(Agardh) Greville	t	1425	1046
+Ascophyllum	nodosum	(Linnaeus) Le Jolis	t	1426	1049
+Fucus	ceranoides	Linnaeus	t	1427	1050
+Fucus	cottonii	Wynne & Magne	t	1428	1051
+Fucus	muscoides	(A.D. Cotton) Feldmann & Magne, nom. Illeg. 1964.	f	1429	1051
+Fucus	serratus	Linnaeus 1753: 1158	t	1430	1052
+Fucus	spiralis	Linnaeus	t	1431	958
+Fucus	vesiculosus	Linnaeus	t	1432	1053
+Pelvetia	canaliculata	(Linnaeus) Decaisne & Thuret	t	1433	1054
+Himanthalia	elongata	(Linnaeus) Gray	t	1434	1055
+Bifurcaria	bifurcata	Ross	t	1435	946
+Bifurcaria	rotunda	(Hudson) Papenfuss, excl. Syn. 1950.	f	1436	946
+Cystoseira	baccata	(Gmelin) Silva	t	1437	1056
+Cystoseira	foeniculacea	(Linnaeus) Greville	t	1438	1057
+Cystoseira	humilis var. myriophylloides	(Sauvageau) Price & John in Price, John, Lawson	t	1439	1058
+Cystoseira	myriophylloides	Sauvageau 1912	f	1440	1058
+Cystoseira	nodicaulis	(Withering) Roberts	t	1441	1059
+Cystoseira	granulata	Agardh 1820.	f	1442	1059
+Cystoseira	tamariscifolia	(Hudson) Papenfuss	t	1443	1060
+Halidrys	siliquosa	(Linnaeus) Lyngbye	t	1444	1033
+Sargassum	muticum	(Yendo) Fensholt	t	1445	1061
+Chorda	filum	(Linnaeus) Stackhouse	t	1446	1062
+Halosiphon	tomentosus	(Lyngbye) Jaasund	t	1447	1063
+Chorda	tomentosa	Lyngbye	f	1448	1063
+Saccorhiza	polyschides	(Lightfoot) Batters	t	1449	1064
+Alaria	esculenta	(Linnaeus) Greville	t	1450	1065
+Laminaria	hyperborea	(Gunnerus) Foslie	t	1451	971
+Laminaria	ochroleuca	Bachelot de la Pylaie	t	1452	1047
+Saccharina	latissima	(Linnaeus) C.E. Lane, C. Mayes, Druehl & G.W. Saunders	t	1453	1067
+Laminaria	saccharina	(Linnaeus) J.V. Lamouroux 1813: 42	f	1454	1067
+Pseudolithoderma	extensum	(Crouan & Crouan) Lund	t	1455	1068
+Lithoderma	extensum	(P.L. Crouan & H.M. Crouan) G. Hamel 1935.	f	1456	1068
+Ralfsia	verrucosa	(Areschoug) Areschoug in Fries	t	1457	1069
+Cladostephus	spongiosus	(Hudson) Agardh	t	1458	1070
+Halopteris	filicina	(Grateloup) Kützing	t	1459	1071
+Sphacelaria	cirrosa	(Roth) Agardh	t	1460	1073
+Sphacelaria	hystrix	 Suhr	f	1461	1073
+Sphacelaria	bipinnata	(Kützing). 	f	1462	1073
+Sphacelaria	fusca	(Hudson) Gray	t	1463	1074
+Sphacelaria	nana	Nägeli ex Kützing	t	1464	1075
+Sphacelaria	britannica	Sauvageau 1901	f	1465	1075
+Sphacelaria	plumula	Zanardini	t	1466	1076
+Sphacelaria	radicans	(Dillwyn) Harvey	t	1467	1077
+Sphacelaria	rigidula	Kützing	t	1468	1018
+Sphacelaria	furcigera	Kützing 1855	f	1469	1018
+Carpomitra	cabrerae	(Clemente) Kützing, typ. cons. 1843	t	1470	1079
+Carpomitra	costata	(Stackhouse) Batters 1902: 46	f	1471	1079
+Sporochnus	pedunculatus	(Hudson) Agardh	t	1472	1080
+Tilopteris	mertensi	(Turner) Kützing	t	1473	1081
+Bachelotia	antillarum	(Grunow) Gerloff	t	1474	1082
+Pilinia	rimosa	Kützing	t	1475	1083
+Waerniella	lucifuga	(Kuckuck) Kylin 1947	f	1476	1083
+Cladostephus	spongiosus f. verticillatus	(lightfoot) Prud'homme van Reine	t	1477	1084
+Cladostephus	verticillatus	(Lightfoot) Lyngbye, nom illeg. 1819.	f	1478	1084
+Cylindrocarpus	microscopicus	P.L. Crouan & H.M. Crouan	t	1479	1085
+Fucus	vesiculosus f. linearis	(Hudson) H.T. Powell	t	1480	1086
+Fucus	vesiculosus var. evesiculosus	Linnaeus, Cotton	f	1481	1086
+Herponema	valiantei	(Bornet ex Sauvageau) G. Hamel	t	1482	1087
+Hincksia	mitchelliae	(Harvey) P.C. Silva in P.C. Silva	t	1483	1088
+Leathesia	difformis	(Linnaeus) Areschoug	t	1484	1072
+Mikrosyphar	polysiphoniae	Kuckuck	t	1485	1048
+Mikrosyphar	porphyrae	Kuckuck	t	1486	1017
+Laminaria	digitata	(Hudson) Lamouroux	t	1487	1066
+Cutleria	adspersa	(Mertens ex Roth) De Notaris	t	1488	943
+Cutleria	multifida	(J.E. Smith) Greville	t	1489	956
+Myriactula	rivulariae	(Suhr in Areschoung) J. Feldmann.	f	1490	1024
+Halopteris	scoparium	(Linnaeus) Kützing	f	1491	1078
+Stypocaulon	scoparium	(Linnaeus) Sauvageau 1904	t	1492	1078
+Mytilus	edulis var. uncinata	Bucquoy, Dautzenberg et Dollfus	f	1493	1378
+Rissoa	costata		f	1494	1178
+Retusa	alba		f	1495	1266
+Eolis	alba		f	1496	1354
+Patella	vulgata var. secernenda	Dautzenberg	f	1497	1089
+Patella	vulgata var. conica	Brown	f	1498	1089
+Patella	vulgata var. communis	Brown	f	1499	1089
+Patella	tarentina	Lamarck	f	1500	1089
+Ansates	pellucida	(Linnaeus, 1758)	t	1501	1511
+Helsion	pellucidus	Linnaeus	f	1502	1511
+Helsion	pellucidus var. laevis	Pennant  	f	1503	1511
+Helsion	pellucidum	Linnaeus	f	1504	1511
+Patina	pellucida	Linnaeus	f	1505	1511
+Tectura	virginea	(Müller O.F., 1776)	t	1506	1105
+Patelloida	virginea		f	1507	1105
+Diodora	graeca	(Linnaeus, 1758)	t	1508	1106
+Fissurella	graeca	Linnaeus	f	1509	1106
+Fissurella	reticulata		f	1510	1106
+Syndesmya	alba	Wood	f	1511	1461
+Fissurella	mamillata	Risso	f	1512	1106
+Capiluna	mamillata	Risso	f	1513	1106
+Diodora	apertura	(Montagu)	f	1514	1106
+Emarginula	fissura	(Linnaeus, 1758)	t	1515	1107
+Emarginula	rosea	Bell, 1824	t	1516	1090
+Emarginula	rubra	Lamarck	f	1517	1090
+Holochiton	cajetanus		f	1518	1093
+Dondersia	banyulensis	Pruvot, 1890	f	1519	1140
+Nematomenia	banyulensis	(Pruvot, 1890)	t	1520	1140
+Lepidomenia	hystrix	Marion et Kovalesky in Fischer, 1885	t	1521	1141
+Neomenia	carinata	Tullberg, 1875	t	1522	1142
+Paramenia	sierra	Pruvot, 1890	f	1523	1143
+Eleutheromenia	sierra	(Pruvot,1890)	t	1524	1143
+Biserramenia	psammobionta	Salvini-Plawen, 1967	t	1525	1144
+Lepidopleurus	cajetanus	(Poli, 1791)	t	1526	1093
+Lepidopleurus	asellus	(Gmelin, 1791)	t	1527	1094
+Chiton	cancellatus	Sowerby, 1840	f	1528	1095
+Lepidopleurus	cancellatus	Sowerby, 1840	f	1529	1095
+Leptochiton	cancellatus	(Sowerby, 1840)	t	1530	1095
+Lepidochiton	cancellatus		f	1531	1095
+Leptochiton	scabridus	(Jeffreys, 1880)	t	1532	1096
+Hanleya	hanleyi	(Bean in Thorpe, 1844)	t	1533	1097
+Callochiton	septemvalvis	(Montagu, 1803)	t	1534	1098
+Callochiton	laevis	(Montagu)	f	1535	1098
+Chiton	laevis	Pennant 1777	f	1536	1098
+Callochiton	achatinus	(Brown)	f	1537	1098
+Lepidochitona	cinerea	(Linnaeus, 1767)	t	1538	1099
+Ischnochiton	cinereus	?	f	1539	1099
+Trachydermon	cinereus	?	f	1540	1099
+Lepidopleurus	cinereus	Dautzenberg & Durouchoux 1906	f	1541	1099
+chiton	marginatus	Pennant 1777	f	1542	1099
+Lepidochiton	cinereus	Linnaeus,	f	1543	1099
+Chiton	cinereus		f	1544	1099
+Acanthochitona	crinita	(Pennant, 1777)	t	1545	1100
+Acanthochites	fascicularis var. cinnabrina	Dautzenberg & Durouchoux 1906	f	1546	1100
+Acanthochites	fascicularis	Vlès in D & F 1925	f	1547	1100
+Acanthochites	fascicularis var. lutescens	Dautzenberg & Durouchoux 1906	f	1548	1100
+Acanthochitona	crinitus	Pennant 1777	f	1549	1100
+Chiton	fascicularis	(Linnaeus, 1767)	f	1550	1100
+Chiton	fascicularis	(Linnaeus, 1767)	f	1551	1102
+Acanthochitona	fascicularis	(Linnaeus, 1767)	t	1552	1102
+Acanthochitona	discrepans	(Brown, 1827)	f	1553	1102
+Acanthochites	discrepans		f	1554	1102
+Chiton	discrepans	Brown, 1827	f	1555	1102
+Acanthochitona	communis		f	1556	1102
+Patella	intermedia	Murray in Knapp 1857  	t	1557	1103
+Patella	intermedia var.marteli		f	1558	1103
+Patella	intermedia var. taslei		f	1559	1103
+Patella	intermedia var. splendida		f	1560	1103
+Patella	ulyssiponensis	Gmelin, 1791	t	1561	1104
+Patella	aspera	Lamarck 1822  	f	1562	1104
+Patella	tarentina	Salis 1793 	f	1563	1104
+Patella	depressa var. ex-col. ochracea	Dautzenberg et Fischer	f	1564	1104
+Patella	depressa var. athletica	Bean	f	1565	1104
+Patella	vulgata	Linnaeus, 1758	t	1566	1089
+Patella	vulgata var. aurea	Martel	f	1567	1089
+Acmea	virginea	Müller	f	1568	1105
+Raphitoma	leufroyi	(Michaud, 1828)	t	1569	1111
+Chlamys	furtiva		f	1570	1392
+Venus	decussata		f	1571	1474
+Irus	irus	(Linnaeus, 1758)	t	1572	1475
+Venerupis	irus	(Linné)	f	1573	1475
+Paphia	aurea	(Gmelin, 1791)	t	1574	1476
+Tapes	aureus var. ex-forma rostrata	Locard	f	1575	1476
+Tapes	aureus var. ex-col. citrina nov. var.		f	1576	1476
+Tapes	aureus var. ex-col. partita	Bucquoy, Dautzenberg et	f	1577	1476
+Tapes	aureus	Gmelin	f	1578	1476
+Tapes	aureus var. ex-col. albida	Bucquoy, Dautzenberg et D	f	1579	1476
+Pullastra	aureus	Gmelin	f	1580	1476
+Tapes	aureus var. ex-forma major	Bucquoy, Dautzenberg et D	f	1581	1476
+Emarginula	conica	Schumacher	f	1582	1090
+Haliotis	tuberculata tuberculata	Linnaeus, 1758	t	1583	1114
+Haliotis	tuberculata	Linnaeus, 1758	f	1584	1114
+Clelandella	miliaris	(Brocchi, 1814)	t	1585	1115
+Cantharidus	clelandi	(Wood)	f	1586	1115
+Jujubinus	exasperatus	(Pennant, 1777)	t	1587	1118
+Calliostoma	exasperatum		f	1588	1118
+Jujubinus	exasperatum		f	1589	1118
+Cantharidus	exasperatus		f	1590	1118
+Jujubinus	montagui	(Wood, 1828)	t	1591	1119
+Calliostoma	montagui		f	1592	1119
+Cantharidus	montagui		f	1593	1119
+Calliostoma	striatum		f	1594	1124
+Jujubinus	striatus	(Linnaeus, 1758)	t	1595	1124
+Jujubinus	striatum		f	1596	1124
+Zizyphinus	aequistriatus		f	1597	1124
+Cantharidus	striatus		f	1598	1124
+Trochus	striatus		f	1599	1124
+Zizyphinus	striatus		f	1600	1124
+Gibbula	cineraria	(Linnaeus, 1758)	t	1601	1125
+Trochus	cinerarius		f	1602	1125
+Gibbula	magus	(Linnaeus, 1758)	t	1603	1126
+Gibbula	maga		f	1604	1126
+Trochus	magus		f	1605	1126
+Gibbula	pennanti	(Philippi, 1846)	t	1606	1127
+Gibbula	tumida	(Montagu, 1803)	t	1607	1128
+Trochus	tumidus		f	1608	1128
+Gibbula	umbilicalis	(da Costa, 1778)	t	1609	1123
+Gibbula	obliquata		f	1610	1123
+Trochus	umbilicalis		f	1611	1123
+Osilinus	lineatus	(da Costa, 1778)	t	1612	1129
+Trochus	crassus	Pulteney	f	1613	1129
+Trochus	lineatus		f	1614	1129
+Trochocochlea	lineata		f	1615	1129
+Gibbula	lineata		f	1616	1129
+Monodonta	fragarioïdes	Collard des Cherres	f	1617	1129
+Calliostoma	zizyphinum	(Linnaeus, 1758)	t	1618	1145
+Zizyphinus	conulus		f	1619	1145
+Trochus	conuloides		f	1620	1145
+Trochus	zizyphinus		f	1621	1145
+Calliostoma	zizyphinus var. conuloides		f	1622	1145
+Calliostoma	granulatum	(Born, 1778)	t	1623	1146
+Calliostoma	papillosum		f	1624	1146
+Skenea	serpuloides	(Montagu, 1808)	t	1625	1147
+Cyclostrema	serpuloides	Montagu	f	1626	1147
+Tubiola	serpuloides	Montagu	f	1627	1147
+Dikoleps	cutleriana	(Clark, 1848)	t	1628	1148
+Skenea	cutleriana	Clark	f	1629	1148
+Cyclostrema	cutlerianum	Clark	f	1630	1148
+Skenea	nitens	Philippi	f	1631	1149
+Cyclostrema	nitens	Philippi	f	1632	1149
+Dikoleps	pusilla	(Jeffreys, 1847)	t	1633	1149
+Tricolia	pullus picta	(da Costa, 1778)	t	1634	1150
+Phasianella	pullus		f	1635	1150
+Eudora	pullus		f	1636	1150
+Phasianella	pullus var. ex. col. Lactea	Dautzenberg et Durouchoux	f	1637	1150
+Phasianella	pullus var. ex. col. bicolor	Monterosato	f	1638	1150
+Phasianella	pullus var. ex. col. nigricans	Dautzenberg et Durouchoux	f	1639	1150
+Turbo	pullus		f	1640	1150
+Tricolia	pullus		f	1641	1150
+Phasianella	pulla		f	1642	1150
+Bittium	simplex	(Jeffreys, 1867)	t	1643	1151
+Bittium	reticulatum	(da Costa, 1778)	t	1644	1152
+Cerithium	reticulatum		f	1645	1152
+Turritella	communis	Risso, 1826	t	1646	1153
+Turritella	communis var. ex-col. nivea	Jeffreys	f	1647	1153
+Turritella	communis var. turbona	Monterosato	f	1648	1153
+Littorina	arcana	Hannaford-Ellis, 1978	t	1649	1154
+Littorina	littorea	(Linnaeus, 1758)	t	1650	1155
+Littorina	littorea var ex-forma vulgaris	Linnaeus	f	1651	1155
+Littorina	littorea var ex-forma major	Dautzenberg et Durouchoux	f	1652	1155
+Littorina	littorea var ex-col aurancia	Dautzenberg et Fischer	f	1653	1155
+Littorina	littorea var ex-forma vulgaris	Linnaeus	f	1654	1155
+Littorina	fabalis	(Turton, 1825)	t	1655	1156
+Littorina	mariae	Sacchi et Rastelli, 1966	f	1656	1156
+Littorina	compressa	Jeffreys, 1865	t	1657	1157
+Littorina	saxatilis subsp. nigrolineata	Gray	f	1658	1157
+Littorina	obtusata	(Linnaeus, 1758) s.l.	t	1659	1158
+Littorina	obtusata var. ex-col. fusca	 Menke	f	1660	1158
+Littorina	obtusata subsp. littoralis	 Linné	f	1661	1158
+Littorina	obtusata var reticulata	Lister	f	1662	1158
+Littorina	obtusata var. ex-col. aurantia	Dautzenberg et F	f	1663	1158
+Littorina	obtusata var. ex-forma retusa	Lamarck	f	1664	1158
+Littorina	obtusata var. ex-col. oliva	Dautzenberg et Fisc	f	1665	1158
+Littorina	littoralis		f	1666	1158
+Littorina	obtusata var. ex-col. rubens	Menke	f	1667	1158
+Littorina	obtusata var. ex-col. albescens	Dautzenberg et	f	1668	1158
+Littorina	obtusata var. ex-col. ornata	Daniel	f	1669	1158
+Littorina	saxatilis	(Olivi, 1792) s.l.	t	1670	1091
+Littorina	saxatilis subsp. rudis	 Maton	f	1671	1091
+Littorina	saxatilis var ex-col albida	Dautzenberg	f	1672	1091
+Littorina	saxatilis var ex-col fusca	Dautzenberg et Fischer	f	1673	1091
+Littorina	saxatilis var ex-col miniata	Dautzenberg et Fischer	f	1674	1091
+Littorina	saxatilis var ex-col zonaria	Bean	f	1675	1091
+Littorina	saxatilis var ex-col aurantia	Dautzenberg	f	1676	1091
+Littorina	rudis	Maton	f	1677	1091
+Littorina	saxatilis var ex-col lutea	Dautzenberg et Durouchoux	f	1678	1091
+Littorina	saxatilis subsp. tenebrosa	Montagu	f	1679	1091
+Littorina	saxatilis var ex-col lutea	Dautzenberg et Durouchoux	f	1680	1091
+Melaraphe	neritoides	(Linnaeus, 1758)	t	1681	1092
+Littorina	neritoides		f	1682	1092
+Lacuna	pallidula	(da Costa, 1778)	t	1683	1159
+Lacuna	parva	(da Costa, 1778)	t	1684	1160
+Lacuna	parva var. ex-col. lactea	Jeffreys	f	1685	1160
+Lacuna	crassior	(Montagu, 1803)	t	1686	1161
+Lacuna	vincta	(Montagu, 1803)	t	1687	1162
+Epheria	vincta		f	1688	1162
+Skeneopsis	planorbis	(Fabricius, 1780)	t	1689	1163
+Skenea	planorbis		f	1690	1163
+Eatonina	fulgida	(Adams, 1797)	t	1691	1164
+Rissoa	fulgida var. ex-col. pallida	Jeffreys	f	1692	1164
+Cingula	fulgida		f	1693	1164
+Rissoa	guerinii	Récluz, 1843	t	1694	1165
+Apicularia	guerini		f	1695	1165
+Rissoa	membranacea	(Adams, 1800)	t	1696	1166
+Rissoa	membranacea var. labiosa	Montagu	f	1697	1166
+Rissoa	labiosa		f	1698	1166
+Rissoa	lilacina	Récluz, 1843	t	1699	1167
+Persephona	lilacina		f	1700	1167
+Rissoa	violacea		f	1701	1167
+Rissoa	parva	(da Costa, 1778)	t	1702	1168
+Turbella	parva		f	1703	1168
+Rissoa	parva var. ex-col fuscata	Brown	f	1704	1168
+Alvania	beani	(Hanley in Thorpe, 1844)	t	1705	1169
+Alvania	beanii	(Hanley in Thorpe, 1844)	f	1706	1169
+Rissoa	reticulata	Montagu	f	1707	1169
+Alvania	reticulata		f	1708	1169
+Alvania	cancellata	(da Costa, 1778)	t	1709	1170
+Rissoa	cancellata		f	1710	1170
+Acinopsis	cancellata		f	1711	1170
+Alvania	carinata	(da Costa, 1778)	t	1712	1171
+Rissoa	carinata		f	1713	1171
+Galeodina	carinata		f	1714	1171
+Rissoa	striatula		f	1715	1171
+Alvania	cimicoides	(Forbes, 1844)	t	1716	1172
+Alvania	calathus	(Forbes et Hanley, )	f	1717	1172
+Alvania	jeffreysi	(Waller, 1864)	t	1718	1173
+Alvania	punctura	(Montagu, 1803)	t	1719	1174
+Rissoa	punctura		f	1720	1174
+Alvania	zetlandica	(Montagu, 1815)	t	1721	1175
+Cingula	trifasciata	(Adams, 1800)	t	1722	1176
+Rissoa	trifasciata		f	1723	1176
+Rissoa	cingulus		f	1724	1176
+Rissoa	trifasciata var. rupestris	Forbes	f	1725	1176
+Crisilla	semistriata	(Montagu, 1808)	t	1726	1177
+Rissoa	semistriata		f	1727	1177
+Cingula	semistriata		f	1728	1177
+Manzonia	crassa	(Kanmacher, 1798)	t	1729	1178
+Alvania	crassa		f	1730	1178
+Manzonia	costata		f	1731	1178
+Obtusella	intersecta	(Wood, 1857)	t	1732	1179
+Cingula	alderi		f	1733	1179
+Onoba	aculeus	(Gould, 1841)	t	1734	1180
+Rissoa	striata var. ex-forma et col. arctica		f	1735	1180
+Rissoa	proxima		f	1736	1180
+Onoba	semicostata	(Montagu, 1803)	t	1737	1181
+Rissoa	striata		f	1738	1181
+Onoba	striata		f	1739	1181
+Cingula	semicostata		f	1740	1181
+Pusillina	inconspicua	(Alder, 1844)	t	1741	1182
+Rissoa	inconspicua		f	1742	1182
+Sabanea	inconspicua		f	1743	1182
+Pusillina	sarsii	(Lovén, 1846)	t	1744	1183
+Rissoa	albella		f	1745	1183
+Barleeia	unifasciata	(Montagu, 1803)	t	1746	1184
+Barleeia	rubra		f	1747	1184
+Barleea	rubra var. ex-col. unifasciata	Montagu	f	1748	1184
+Barleea	rubra var. ex-col. pallida	Jeffreys	f	1749	1184
+Caecum	glabrum	(Montagu, 1803)	t	1750	1185
+Brochina	glabrum		f	1751	1185
+Caecum	trachea	(Montagu, 1803)	t	1752	1186
+Caecum	imperforatum	(Kanmacher)	f	1753	1186
+Caecum	imperfectum	(Kanmacher)	f	1754	1186
+Hydrobia	ulvae	(Pennant, 1777)	t	1755	1187
+Rissoa	ulvae		f	1756	1187
+Peringia	ulvae		f	1757	1187
+Hydrobia	ventrosa	(Montagu, 1803)	t	1758	1188
+Potamopyrgus	jenkinsi	(Smith, 1889)	f	1759	1189
+Potamopyrgus	antipodarum	J.E. Gray, 1843)	t	1760	1189
+Ceratia	proxima	(Forbes et Hanley, 1850)	t	1761	1190
+Cingula	proxima		f	1762	1190
+Tornus	subcarinatus	(Montagu, 1803)	t	1763	1191
+Adeorbis	subcarinatus	Montagu	f	1764	1191
+Aporrhais	pes-pelecani	(Linnaeus, 1758)	t	1765	1192
+Aporrhais	pespelecani	(Linnaeus, 1758)	f	1766	1192
+Calyptraea	chinensis	(Linnaeus, 1758)	t	1767	1196
+Calyptra	chinensis		f	1768	1196
+Crepidula	fornicata	(Linnaeus, 1758)	t	1769	1197
+Capulus	ungaricus	(Linnaeus, 1758)	t	1770	1198
+Lamellaria	latens	(Müller, 1776)	t	1771	1199
+Lamellaria	perspicua	(Linnaeus, 1758)	t	1772	1200
+Marsenia	perspicua		f	1773	1200
+Velutina	velutina	(Müller, 1776)	t	1774	1201
+Velutina	capuloidea		f	1775	1201
+Trivia	arctica	(Pulteney, 1799)	t	1776	1202
+Trivia	monacha	(da Costa, 1778)	t	1777	1203
+Trivia	arctica var. europaea	 Montagu	f	1778	1203
+Erato	voluta	(Montagu, 1803)	t	1779	1204
+Simnia	patula	(Pennant, 1777)	t	1780	1205
+Ovula	patula		f	1781	1205
+Euspira	catena	(da Costa, 1778)	t	1782	1206
+Natica	catena		f	1783	1206
+Naticina	catena		f	1784	1206
+Lunatia	catena		f	1785	1206
+Euspira	montagui	(Forbes, 1838)	t	1786	1207
+Natica	montagui		f	1787	1207
+Euspira	pulchella	(Risso, 1826)	t	1788	1208
+Natica	alderi		f	1789	1208
+Natica	nitida var. ex-col. alderi		f	1790	1208
+Natica	poliana		f	1791	1208
+Natica	nitida		f	1792	1208
+Naticina	nitida		f	1793	1208
+Cabestana	cutacea	(Linnaeus, 1767)	t	1794	1209
+Cymatium	cutaceum		f	1795	1209
+Marshallora	adversa	(Montagu, 1803)	t	1796	1210
+Triforis	perversa var. adversa	Montagu	f	1797	1210
+Trifora	perversa	(Linné)	f	1798	1210
+Cerithium	perversum		f	1799	1210
+Cerithiopsis	barleei	Jeffreys, 1867)	t	1800	1211
+Cerithiopsis	jeffreysi	Watson, 1885	t	1801	1212
+Cerithiopsis	pulchella		f	1802	1212
+Cerithiopsis	tubercularis	(Montagu, 1803)	t	1803	1213
+Cerithiopsis	clarkii	Forbes & Hanley	f	1804	1213
+Aclis	ascaris	(Turton, 1819)	t	1805	1214
+Aclis	gulsonae	(Clark W., 1850)	t	1806	1215
+Pherusina	gulsonae	 (Clark)	f	1807	1215
+Aclis	walleri	Jeffreys, 1867	t	1808	1216
+Epitonium	clathratulum	(Kanmacher, 1798)	t	1809	1217
+Clathrus	clathratulus	(Adams)	f	1810	1217
+Scala	clathratula		f	1811	1217
+Hyaloscala	clathratula		f	1812	1217
+Epitonium	commune	(Lamarck, 1822)	t	1813	1219
+Clathrus	clathrus	(Linné)	f	1814	1219
+Scala	communis		f	1815	1219
+Clathrus	communis		f	1816	1219
+Eulima	bilineata	Alder, 1848	t	1817	1220
+Eulima	trifasciata	(Adams)	f	1818	1220
+Subularia	bilineata		f	1819	1220
+Haliella	stenostoma	(Jeffreys, 1858)	t	1820	1512
+Eulima	stenostoma	Jeffreys, 1858	f	1821	1512
+Melanella	alba	(da Costa, 1778)	t	1822	1221
+Balcis	alba		f	1823	1221
+Melania	gervillii	Collard des Cherres, 1830	f	1824	1221
+Eulima	polita	Linné	f	1825	1221
+Eulima	alba	(da Costa)	f	1826	1221
+Melanella	lubrica	(Monterosato, 1890)	t	1827	1222
+Balcis	lubrica	Monterosato	f	1828	1222
+Melanella	monterosatoi	(Monterosato, 1890)	t	1829	1223
+Balcis	monterosatoi	(Monterosato)	f	1830	1223
+Pelseneeria	stylifera	(Turton, 1825)	t	1831	1224
+Stilifer	stilifer	(Turton)	f	1832	1224
+Vitreolina	philippi	(de Rayneval & Ponzi, 1854)	t	1833	1225
+Eulima	incurva		f	1834	1225
+Vitreolina	incurva		f	1835	1225
+Balcis	incurva		f	1836	1225
+Ocenebra	erinaceus	(Linnaeus, 1758)	t	1837	1226
+Murex	erinaceus		f	1838	1226
+Ocinebra	erinaceus var. tarentina	Lamarck	f	1839	1226
+Ocinebra	erinaceus var. cingulifera	Lamarck	f	1840	1226
+Ocinebra	erinaceus var. ex-col. viriditincta	Dautzenberg et Fischer	f	1841	1226
+Ocinebra	erinaceus var. candida	Dautzenberg	f	1842	1226
+Ocenebra	erinacea	(Linné)	f	1843	1226
+Ocinebrina	aciculata	(Lamarck, 1822)	t	1844	1227
+Ocinebra	corallina var. inconspicua	Sowerby	f	1845	1227
+Fusus	corallinus		f	1846	1227
+Ocenebra	corallina	(Scacchi)	f	1847	1227
+Ocenebra	aciculata	Lamarck	f	1848	1227
+Trophonopsis	muricatus	(Montagu, 1803)	t	1849	1228
+Trophon	muricatus		f	1850	1228
+Nucella	lapillus	(Linnaeus, 1758)	t	1851	1229
+Purpura	lapillus		f	1852	1229
+Polytropa	lapillus		f	1853	1229
+Purpura	lapillus var. celtica	Locard	f	1854	1229
+Purpura	lapillus var. bizonalis	Lamarck	f	1855	1229
+Purpura	lapillus var. fusco-apicata Dautzenberg et Fischer		f	1856	1229
+Purpura	lapillus var. castanea	Dautzenberg	f	1857	1229
+Purpura	lapillus var. caerulescens	Dautzenberg	f	1858	1229
+Purpura	lapillus var. celtica	Locard	f	1859	1229
+Purpura	lapillus var. filosa	Gmelin	f	1860	1229
+Buccinum	undatum	(Linnaeus, 1758)	t	1861	1230
+Chauvetia	brunnea	(Donovan, 1804)	t	1862	1231
+Donovania	minima	(Montagu)	f	1863	1231
+Colus	gracilis	(da Costa, 1778)	t	1864	1232
+Colus	jeffreysianus	(Fischer P., 1868)	t	1865	1131
+Sipho	jeffreysianus (Fischer)	jeffreysianus (Fischer)	f	1866	1131
+Neptunea	antiqua	(Linnaeus, 1758)	t	1867	1132
+Fusus	antiquus	Linné	f	1868	1132
+Nassarius	incrassatus	(Ström, 1768)	t	1869	1133
+Nassa	incrassata		f	1870	1133
+Nassa	incrassata var. rosacea	Risso	f	1871	1133
+Nassa	ambigua	Montagu	f	1872	1133
+Hima	incrassata	(Ström)	f	1873	1133
+Nassarius	pygmaeus	(Lamarck, 1822)	t	1874	1134
+Nassa	pygmaea		f	1875	1134
+Hima	pygmaea		f	1876	1134
+Nassarius	reticulatus	(Linnaeus, 1758)	t	1877	1135
+Nassa	reticulata var. viriditincta	Dautzenberg et Fischer	f	1878	1135
+Nassa	reticulata		f	1879	1135
+Hinia	reticulata		f	1880	1135
+Bela	nebula	(Montagu, 1803)	t	1881	1136
+Pleurotoma	nebula	Montagu	f	1882	1136
+Raphitoma	nebula		f	1883	1136
+Mangelia	nebula		f	1884	1136
+Mangelia	attenuata	(Montagu, 1803)	t	1885	1137
+Mangelia	costata	(Donovan, 1804)	t	1886	1138
+Pleurotoma	costata		f	1887	1138
+Philbertia	costata	(Donovan)	f	1888	1138
+Mangilia	costata		f	1889	1138
+Mangelia	costata		f	1890	1138
+Oenopota	rufa	(Montagu, 1803)	t	1891	1139
+Lora	rufa		f	1892	1139
+Pleurotoma	rufa		f	1893	1139
+Haedropleura	septangularis	(Montagu, 1803)	t	1894	1101
+Pleurotoma	septangularis		f	1895	1101
+Philbertia	septangularis		f	1896	1101
+Raphitoma	aequalis	(Jeffreys, 1867)	t	1897	1108
+Philbertia	linearis aequalis	Jeffreys	f	1898	1108
+Raphitoma	linearis	(Montagu, 1803)	t	1899	1109
+Philbertia	linearis		f	1900	1109
+Pleurotoma	linearis		f	1901	1109
+Pleurotomoides	linearis		f	1902	1109
+Raphitoma	purpurea	(Montagu, 1803)	t	1903	1110
+Philbertia	purpurea	(Montagu)	f	1904	1110
+Pleurotoma	purpurea	(Montagu)	f	1905	1110
+Pleurotomoides	purpurea	(Montagu)	f	1906	1110
+Pleurotoma	purpurea var. bicolor	Risso	f	1907	1110
+Philbertia	leufroyi	Michaud	f	1908	1111
+Comarmondia	gracilis	(Montagu, 1803)	t	1909	1112
+Philbertia	gracilis	(da Costa)	f	1910	1112
+Rissoella	diaphana	(Alder, 1848)	t	1911	1113
+Jeffreysia	diaphana	Alder	f	1912	1113
+Rissoella	globularis	(Forbes et Hanley, 1853)	t	1913	1116
+Jeffreysia	globularis	Jeffreys	f	1914	1116
+Rissoella	opalina	(Jeffreys, 1848)	t	1915	1117
+Omalogyra	atomus	(Philippi, 1841)	t	1916	1120
+Homalogyra	atomus		f	1917	1120
+Ammonicera	fischeriana	(Monterosato, 1869)	t	1918	1121
+Cima	minima	(Jeffreys, 1858)	t	1919	1122
+Graphis	albida	(Kanmarcher, 1798)	t	1920	1130
+Chrysallida	decussata	(Montagu, 1803)	t	1921	1233
+Pyrgulina	decussata	(Montagu)	f	1922	1233
+Chrysallida	excavata	(Philippi, 1836)	t	1923	1234
+Miralda	excavata	(Philippi)	f	1924	1234
+Chrysallida	fenestrata	(Jeffreys, 1848)	t	1925	1235
+Turbonilla	fenestrata	(Forbes)	f	1926	1235
+Tragula	fenestrata	(Forbes)	f	1927	1235
+Chrysallida	indistincta	(Montagu, 1808)	t	1928	1236
+Chemnitzia	indistincta		f	1929	1236
+Chrysallida	nivosa	(Montagu, 1803)	t	1930	1237
+Odostomia	nivosa	Montagu	f	1931	1237
+Chrysallida	interstincta	(Brown, 1827)	t	1932	1238
+Chrysallida	obtusa	(Brown)	f	1933	1238
+Pyrgulina	interstica	(Montagu)	f	1934	1238
+Parthenina	interstica	(Montagu)	f	1935	1238
+Chrysallida	pellucida	(Dillwyn, 1817	t	1936	1239
+Chrysallida	spiralis	(Montagu)	f	1937	1239
+Chrysallida	terebellum	(Philippi, 1844)	t	1938	1240
+Chrysallida	moulinsiana	(Fischer)	f	1939	1240
+Chrysallida	truncatula	(Jeffreys, 1850)	t	1940	1241
+Odostomia	truncatula	Jeffreys	f	1941	1241
+Eulimella	acicula	(Philippi, 1836)	t	1942	1242
+Eulimella	laevis	(Brown)	f	1943	1242
+Eulimella	ventricosa	(Forbes, 1844)	t	1944	1243
+Eulimella	gracilis	(Jeffreys)	f	1945	1243
+Odostomia	acuta	Jeffreys, 1848	t	1946	1244
+Odontostomia	acuta var. umbilicata	Alder	f	1947	1244
+Odostomia	carrozzai	van Aartsen, 1987	t	1948	1245
+Odostomia	albella	(Loven)	f	1949	1245
+Odostomia	conoidea	(Brocchi, 1814)	t	1950	1246
+Odontostomia	conoidea	(Brocchi)	f	1951	1246
+Odostomia	conspicua	Alder, 1850	t	1952	1247
+Odontostomia	conspicua	Alder	f	1953	1247
+Megastomia	conspicua	Alder	f	1954	1247
+Odostomia	eulimoides	Hanley, 1844	t	1955	1248
+Odostomia	lukisi	Jeffreys, 1859	t	1956	1249
+Odostomia	plicata	(Montagu, 1803)	t	1957	1250
+Odontostomia	plicata	(Montagu)	f	1958	1250
+Odostomia	scalaris	MacGillivray, 1843	t	1959	1251
+Odostomia	rissoides	(Hanley)	f	1960	1251
+Odostomia	turrita	Hanley, 1844	t	1961	1252
+Odostomia	unidentata	(Montagu, 1803)	t	1962	1253
+Odontostomia	unidentata	(Montagu)	f	1963	1253
+Noemiamea	dolioliformis	(Jeffreys, 1848)	t	1964	1254
+Ondina	diaphana	(Jeffreys, 1848)	t	1965	1255
+Odostomia	perezi	(Dautzenberg et Fischer)	f	1966	1255
+Evalea	diaphana	(Jeffreys)	f	1967	1255
+Odontostomia	perezi	(Dautzenberg et Fischer)	f	1968	1255
+Auristomia	perezi	(Dautzenberg et Fischer)	f	1969	1255
+Ondina	divisa	(Adams J., 1797)	t	1970	1256
+Evalea	divisa	(J. Adams)	f	1971	1256
+Evalea	divisa  var. laevissima	(J. Adams)	f	1972	1256
+Ondina	obliqua	(Alder, 1844)	t	1973	1257
+Menestho	obliqua	(Alder)	f	1974	1257
+Evalea	obliqua	Alder	f	1975	1257
+Odontostomia	obliqua	Alder	f	1976	1257
+Ondina	obliqua	Alder	f	1977	1257
+Ondina	warreni	(Thompson, 1845)	t	1978	1258
+Evalea	warreni	(Thompson)	t	1979	1258
+Turbonilla	elegantissima	(Montagu)	f	1980	1193
+Chemnitzia	elegantissima		f	1981	1193
+Chemnitzia	lactea	Linné	f	1982	1193
+Turbonilla	pusilla	(Philippi, 1844)	t	1983	1194
+Turbonilla	innovata	Monterosato	f	1984	1194
+Chemnitzia	pusilla	Philippi	f	1985	1194
+Chemnitzia	pusilla	Philippi	f	1986	1194
+Turbonilla	rufa	(Philippi, 1836)	t	1987	1195
+Pyrgiscus	rufa	(Philippi)	f	1988	1195
+Turbonilla	crenata	(Brown, 1827)	t	1989	1259
+Ebala	nitidissima	(Montagu, 1803)	t	1990	1260
+Tjaernoeia	unisulcata	(Chaster, 1897)	t	1991	1261
+Tornus	unisulcatus	(Chaster)	f	1992	1261
+Acteon	tornatilis	(Linnaeus, 1758)	t	1993	1262
+Tornatella	tornatilis	Linné	f	1994	1262
+Diaphana	minuta	Brown, 1827	t	1995	1263
+Colpodapsis	pusilla	Sars M., 1870	t	1996	1264
+Retusa	mammillata	(Philippi, 1836)	t	1997	1265
+Tornatina	mammillata	Philippi	f	1998	1265
+Retusa	obtusa	(Montagu, 1803)	t	1999	1266
+Tornatina	obtusa var. candidula	Locard	f	2000	1266
+Tornatina	obtusa	Montagu	f	2001	1266
+Utriculus	obtusus	Montagu	f	2002	1266
+Retusa	truncatula	(Bruguière, 1792)	f	2003	1267
+Tornatina	truncatula	Bruguière	f	2004	1267
+Retusa	retusa	(Maton et Rockett)	t	2005	1267
+Cylichnina	umbilicata	(Montagu, 1803)	t	2006	1268
+Runcina	coronata	(de Quatrefages, 1844)	t	2007	1269
+Pelta	coronata	Quatrefages	f	2008	1269
+Runcina	ferruginea	Kress, 1977	t	2009	1270
+Ilbia	sp.		f	2010	1270
+Haminoea	hydatis	(Linné, 1758)	t	2011	1271
+Haminea	hydatis	Linné	f	2012	1271
+Haminoea	navicula	(da Costa, 1778)	t	2013	1272
+Haminea	navicula	da Costa	f	2014	1272
+Philine	aperta	(Linnaeus, 1767)	t	2015	1273
+Turbonilla	lactea	(Linnaeus, 1758)	t	2016	1193
+Philine	catena	(Montagu, 1803)	t	2017	1274
+Hermania	catena	(Montagu)	f	2018	1274
+Philine	punctata	(Adams J., 1800)	t	2019	1275
+Cylichna	cylindracea	(Pennant, 1777)	t	2020	1276
+Scaphander	lignarius	(Linnaeus, 1758)	t	2021	1277
+Trigla	lignaria	(Linné)	f	2022	1277
+Tricla	lignaria	(Linné)	f	2023	1277
+Philinoglossa	helgolandica	Hertling, 1932	t	2024	1278
+Limacina	retroversa	(Fleming, 1823)	t	2025	1279
+Spiratella	retroversa	(Fleming)	f	2026	1279
+Clione	limacina	(Phipps, 1774)	t	2027	1280
+Elysia	viridis	(Montagu, 1804)	t	2028	1281
+Hermaea	bifida	(Montagu, 1815)	t	2029	1282
+Alderia	modesta	(Lovén, 1844)	t	2030	1283
+Limapontia	capitata	(Müller, 1774)	t	2031	1284
+Limapontia	nigra	Johnston	f	2032	1284
+Limapontia	senestra	(de Quatrefages, 1844)	t	2033	1285
+Actaeonia	corrugata	Alder et Hancock	f	2034	1285
+Placida	dendritica	(Alder et Hancock, 1843)	t	2035	1286
+Hermaea	dendritica	(Alder et Hancock)	f	2036	1286
+Pleurobranchus	membranaceus	(Montagu, 1815)	t	2037	1287
+Oscanius	membranaceus	(Montagu)	f	2038	1287
+Berthella	plumula	(Montagu, 1803)	t	2039	1288
+Bouviera	perforata	(Philippi)	f	2040	1288
+Pleurobranchus	plumula	Fleming	f	2041	1288
+Pleurobranchus	perforatus	Philippi	f	2042	1288
+Bouviera	perforata	Philippi	f	2043	1288
+Microhedyle	glandulifera	(Kowalewsky, 1901)	t	2044	1289
+Pontohedyle	milaschewichi	(Kowalewsky, 1901)	t	2045	1290
+Microhedyle	milaschewitschii	(Kowalewsky)	f	2046	1290
+Antemnella	loricata	(Swedmark, 1968)	t	2047	1291
+Hedylopsis	loricata	Swedmark	f	2048	1291
+Hedylopsis	spiculifera	(Kowalewsky, 1901)	t	2049	1292
+Hedylopsis	suecica	Odhner, 1937	t	2050	1293
+Akera	bullata	Müller O.F., 1776	t	2051	1294
+Aplysia	depilans	(Gmelin, 1791)	t	2052	1295
+Aplysia	punctata	(Cuvier, 1803)	t	2053	1297
+Aplysia	fasciata	Poiret, 1789	t	2054	1298
+Aplysia	marmorata	Blainville	f	2055	1298
+Aegires	punctilucens	(d'Orbigny, 1837)	t	2056	1299
+Aegirus	punctilucens	(d'Orbigny)	f	2057	1299
+Corambe	testudinaria	Fischer, 1889	t	2058	1300
+Goniodoris	castanea	Alder et Hancock, 1845	t	2059	1301
+Goniodoris	nodosa	(Montagu, 1808)	t	2060	1302
+Goniodoris	nodosa var. barvicensis Johnston	(Montagu) 	f	2061	1302
+Okenia	aspersa	(Montagu, 1815)	t	2062	1303
+Okenia	quadricornis	(Montagu)	f	2063	1303
+Ancula	gibbosa	(Risso, 1818)	t	2064	1304
+Ancula	cristata	(Alder)	f	2065	1304
+Trapania	pallida	Kress, 1968	t	2066	1305
+Onchidoris	fusca	(Müller, 1776)	t	2067	1306
+Lamellidoris	bilamellata		f	2068	1306
+Onchidoris	inconspicua	(Alder et Hancock, 1851	t	2069	1307
+Doris	inconspicua	Alder et Hancock	f	2070	1307
+Onchidoris	pusilla	(Alder et Hancock, 1845)	t	2071	1308
+Atalodoris	pusilla	(Alder et Hancock)	f	2072	1308
+Acanthodoris	pilosa	(Abildgaard in Müller, 1789)	t	2073	1309
+Acanthodoris	subquadrata	Alder et Hancock	f	2074	1309
+Doris	pilosa	Müller	f	2075	1309
+Diaphorodoris	luteocincta	(Sars M., 1870)	t	2076	1310
+Crimora	papillata	Alder et Hancock, 1862	t	2077	1311
+Doris	sticta	(Iredale et O'Donoghue, 1923)	t	2078	1312
+Homoiodoris	sticta	Iredale et O'Donoghue	f	2079	1312
+Archidoris	pseudoargus	(Rapp, 1827)	t	2080	1313
+Archidoris	britannica	(Johnston)	f	2081	1313
+Archidoris	tuberculata	Cuvier	f	2082	1313
+Doris	tuberculata	Cuvier	f	2083	1313
+Anisodoris	marmorata	(Bergh, 1881)	t	2084	1314
+Doris	marmorata	Bergh	f	2085	1314
+Archidoris	marmorata	(Bergh)		2086	1314
+Atagema	gibba	Pruvot-Fol, 1951	t	2087	1315
+Cadlina	laevis	(Linnaeus, 1767)	t	2088	1316
+Echinochila	laevis	(Linné)	f	2089	1316
+Geitodoris	planata	(Alder et Hancock, 1846)	t	2090	1317
+Archidoris	testudinaria	(Risso)	f	2091	1317
+Jorunna	tomentosa	(Cuvier, 1804)	t	2092	1318
+Jorunna	johnstoni	Alder et Hancock	f	2093	1318
+Doris	johnstoni	Alder et Hancock	f	2094	1318
+Rostanga	rubra	(Risso, 1818)	t	2095	1319
+Rostanga	rufescens	Iredale et O'Donoghue	f	2096	1319
+Doris	coccinea	Forbes	f	2097	1319
+Polycera	faeroensis	Lemche 1929	t	2098	1320
+Polycera	quadrilineata	(Müller O.F., 1776)	t	2099	1321
+Polycera	elegans	(Bergh, 1894)	t	2100	1322
+Polycera	dubia	Sars M., 1829	t	2101	1323
+Palio	lessonii	d'Orbigny	f	2102	1323
+Palio	dubia	Sars	f	2103	1323
+Polycera	nothus	(Johnston, 1838)	t	2104	1324
+Polycera	ocellata	Alder et Hancock	f	2105	1324
+Limacia	clavigera	(Müller O.F., 1776)	t	2106	1325
+Triopa	clavigera	(Müller)	f	2107	1325
+Thecacera	pennigera	(Montagu, 1815)	t	2108	1326
+Dendronotus	frondosus	(Ascanius, 1774)	t	2109	1327
+Doto	coronata	(Gmelin, 1791)	t	2110	1328
+Doto	fragilis	(Forbes, 1838)	t	2111	1329
+Doto	pinnatifida	(Montagu, 1804)	t	2112	1330
+Lomanotus	genei	Vérany, 1846	t	2113	1331
+Tritonia	hombergi	Cuvier, 1803	t	2114	1332
+Tritonia	lineata	Alder et Hancock, 1848	t	2115	1333
+Tritonia	nilsodhneri	Marcus Ev., 1983	t	2116	1334
+Duvaucelia	odhneri	Tardy	f	2117	1334
+Tritonia	plebeia	Johnston, 1828	t	2118	1335
+Candiella	plebeia	Gray	f	2119	1335
+Madrella	aurantiaca	Vayssière, 1902	t	2120	1336
+Janolus	cristatus	(delle Chiaje, 1841)	t	2121	1337
+Janus	cristatus	delle Chiaje	f	2122	1337
+Janolus	hyalinus	(Alder et Hancock, 1854)	t	2123	1338
+Zephirinus	mucroniferus	(Alder et Hancock)	f	2124	1341
+Proctonotus	mucroniferus	(Alder et Hancock, 1844)	t	2125	1341
+Aeolidia	papillosa	(Linnaeus, 1761)	t	2126	1342
+Eolis	papillosa	Linné	f	2127	1342
+Aeolis	papillosa	(Linné)	f	2128	1342
+Aeolidiella	alderi	(Cocks, 1852)	t	2129	1343
+Aeolidiella	glauca	(Alder et Hancock, 1845)	t	2130	1344
+Eolis	glauca	Alder et Hancock	f	2131	1344
+Calma	glaucoides	(Alder et Hancock, 1854)	t	2132	1345
+Eolis	glaucoides	Alder et Hancock	f	2133	1345
+Eubranchus	cingulatus	(Alder et Hancock, 1847)	t	2134	1346
+Eolis	cingulata	Alder et Hancock	f	2135	1346
+Galvina	cingulata	Alder et Hancock	f	2136	1346
+Aeolis	cingulata	Alder et Hancock	f	2137	1346
+Eubranchus	exiguus	(Alder et Hancock, 1848)	t	2138	1347
+Eolis	exigua	Alder et Hancock	f	2139	1347
+Eubranchus	farrani	(Alder et Hancock, 1844)	t	2140	1348
+Galvina	farrani	Alder et Hancock	f	2141	1348
+Eolis	farrani	Alder et Hancock	f	2142	1348
+Aeolis	farrani	Alder et Hancock	f	2143	1348
+Eubranchus	tricolor	Forbes, 1838	t	2144	1349
+Aeolis	tricolor	Forbes	f	2145	1349
+Galvina	tricolor	Forbes	f	2146	1349
+Facelina	annulicornis	(Chamisso et Eisenhart, 1821)	t	2147	1350
+Eolis	punctata	Alder et Hancock	f	2148	1350
+Aeolis	punctata	Alder et Hancock	f	2149	1350
+Facelina	punctata	(Alder et Hancock)	f	2150	1350
+Facelina	bostoniensis	(Couthouy, 1838)	t	2151	1351
+Aeolis	drummondi	Thompson	f	2152	1351
+Facelina	drummondi	(Thompson)	f	2153	1351
+Eolis	drummondi	Thompson	f	2154	1351
+Acanthopsole	drummondi	Thompson	f	2155	1351
+Facelina	coronata	(Forbes et Goodsir, 1839)	t	2156	1352
+Facelina	longicornis	(Montagu)	f	2157	1352
+Eolis	coronata	Forbes	f	2158	1352
+Acanthopsole	coranata	Forbes	f	2159	1352
+Pruvotfolia	pselliotes	(Labbé, 1923)	t	2160	1353
+Favorinus	albidus	Iredale & O'Donoghue	f	2161	1354
+Favorinus	branchialis	(Rathke, 1806)	t	2162	1354
+Favorinus	albus	Alder et Hancock	f	2163	1354
+Coryphella	lineata	(Loven, 1846)	t	2164	1355
+Eolis	lineata	Loven	f	2165	1355
+Flabellina	pedata	(Montagu, 1815)	t	2166	1356
+Coryphella	pedata	(Montagu, 1815)	f	2167	1356
+Coryphella	verrucosa	(Johnston)	f	2168	1356
+Eolis	landsburgii	Alder et Hancock	f	2169	1356
+Coryphella	landsburgii	Alder et Hancock	f	2170	1356
+Pseudovermis	sp.		t	2171	1357
+Tergipes	tergipes	Forskål, 1775	t	2172	1358
+Tergipes	despectus	(Johnston)	f	2173	1358
+Eolis	despecta	Johnston	f	2174	1358
+Tergipes	despecta	Johnston	f	2175	1358
+Catriona	gymnota	(Couthouy, 1838)	t	2176	1359
+Catriona	aurantia	(Alder et Hancock)	f	2177	1359
+Eolis	aurantiaca	Alder et Hancock	f	2178	1359
+Cuthona	amoena	(Alder et Hancock, 1845)	t	2179	1360
+Trinchesia	amoena	(Alder et Hancock)	f	2180	1360
+Cuthona	caerulea	(Montagu, 1804)	t	2181	1361
+Trinchesia	coerulea	(Montagu)	f	2182	1361
+Cuthona	foliata	(Forbes et Goodsir, 1839)	t	2183	1362
+Eolis	olivacea	Alder et Hancock	f	2184	1362
+Cuthona	olivacea	Alder et Hancock	f	2185	1362
+Catriona	foliata	(Forbes et Hanley)	f	2186	1362
+Cuthona	viridis	(Forbes, 1840)	t	2187	1363
+Eolis	viridis	Forbes	f	2188	1363
+Embletonia	pulchra	(Alder et Hancock, 1844)	t	2189	1364
+Onchidella	celtica	(Cuvier, 1817)	t	2190	1367
+Oncidium	celticum	Cuvier	f	2191	1367
+Rhodope	veranyi	Kölliker, 1847	t	2192	1368
+Auriculinella	bidentata	(Jeffreys, 1830)	t	2193	1369
+Leuconia	bidentata	Montagu	f	2194	1369
+Stolidomopsis	bidentata	(Montagu)	f	2195	1369
+Ovatella	myosotis	(Draparnaud, 1801)	t	2196	1370
+Phytia	myosotis	(Draparnaud)	f	2197	1370
+Alexia	myosotis	Draparnaud	f	2198	1370
+Otina	ovata	(Brown, 1827)	t	2199	1371
+Otina	otis	Turton	f	2200	1371
+Nucula	hanleyi	Winckworth, 1931	t	2201	1372
+Nucula	radiata	Forbes et Hanley	f	2202	1372
+Nucula	nucleus var. radiata	Forbes et Hanley	f	2203	1372
+Nucula	nitidosa	Winckworth, 1930	t	2204	1373
+Nucula	turgida		f	2205	1373
+Nucula	nucleus	(Linnaeus, 1758)	t	2206	1374
+Nucula	nucleus	(Linné)	f	2207	1374
+Arca	tetragona	Poli, 1795	t	2208	1375
+Striarca	lactea	(Linnaeus, 1758)	t	2209	1376
+Arca	lactea	Linné	f	2210	1376
+Fossularca	lactea	Linné	f	2211	1376
+Glycymeris	glycymeris	(Linnaeus, 1758)	t	2212	1377
+Pectunculus	glycymeris var. punctata	(Calcara)	f	2213	1377
+Pectunculus	glycymeris	Linné	f	2214	1377
+Axinaea	glycymeris	Linné	f	2215	1377
+Mytilus	edulis	(Linnaeus, 1758)	t	2216	1378
+Mytilus	edulis var. spathulina	Locard	f	2217	1378
+Mytilus	galloprovincialis	Lamarck, 1819	t	2218	1379
+Mytilus	edulis var. galloprovincialis	Lamarck	f	2219	1379
+Modiolarca	subpicta	(Cantraine, 1835)	t	2220	1380
+Musculus	marmoratus	(Forbes)	f	2221	1380
+Modiolaria	marmorata	Forbes	f	2222	1380
+Musculus	discors	(Linnaeus, 1767)	t	2223	1381
+Rhomboidella	prideauxi	(Leach, 1815)	t	2224	1382
+Crenella	prideauxi	(Leach)	f	2225	1382
+Modiolus	modiolus	(Linnaeus, 1758)	t	2226	1383
+Modiolus	barbatus	(Linnaeus, 1758)	t	2227	1384
+Modiola	barbata	Linné	f	2228	1384
+Modiolus	adriaticus	(Lamarck, 1819)	t	2229	1385
+Modiola	tulipa		f	2230	1385
+Idas	simpsoni	(Marshall, 1900)	f	2231	1386
+Adula	simpsoni	(Marshall)	t	2232	1386
+Modiolula	phaseolina	(Philippi, 1844)	t	2233	1387
+Modiolus	phaseolinus	Philippi	f	2234	1387
+Atrina	pectinata	(Linnaeus, 1767)	t	2235	1388
+Pinna	fragilis	Pennant	f	2236	1388
+Pinna	pectinata	Linné	f	2237	1388
+Pteria	hirundo	(Linnaeus, 1758)	t	2238	1389
+Pecten	maximus	(Linnaeus, 1758)	t	2239	1390
+Pecten	maximus var. albida	Daniel	f	2240	1390
+Aequipecten	opercularis	(Linnaeus, 1758)	t	2241	1391
+Chlamys	opercularis	(Linné)	f	2242	1391
+Pecten	opercularis	Linné	f	2243	1391
+Palliolum	furtivum	(Lovén, 1846)	t	2244	1392
+Palliolum	striatum	(Müller O.F., 1776)	t	2245	1393
+Chlamys	striata		f	2246	1393
+Palliolum	tigerinum	(Müller O.F., 1776)	t	2247	1394
+Chlamys	tigrina	Müller	f	2248	1394
+Chlamys	tigerina	(Müller)	f	2249	1394
+Pecten	tigrinus	Müller	f	2250	1394
+Palliolum	tigrina	Müller	f	2251	1394
+Hyalopecten	similis	(Laskey, 1811)	t	2252	1395
+Chlamys	similis	Laskey	f	2253	1395
+Palliolum	similis	Laskey	f	2254	1395
+Crassadoma	pusio	(Linnaeus, 1758)	t	2255	1396
+Hinnites	distortus	da Costa	f	2256	1396
+Pecten	pusio	Linné	f	2257	1396
+Chlamys	distorta	(da Costa)	f	2258	1396
+Pecten	sinuosus		f	2259	1396
+Chlamys	varia	(Linnaeus, 1758)	t	2260	1397
+Pecten	varius	Linné	f	2261	1397
+Anomia	ephippium	Linnaeus, 1758	t	2262	1398
+Anomia	ephippium var. cepa	Linné	f	2263	1398
+Heteranomia	squamula	(Linnaeus, 1758)	t	2264	1399
+Monia	aculeata	Müller	f	2265	1399
+Pododesmus	patelliformis	(Linnaeus, 1761)	t	2266	1400
+Monia	patelliformis	Linné	f	2267	1400
+Pododesmus	squama	(Gmelin, 1791)	t	2268	1401
+Monia	squama	(Gmelin)	f	2269	1401
+Limaria	hians	(Gmelin, 1791)	t	2270	1514
+Radula	hians	(Gmelin)	f	2271	1514
+Limea	loscombii	(Sowerby, 1823)	t	2272	1402
+Radula	loscombei	(Sowerby)	f	2273	1402
+Limatula	subauriculata	(Montagu, 1808)	t	2274	1403
+Radula	subauriculata	(Montagu)	f	2275	1403
+Lima	subauriculata	Montagu	f	2276	1403
+Limatula	subauriculata	Montagu	f	2277	1403
+Ostrea	edulis	Linnaeus, 1758	t	2278	1404
+Loripes	lacteus	(Linnaeus, 1758)	t	2279	1405
+Loripes	lucinalis	(Lamarck)	f	2280	1405
+Lucina	leucoma	Turton	f	2281	1405
+Lucina	lactea		f	2282	1405
+Lucinella	divaricata	(Linnaeus, 1758)	t	2283	1406
+Divaricella	divaricata	Linné	f	2284	1406
+Lucina	divaricata	Linné	f	2285	1406
+Lucinoma	borealis	(Linnaeus, 1767)	t	2286	1407
+Lucina	borealis	Linné	f	2287	1407
+Phacoides	borealis	(Linné)	f	2288	1407
+Thyasira	flexuosa	(Montagu, 1803)	t	2289	1408
+Diplodonta	rotundata	(Montagu, 1803)	t	2290	1409
+Galeomma	turtoni	Sowerby, 1825	t	2291	1410
+Kellia	suborbicularis	(Montagu, 1803)	t	2292	1411
+Lasaea	rubra	(Montagu, 1803)	t	2293	1412
+Kellia	rubra		f	2294	1412
+Lepton	squamosum	(Montagu, 1803)	t	2295	1413
+Hemilepton	nitidum	(Turton, 1822)	t	2296	1414
+Lepton	nitidum	Turton	f	2297	1414
+Arculus	sykesi	(Chaster, 1895)	t	2298	1415
+Montacuta	substriata	(Montagu, 1808)	t	2299	1416
+Montacuta	phascolionis	Dautzenberg et Fischer, 1925	t	2300	1417
+Tellimya	phascolionis		f	2301	1417
+Montacuta	ferruginosa	(Montagu, 1808)	t	2302	1418
+Tellimya	ferruginosa	Montagu	f	2303	1418
+Mysella	bidentata	(Montagu, 1803)	t	2304	1419
+Montacuta	bidentata		f	2305	1419
+Epilepton	clarkiae	(Clark, 1852)	t	2306	1420
+Neolepton	sulcatulum	(Jeffreys, 1859)	t	2307	1421
+Turtonia	minuta	(Fabricius, 1780)	t	2308	1422
+Astarte	elliptica	(Brown, 1827)	t	2309	1423
+Astarte	sulcata	(da Costa, 1778)	t	2310	1424
+Goodallia	triangularis	(Montagu, 1803)	t	2311	1425
+Astarte	triangularis	(Montagu)	f	2312	1425
+Goodallia	triangularis var. fusca	Dautzenberg et Durouchoux	f	2313	1425
+Acanthocardia	echinata	(Linnaeus, 1758)	t	2314	1339
+Cardium	echinatum	(Linnaeus)	f	2315	1339
+Acanthocardia	tuberculata	(Linnaeus, 1758)	t	2316	1340
+Cardium	tuberculatum	(Linnaeus)	f	2317	1340
+Cardium	rusticum	Linné	f	2318	1340
+Acanthocardia	echinatum	Linné	f	2319	1339
+Parvicardium	exiguum	(Gmelin, 1791)	t	2320	1426
+Cardium	tuberculatum	Linné	f	2321	1426
+Acanthocardia	tuberculatum	Linné	f	2322	1426
+Cardium	exiguum	Gmelin	f	2323	1426
+Parvicardium	vroomi	van Arsten, Menkhorst & Gittenberger, 1984	t	2324	1427
+Cardium	ovale	Sowerby	f	2325	1427
+Parvicardium	ovale	Sowerby	f	2326	1427
+Parvicardium	scabrum	(Philippi, 1844)	f	2327	1428
+Parvicardium	nodosum	Turton	f	2328	1428
+Cardium	nodosum	Turton	f	2329	1428
+Cardium	scabrum	Philippi	t	2330	1428
+Papillicardium	papillosum	(Poli, 1795)	t	2331	1429
+Cardium	papillosum	Poli	f	2332	1429
+Parvicardium	papillosum	Poli	f	2333	1429
+Laevicardium	crassum	(Gmelin, 1791)	t	2334	1430
+Cardium	norvegicum	Spengler	f	2335	1430
+Cardium	serratum		f	2336	1430
+Cardium	crassum	Gmelin	f	2337	1430
+Cerastoderma	edule	(Linnaeus, 1758)	t	2338	1431
+Cardium	edule	Linné	f	2339	1431
+Mactra	glauca	Born, 1778	t	2340	1432
+Mactra	helvacea	Chemnitz	f	2341	1432
+Mactra	stultorum	(Linnaeus, 1758)	t	2342	1433
+Mactra	corallina	(Linnaeus)	f	2343	1433
+Mactra	corallina var. atlantica	Bucquoy, Dautzenberg et Dollfus	f	2344	1433
+Spisula	elliptica	(Brown, 1827)	t	2345	1434
+Mactra	solida var. elliptica	Brown	f	2346	1434
+Spisula	solida	(Linnaeus, 1758)	t	2347	1435
+Mactra	solida	Linné	f	2348	1435
+Mactra	solida var. truncata	Montagu	f	2349	1435
+Spisula	subtruncata	(da Costa, 1778)	t	2350	1436
+Mactra	subtruncata	Montagu	f	2351	1436
+Mactra	deltoides	Lamarck	f	2352	1436
+Lutraria	angustior	Philippi, 1844	t	2353	1437
+Lutraria	lutraria	(Linnaeus, 1758)	t	2354	1438
+Lutraria	elliptica	Lamarck	f	2355	1438
+Lutraria	magna	(da Costa, 1778)	t	2356	1439
+Lutraria	oblonga	Gmelin	f	2357	1439
+Psammophila	oblonga	Gmelin	f	2358	1439
+Donacilla	cornea	(Poli, 1795)	t	2359	1440
+Mesodesma	corneum	Poli	f	2360	1440
+Solen	marginatus	Pulteney, 1799	t	2361	1441
+Solen	vagina	Linné	f	2362	1441
+Pharus	legumen	(Linnaeus, 1758)	t	2363	1442
+Ceratisolen	legumen	Linné	f	2364	1442
+Ensis	siliqua	(Linnaeus, 1758)	t	2365	1443
+Ensis	ensis	(Linnaeus, 1758)	t	2366	1444
+Solen	ensis	Linné	f	2367	1444
+Phaxas	pellucidus	(Pennant, 1777)	t	2368	1445
+Cultellus	pellucidus		f	2369	1445
+Tellina	tenuis	da Costa, 1778	t	2370	1446
+Macoma	tenuis	da Costa	f	2371	1446
+Macoma	tenuis var. pudibunda	Monterosato	f	2372	1446
+Tellina	fabula	Gmelin, 1791	t	2373	1447
+Angulus	fabula	Gronovius	f	2374	1447
+Tellina	incarnata	Linnaeus, 1758	t	2375	1448
+Angulus	squalida	Pulteney	f	2376	1448
+Tellina	squalida	Pulteney	f	2377	1448
+Tellina	donacina	Linnaeus, 1758	t	2378	1449
+Moerella	donacina	Linné	f	2379	1449
+Tellina	pygmaea	Lovén, 1846	t	2380	1450
+Arcopagia	crassa	(Pennant, 1777)	t	2381	1451
+Tellina	crassa	Gmelin	f	2382	1451
+Macoma	balthica	(Linnaeus, 1758)	t	2383	1218
+Gastrana	fragilis	(Linnaeus, 1758)	t	2384	1296
+Petricola	ochroleuca	Lamarck	f	2385	1296
+Donax	vittatus	(da Costa, 1778)	t	2386	1365
+Donax	anatinus	F. et Hanley	f	2387	1365
+Serrula	vittatus	da Costa	f	2388	1365
+Capsella	variegata	(Gmelin, 1791)	t	2389	1366
+Donax	variegatus	(Gmelin)	f	2390	1366
+Gari	fervensis	(Gmelin, 1791)	t	2391	1452
+Gari	färöensis	Chemnitz	f	2392	1452
+Psammobia	farroensis	Chemnitz	f	2393	1452
+Gari	depressa	(Pennant, 1777)	t	2394	1453
+Lucinopsis	undata	Pennant	f	2395	1479
+Gari	depressa var. alba	Dautzenberg et Durouchoux	f	2396	1453
+Psammobia	vespertina	Chemnitz	f	2397	1453
+Psammocola	depressa	Pennant	f	2398	1453
+Gari	costulata	(Turton, 1822)	t	2399	1454
+Psammobella	costulata	Turton	f	2400	1454
+Gari	tellinella	(Lamarck, 1818)	t	2401	1455
+Psammobella	tellinella	Lamarck	f	2402	1455
+Psammobia	tellinella	Lamarck	f	2403	1455
+Scrobicularia	plana	(da Costa, 1778)	t	2404	1456
+Scrobicularia	piperata	Gmelin	f	2405	1456
+Ervilia	castanea	(Montagu, 1803)	t	2406	1457
+Abra	nitida	(Müller O.F., 1776)	t	2407	1458
+Abra	prismatica	(Montagu, 1808)	t	2408	1459
+Syndesmya	prismatica	Montagu	f	2409	1459
+Abra	tenuis	(Montagu, 1803)	t	2410	1460
+Syndesmya	tenuis	Montagu	f	2411	1460
+Lutricularia	tenuis	Montagu	f	2412	1460
+Abra	alba	(Wood W., 1802)	t	2413	1461
+Solecurtus	scopula	(Turton, 1822)	t	2414	1462
+Arctica	islandica	(Linnaeus, 1767)	t	2415	1463
+Cyprina	islandica	(Linné)	f	2416	1463
+Glossus	humanus	(Linnaeus, 1758)	t	2417	1464
+Isocardia	cor	(Linné)	f	2418	1464
+Venus	verrucosa	Linnaeus, 1758	t	2419	1465
+Ventricola	verrucosa	Linné	f	2420	1465
+Venus	casina	Linnaeus, 1758	t	2421	1466
+Ventricola	casina	Linné	f	2422	1466
+Chamelea	striatula	(da Costa, 1778)	t	2423	1467
+Venus	striatula	(Da Costa)	f	2424	1467
+Venus	gallina	Linné	f	2425	1467
+Venus	gallina var. triangularis	Linné	f	2426	1467
+Clausinella	fasciata	(da Costa, 1778)	t	2427	1468
+Venus	fasciata	Da Costa	f	2428	1468
+Venus	brongniartii		f	2429	1468
+Anaitis	fasciata	Da Costa	f	2430	1468
+Timoclea	ovata	(Pennant, 1777)	t	2431	1469
+Venus	ovata	Pennant	f	2432	1469
+Gouldia	minima	(Montagu, 1803)	t	2433	1470
+Gafrarium	minimum	(Montagu)	f	2434	1470
+Circe	minima	Montagu	f	2435	1470
+Dosinia	lupinus	(Linnaeus, 1758)	t	2436	1471
+Dosinia	lincta	Pulteney	f	2437	1471
+Dosinia	exoleta	(Linnaeus, 1758)	t	2438	1472
+Artemis	exoleta		f	2439	1472
+Cytherea	exoleta		f	2440	1472
+Dosinia	exoleta var. ex-col. zigzag	Bucquoy, Dautzenberg et Dollfus	f	2441	1472
+Dosinia	exoleta var. ex-col. radians	Bucquoy, Dautzenberg et Dollfus	f	2442	1472
+Dosinia	exoleta var. ex-col. castanea	Bucquoy, Dautzenberg et Dollfus	f	2443	1472
+Dosinia	exoleta var. ex-col. parcipicta	Bucquoy, Dautzenberg et Dollfu	f	2444	1472
+Dosinia	exoleta var. ex-col. albescens	Poli (emend.)	f	2445	1472
+Dosinia	exoleta var. ex-f. ponderosa	Bucquoy, Dautzenberg et Dollfus	f	2446	1472
+Dosinia	exoleta var. ex-f. major	Bucquoy, Dautzenberg et Dollfus	f	2447	1472
+Dosinia	exoleta var. ex-col. zigzag	Bucquoy, Dautzenberg et Dollfus	f	2448	1472
+Dosinia	exoleta var. ex-col. pluridiata	Dautzenberg et Fischer	f	2449	1472
+Dosinia	exoleta var. ex-col. interrupta	Bucquoy, Dautzenberg et Dollfu	f	2450	1472
+Callista	chione	(Linnaeus, 1758)	t	2451	1473
+Meretrix	chione	Linné	f	2452	1473
+Cythera	chione	Linné	f	2453	1473
+Tapes	decussatus	(Linnaeus, 1758)	t	2454	1474
+Tapes	decussatus var. ex-col. albida	Bucquoy, Dautzenberg et Dollfus	f	2455	1474
+Tapes	decussatus var. fusca	Gmelin	f	2456	1474
+Tapes	aureus var. Dautzenbergi	Martel	f	2457	1476
+Tapes	aureus var. ex-col. griseola nov. var.		f	2458	1476
+Tapes	aureus var. ex-col semipartita	Dautzenberg	f	2459	1476
+Paphia	rhomboides	(Pennant, 1777)	t	2460	1477
+Tapes	rhomboides var. ex-col albida	Locard	f	2461	1477
+Tapes	rhomboides	(Pennant)	f	2462	1477
+Tapes	virgineus	Linné	f	2463	1477
+Tapes	rhomboides var. ex-forma major	Dautzenberg et Fischer	f	2464	1477
+Tapes	rhomboides var. ex-col rosea	Locard	f	2465	1477
+Tapes	rhomboides var. ex-forma elongata	(Jeffreys)	f	2466	1477
+Tapes	virginea		f	2467	1477
+Venerupis	pullastra	(Montagu, 1803)	t	2468	1478
+Tapes	pullastra	Montagu	f	2469	1478
+Pullastra	pullastra	Montagu	f	2470	1478
+Tapes	pullastra var.ex-col. graphica nov. var.		f	2471	1478
+Tapes	pullastra var.ex-col. evanida nov. var.		f	2472	1478
+Tapes	pullastra var.ex-col. dissimilis	Dautzenberg	f	2473	1478
+Tapes	pullastra var.ex-col. maculosa	Dautzenberg	f	2474	1478
+Tapes	pullastra var.ex-col. albida	Locard	f	2475	1478
+Tapes	pullastra var.ex-col. alboradiata nov. var.		f	2476	1478
+Tapes	pullastra var.ex-forma ventricosa	Locard	f	2477	1478
+Tapes	pullastra var.ex-col. lyrata	Locard	f	2478	1478
+Tapes	pullastra var.ex-col. violacea	Locard	f	2479	1478
+Tapes	pullaster	Montagu	f	2480	1478
+Tapes	pullastra var.ex-col. nigrescens nov. var.		f	2481	1478
+Tapes	pullastra var.ex-col. adusta nov. var.		f	2482	1478
+Tapes	pullastra var.ex-col. graphica nov. var.		f	2483	1478
+Tapes	pullastra var. saxatilis	Fleuriau de Bellevue	f	2484	1478
+Tapes	pullastra var.ex-col. zonata	Locard	f	2485	1478
+Mysia	undata	(Pennant, 1777)	t	2486	1479
+Mya	arenaria	Linnaeus, 1758	t	2487	1481
+Sphenia	binghami	Turton, 1822	t	2488	1482
+Corbula	gibba	(Olivi, 1792)	t	2489	1483
+Aloidis	gibba	(Olivi)	f	2490	1483
+Gastrochaena	dubia	(Pennant, 1777)	t	2491	1484
+Hiatella	arctica	(Linnaeus, 1767)	t	2492	1485
+Saxicava	rugosa	Linné	f	2493	1485
+Saxicava	arctica	Linné	f	2494	1485
+Hiatella	gallicana	(Lamarck)	f	2495	1485
+Saxicava	gallicana		f	2496	1485
+Panomya	norvegica	(Spengler, 1793)	t	2497	1486
+Panopea	norvegica	Spengler	f	2498	1486
+Zirfaea	crispata	(Linnaeus, 1767)	t	2499	1487
+Pholas	crispata	Lamarck	f	2500	1487
+Psiloteredo	megotara	(Hanley in Forbes et Hanley, 1848)	t	2501	1488
+Teredo	megotara	Hanley	f	2502	1488
+Nototeredo	norvegica	(Spengler, 1792)	t	2503	1489
+Teredo	norvegica	Spenglier, 1792	f	2504	1489
+Xylophaga	dorsalis	(Turton, 1819)	t	2505	1490
+Thracia	papyracea	(Poli, 1791)	f	2506	1491
+Thracia	phaseolina	Lamarck	t	2507	1491
+Thracia	villosiuscula	(McGillivray, 1827)	t	2508	1492
+Thracia	distorta	(Montagu, 1803)	t	2509	1493
+Ixartia	distorta		f	2510	1493
+Pandora	inaequivalvis	(Linnaeus, 1758)	t	2511	1494
+Pandora	albida	(Roding)	f	2512	1494
+Pandora	rostrata	Lamarck	f	2513	1494
+Pandora	pinna	(Montagu, 1803)	t	2514	1495
+Lyonsia	norwegica	(Gmelin, 1791)	t	2515	1496
+Lyonsia	norvegica	(Chemnitz)	f	2516	1496
+Dentalium	vulgare	da Costa, 1778	t	2517	1497
+Dentalium	entale	Linné	f	2518	1497
+Antalis	vulgare	da Costa	f	2519	1497
+Dentalium	vulgare var. rosca	Bucquoy, Dautzenberg et Dollfus	f	2520	1497
+Sepia	officinalis	Linnaeus, 1758	t	2521	1498
+Sepia	orbignyana	Férussac, 1826	t	2522	1499
+Sepiola	atlantica	d'Orbigny, 1840	t	2523	1500
+Sepiola	rondeleti	Leach, 1817	t	2524	1501
+Sepietta	oweniana	(d'Orbigny, 1840)	t	2525	1502
+Sepiola	scandica	Steenstrup	f	2526	1502
+Rossia	macrosoma	(Delle Chiaje, 1830)	t	2527	1503
+Todarodes	sagittatus	(Lamarck, 1798)	t	2528	1504
+Ommatostrephes	sagittatus	Lamarck	f	2529	1504
+Alloteuthis	media	(Linnaeus, 1758)	t	2530	1505
+Loligo	media	Linné	f	2531	1505
+Alloteuthis	subulata	(Lamarck, 1798)	t	2532	1506
+Loligo	subulata	Lamarck	f	2533	1506
+Loligo	forbesii	Steenstrup, 1856	t	2534	1507
+Loligo	vulgaris	Lamarck, 1798	t	2535	1508
+Octopus	vulgaris	Cuvier, 1797	t	2536	1509
+Eledone	cirrhosa	(Lamarck, 1798)	t	2537	1510
+Eledon	cirrhosus	d'Orbigny	f	2538	1510
+Moschites	cirrhosus	Lamarck	f	2539	1510
+Mya	truncata	Linnaeus, 1758	t	2540	1480
+Rhodope	roskoi	Haszprunar & Hess, 2005	t	2541	1513
+Phyllophora	pseudoceranoides	(S.G. Gmelin) Newroth et A.R.A. Taylor	t	2543	1760
+Grateloupia	turuturu	Yamada	t	2544	1784
+Bangia	atropurpurea	(Roth) C. Agardh	t	2545	1521
+Porphyra	drachii 	J. Feldmann 1978	t	2546	1522
+Porphyra	leucosticta	Thuret	t	2547	1523
+Porphyra	linearis	Greville 1830	t	2548	1524
+Porphyra	umbilicalis	(Linnaeus) Kützing	t	2549	1525
+Erythrotrichia	bertholdii	Batters	t	2550	1526
+Erythrotrichia	carnea	(Dillwyn) J. Agardh	t	2551	1527
+Erythrotrichia	investiens	(Zanardini) Bornet	t	2552	1528
+Erythrotrichia	welwitschii	(Ruprecht) Batters	t	2553	1800
+Porphyropsis	coccinea	(J. Agardh ex Areschoug) Rosenvinge	t	2554	1529
+Porphyrostromium	boryanum	(Montagne) P.C. Silva	t	2555	1801
+Erythrotrichia	boryana	(Montagne) Berthold 1882	f	2556	1801
+Porphyrostromium	ciliare	(Carmichael) M.J. Wynne	t	2557	1534
+Erythrotrichia	obscura	Berthold, 1882	f	2558	1534
+Sahlingia	subintegra	(Rosenvinge) Kornmann	t	2559	1530
+Erythrocladia	subintegra	Rosenvinge 1909	f	2560	1530
+Chroodactylon	ornata	(C. Agardh) Basson	t	2561	1531
+Asterocystis	ornata	(C. Agardh) G. Hamel 1924	f	2562	1531
+Colacodictyon	reticulatum	(Batters) Feldmann	t	2563	1532
+Stylonema	alsidii	(Zanardini) K. Drew	t	2564	1536
+Goniotrichum	elegans	(Chauvin) Lejolis	f	2565	1536
+Stylonema	cornu-cervi	Reinsch	t	2566	1537
+Goniotrichum	cornu-cervi	(Reinsch) Hauck	f	2567	1537
+Acrochaetium	codii	(P.L. Crouan & H.M. Crouan) G. Hamel	t	2568	1538
+Rhodothamniella	codii	(P.L. Crouan & H.M. Crouan) Feldmann, nom. Illeg. 1954	f	2569	1538
+Acrochaetium	endozoicum	(Darbishire) Batters	t	2570	1539
+Acrochaetium	hallandicum	(Kylin) G. Hamel	t	2571	1540
+Acrochaetium	infestans	M.A. Howe & Hoyt	t	2572	1541
+Acrochaetium	cheminii	Feldmann nomen nudum	t	2573	1542
+Acrochaetium	leptonema	(Rosenvinge) Børgesen	t	2574	1543
+Acrochaetium	moniliforme	(Rosenvinge) Børgesen	t	2575	1544
+Acrochaetium	pusillum	Feldmann nomen nudum	t	2576	1545
+Acrochaetium	reductum	(Rosenvinge) G. Hamel	t	2577	1546
+Acrochaetium	kylinoides	Feldman 1958.	f	2578	1546
+Acrochaetium	rosulatum	(Rosenvinge) Papenfuss	t	2579	1548
+Kylinia	rosulata	Rosenvinge	f	2580	1548
+Acrochaetium	savianum	(Meneghini) Nägeli	t	2581	1549
+Acrochaetium	thuretii	(Bornet) F.S. Collins & Hervey	f	2582	1549
+Acrochaetium	secundatum	(Lyngbye) Nägeli in Nägeli & Cramer	t	2583	1550
+Acrochaetium	virgatum	(Harvey) Batters 1902	f	2584	1550
+Acrochaetium	stilophorae	(Levring) Kylin	t	2585	1551
+Acrochaetium	subtilissimum	(Kützing) G. Hamel	t	2586	1552
+Acrochaetium	trifilum	(Buffham) Batters	t	2587	1553
+Rhodochorton	purpureum	(Lightfoot) Rosenvinge	t	2588	1554
+Schmitziella	endophloea	Bornet & Batters	t	2589	1555
+Plocamium	cartilagineum	(Linnaeus) P.S. Dixon	t	2590	1559
+Plocamium	coccineum	(Hudson) Lyngbye	f	2591	1559
+Ahnfeltia	plicata	(Hudson) Fries	t	2592	1560
+Bonnemaisonia	asparagoides	(Woodward) C. Agardh 1817: XVIII	t	2593	1561
+Bonnemaisonia	clavata	G. Hamel 1930: 104	t	2594	1562
+Bonnemaisonia	hamifera	Hariot	t	2595	1564
+Asparagopsis	armata	Harvey	t	2596	1565
+Atractophora	hypnoides	P.L. Crouan & H.M. Crouan	t	2597	1568
+Naccaria	wiggii	(Turner) Endlicher	t	2598	1556
+Aglaothamnion	bipinnatum	(P.L. Crouan & H.M. Crouan) Feldmann-Mazoyer	t	2599	1557
+Aglaothamnion	byssoides	(Arnott ex Harvey) L’Hardy-Halos & Rueness	t	2600	1569
+Aglaothamnion	furcellariae	(J. Agardh) Feldmann-Mazoyer	f	2601	1569
+Aglaothamnion	fasciculatum	(Harvey) Maggs & L’Hardy-Halos	t	2602	1570
+Aglaothamnion	feldmanniae	Halos	t	2603	1571
+Aglaothamnion	gallicum	 (Nägeli) L’Hardy-Halos & Ardré	t	2604	1572
+Aglaothamnion	brodiaei	(Harvey) Feldmann G.	f	2605	1572
+Aglaothamnion	hookeri	(Dillwyn) Maggs & Hommersand	t	2606	1573
+Aglaothamnion	cordatum	Feldmann-Mazoyer	t	2607	1574
+Aglaothamnion	neglectum	Feldmann-Mazoyer 1941: 459-464, figs. 181-183	f	2608	1574
+Aglaothamnion	priceanum	Maggs, Guiry & Rueness	t	2609	1575
+Aglaothamnion	pseudobyssoides	(P.L. Crouan & H.M. Crouan) Halos	t	2610	1577
+Aglaothamnion	roseum	(Roth) Maggs & L’Hardy-Halos	t	2611	1578
+Aglaothamnion	sepositum	(Gunnerus) Maggs & Hommersand	t	2612	1581
+Dasya	arbuscula	(Dillwyn) C. Agardh	f	2613	1581
+Aglaothamnion	tripinnatum	(C. Agardh) Feldmann-Mazoyer	t	2614	1566
+Anotrichium	furcellatum	(J. Agardh) Baldock	t	2615	1582
+Neomonospora	furcellata	(J. Agardh) Feldmann-Mazoyer & Meslin	f	2616	1582
+Antithamnion	cruciatum	(C. Agardh) Nägeli	t	2617	1583
+Antithamnion	tenuissimum	(Hauck) Schiffner (non Gardner)	t	2618	1584
+Antithamnionella	spirographidis	(Schiffner) E.M. Wollaston	t	2619	1585
+Antithamnion	spirographidis	Schiffner	f	2620	1585
+Antithamnionella	ternifolia	(J.D. Hooker & Harvey) Lyle	t	2621	1586
+Anthithamnion	sarniense	(Lyle) G. Feldmann	f	2622	1586
+Bornetia	secundiflora	(J. Agardh) Thuret	t	2623	1587
+Callithamnion	corymbosum	(J.E. Smith) Lyngbye	t	2624	1589
+Callithamnion	dudresnayi	(Bonnemaison) P.L. Crouan & H.M. Crouan	t	2625	1590
+Callithamnion	granulatum	(Ducluzeau) C. Agardh	t	2626	1591
+Callithamnion	tetragonum	(Withering) S.F. Gray	t	2627	1592
+Rhodymenia	ardissonei	Feldmann	t	2628	1794
+Callithamnion	tetragonum var. tetragonum	(Withering) C. Agardh	f	2629	1592
+Callithamnion	tetragonum var. brachiatum	(Bonnemaison) J. Agardh.	f	2630	1592
+Callithamnion	tetricum	(Dillwyn) S.F. Gray	t	2631	1593
+Ceramium	arborescens	J. Agardh	t	2632	1594
+Ceramium	bertholdii	Funk	t	2633	1595
+Ceramium	ciliatum	(J. Ellis) Ducluzeau	t	2634	1596
+Ceramium	cimbricum	H.E. Petersen in Rosenvinge	t	2635	1518
+Ceramium	circinatum	(Kützing) J. Agardh	t	2636	1597
+Ceramium	comptum	Børgesen	t	2637	1598
+Ceramium	deslongchampsii	Chauvin ex Duby	t	2638	1600
+Ceramium	diaphanum	(Lightfoot) Roth	t	2639	1576
+Ceramium	diaphanum	(Roth) Harvey	f	2640	1576
+Ceramium	tenuissimum	(Lyngbye) J. Agardh	f	2641	1576
+Ceramium	echionotum	J. Agardh	t	2642	1601
+Ceramium	echionotum var. corticatum	Mazoyer	f	2643	1601
+Ceramium	echionotum var. echionotum		f	2644	1601
+Ceramium	flaccidum	(Kützing) Ardissone	t	2645	1563
+Ceramium	gracillinum	Griffiths et Harvey.	f	2646	1563
+Ceramium	gaditanum	(Clemente y Rubio) Cremades	t	2647	1579
+Ceramium	flabelligerum	J. Agardh 1844.	f	2648	1580
+Ceramium	pallidum	(Nägeli ex Kützing) Maggs & Hommersand	t	2649	1580
+Ceramium	penicillatum	Areschoug in Kützing	t	2650	1602
+Ceramium	fruticulosum f. dichotomum		f	2651	1602
+Ceramium	secundatum	Lyngbye	t	2652	1603
+Ceramium	shuttleworthianum	(Kützing) Rabenhorst	t	2653	1604
+Ceramium	acanthonotum	(Carmichael ex Harvey) J. Agardh 1844.	f	2654	1604
+Ceramium	siliquosum	(Kützing) Maggs & Hommersand	t	2655	1605
+Ceramium	tenuicorne	(Kützing) Waern	t	2656	1606
+Compsothamnion	decompositum	(J. Agardh) Maggs & L’Hardy-Halos	t	2657	1607
+Compsothamnion	gracillimum	De Toni	t	2658	1608
+Compsothamnion	thuyoides	(J.E. Smith) F. Schmitz	t	2659	1588
+Crouania	attenuata	(C. Agardh) J. Agardh	t	2660	1567
+Griffithsia	corallinoides	(Linnaeus) Trevisan	t	2661	1609
+Griffithsia	devoniensis	Harvey	t	2662	1610
+Halurus	equisetifolius	(Lightfoot) Kützing	t	2663	1611
+Halurus	flosculosus	(J. Ellis) Maggs & Hommersand	t	2664	1612
+Griffithsia	flosculosa	(J. Ellis) Batters 1902	f	2665	1612
+Microcladia	glandulosa	(Solander ex Turner) Greville	t	2666	1613
+Monosporus	pedicellatus	(J.E. Smith) Solier in Castagne	t	2667	1614
+Neomonospora	pedicellata	(J.E. Smith) Feldmann-Mazoyer & Meslin 1939	f	2668	1614
+Neomonospora	pedicellata var. comosa	(Holmes & Batters)	t	2669	1615
+Pleonosporium	borreri	( J.E. Smith) Nägeli	t	2670	1616
+Plumaria	plumosa	(Hudson) Kuntze	t	2671	1617
+Plumaria	elegans	(Bonnemaison) F. Schmitz 1889	f	2672	1617
+Pterothamnion	crispum	(Ducluzeau) Nägeli	t	2673	1618
+Antithamnion	plumula var. crispum	(Ducluzeau) Hauck	f	2674	1618
+Antithamnion	plumula var. bebbii	(Reinsch) J. Feldmann 1937 	f	2675	1618
+Pterothamnion	plumula	(J. Ellis) Nägeli	t	2676	1620
+Antithamnion	plumula var. plumula	J. Ellis) Thuret	f	2677	1620
+Ptilothamnion	pluma	(Dillwyn) Thuret in Le Jolis	t	2678	1621
+Seirospora	interrupta	(J.E. Smith) F. Schmitz	t	2679	1622
+Spermothamnion	repens	(Dillwyn) Rosenvinge	t	2680	1623
+Spermothamnion	repens f. turneri	(Mertens ex Roth) Rosenvinge	f	2681	1623
+Sphondylothamnion	multifidum	 (Hudson) Nägeli	t	2682	1626
+Spyridia	filamentosa	(Wulfen) Harvey in W.J. Hooker	t	2683	1627
+Dasya	corymbifera	J. Agardh	t	2684	1628
+Dasya	ocellata	(Grateloup) Harvey	t	2685	1629
+Dasya	punicea	(Zanardini) Meneghini ex Zanardini	t	2686	1630
+Heterosiphonia	plumosa	(J. Ellis) Batters	t	2687	1631
+Acrosorium	ciliolatum	(Zanardini) Kylin	t	2688	1633
+Acrosorium	venulosum	<i>Acrosorium </i> 	f	2689	1633
+Apoglossum	ruscifolium	(Turner) J. Agardh	t	2690	1634
+Asterocolax	erythroglossi	Feldmann & G. Feldmann	t	2691	1635
+Cryptopleura	ramosa	(Hudson) Kylin ex Lily Newton	t	2692	1636
+Delesseria	sanguinea	(Hudson) J.V. Lamouroux	t	2693	1638
+Drachiella	heterocarpa	(Chauvin ex Duby) Maggs & Hommersand	t	2694	1639
+Drachiella	minuta	(Kylin) Maggs & Hommersand	t	2695	1641
+Drachiella	spectabilis	J. Ernst & Feldmann	t	2696	1643
+Erythroglossum	laciniatum	(Lightfoot) Maggs & Hommersand	t	2697	1644
+Polyneura	gmelinii	(Greville) Kylin	f	2698	1644
+Erythroglossum	sandrianum	(Zanardini) Kylin	t	2699	1645
+Gonimocolax	roscoffensis	Feldmann & G. Feldmann	t	2700	1646
+Gonimophyllum	buffhamii	Batters	t	2701	1647
+Haraldiophyllum	bonnemaisonii	(Kylin) A.D. Zinova	t	2702	1648
+Hypoglossum	hypoglossoides	(Stackhouse) F.S. Collins & Hervey	t	2703	1652
+Hypoglossum	woodwardii	Kützing	f	2704	1652
+Membranoptera	alata	(Hudson) Stackhouse	t	2705	1599
+Myriogramme	carnea	(J.J.Rodríguez) Kylin	t	2706	1637
+Nitophyllum	alliaceum	P.L. Crouan & H.M. Crouan	t	2707	1624
+Nitophyllum	punctatum	(Stackhouse) Greville	t	2708	1653
+Phycodrys	rubens	(Linnaeus) Batters	t	2709	1654
+Polyneura	bonnemaisonii	(C. Agardh) Maggs & Hommersand	t	2710	1655
+Polyneura	hilliae	(Greville) Kylin 1924.	f	2711	1655
+Radicilingua	thysanorhizans	(Holmes) Papenfuss	t	2712	1656
+Boergeseniella	fruticulosa	(Wulfen) Kylin	t	2713	1657
+Polysiphonia	fruticulosa	(Wulfen) Sprengel	f	2714	1657
+Boergeseniella	thuyoides	(Harvey) Kylin	t	2715	1659
+Polysiphonia	thuyoides	Harvey 1836.	f	2716	1659
+Bostrychia	scorpioides	(Hudson) Montagne ex Kützing	t	2717	1660
+Brongniartella	byssoides	(Goodenough & Woodward) F. Schmitz	t	2718	1661
+Chondria	capillaris	(Hudson) M.J. Wynne	t	2719	1662
+Chondria	tenuissima	(Goodenough et Woodward) Agardh	f	2720	1662
+Chondria	coerulescens	(J. Agardh) Falkenberg	t	2721	1663
+Chondria	dasyphylla	(Woodward) C. Agardh	t	2722	1649
+Halopithys	incurva	(Hudson) Batters	t	2724	1664
+Halopithys	incurvus	(Hudson) Batters	f	2725	1664
+Herposiphonia	secunda f. tenella	(C. Agardh) M.J. Wynne	t	2726	1558
+Herposiphonia	tenella	(C. Agardh) Ambronn	f	2727	1558
+Laurencia	obtusa	(Hudson) J.V. Lamouroux	t	2728	1665
+Laurencia	pyramidalis	Bory de Saint-Vincent ex Kützing	t	2729	1519
+Lophosiphonia	obscura	(C. Agardh) Falkenberg in F. Schmitz & Falkenberg	t	2730	1666
+Lophosiphonia	subadunca	(Kützing) Falkenberg.	f	2731	1666
+Ophidocladus	simpliciusculus	(P.L. Crouan & H.M. Crouan) Falkenberg in Schmitz & Falkenberg	t	2732	1667
+Osmundea	hybrida	(A.P. de Candolle) K.W. Nam in K.W. Nam, Maggs & Garbary 1994: 393	t	2733	1668
+Laurencia	hybrida	(A.P. de Candolle) Lenormand	f	2734	1669
+Osmundea	osmunda	(S.G. Gmelin) K.W. Nam & Maggs in K.W. Nam, Maggs & Garbary	t	2735	1669
+Osmundea	pinnatifida	(Hudson) Stackhouse	t	2736	1671
+Laurencia	pinnatifida	(Hudson) J.V. Lamouroux	f	2737	1671
+Osmundea	truncata	(Kützing) K.W. Nam & Maggs	t	2738	1516
+Polysiphonia	affinis	Moore	t	2739	1672
+Polysiphonia	atlantica	Kapraun & J.N. Norris	t	2740	1673
+Polysiphonia	macrocarpa	Harvey, nom illeg. 1836.	f	2741	1673
+Polysiphonia	brodiei	(Dillwyn) Sprengel	t	2742	1674
+Polysiphonia	denudata	(Dillwyn) Greville ex Harvey	t	2743	1676
+Polysiphonia	elongata	(Hudson) Sprengel	t	2744	1677
+Polysiphonia	elongella	Harvey	t	2745	1678
+Polysiphonia	fibrata	(Dillwyn) Harvey	t	2746	1679
+Polysiphonia	fibrillosa	(Dillwyn) Sprengel	t	2747	1680
+Polysiphonia	fucoides	(Hudson) Greville	t	2748	1681
+Polysiphonia	violacea	(Roth) Greville	f	2749	1681
+Polysiphonia	nigrescens	(Hudson) Greville	f	2750	1681
+Polysiphonia	furcellata	(C. Agardh) Harvey	t	2751	1682
+Polysiphonia	harveyi	J. Bailey	t	2752	1683
+Polysiphonia	insidiosa	Crouan	f	2753	1683
+Polysiphonia	lanosa	(Linnaeus)	t	2754	1684
+Polysiphonia	nigra	(Hudson) Batters	t	2755	1651
+Polysiphonia	simulans	Harvey	t	2756	1670
+Polysiphonia	stricta	(Dillwyn) Greville	t	2757	1547
+Polysiphonia	urceolata var. urceolata		f	2758	1547
+Polysiphonia	subulata	(Ducluzeau) P.L. Crouan & H.M. Crouan	t	2759	1658
+Polysiphonia	subulifera	(C. Agardh) Harvey	t	2760	1632
+Pterosiphonia	complanata	(Clemente) Falkenberg	t	2761	1625
+Pterosiphonia	parasitica	(Hudson) Falkenberg	t	2762	1535
+Pterosiphonia	pennata	(C. Agardh) Sauvageau	t	2763	1685
+Rhodomela	confervoides	(Hudson) P.C. Silva	t	2764	1686
+Colaconema	asparagopsis	Chemin	t	2765	1687
+Acrochaetium	asparagopsidis	(Chemin) Papenfuss	f	2766	1687
+Colaconema	bonnemaisoniae	Batters	t	2767	1688
+Acrochaetium	bonnemaisoniae	(Batters) J. et G. Feldmann	f	2768	1688
+Colaconema	caespitosum	(J. Agardh) Jackelman, Stegenga & J.J. Bolton	t	2769	1689
+Rhodothamniella	caespitosa	(J. Agardh) J. Feldmann	f	2770	1689
+Colaconema	daviesii	(Dillwyn) Stegenga	t	2771	1690
+Acrochaetium	daviesii	Nägeli	f	2772	1690
+Colaconema	endophyticum	(Batters) J.T. Harper & G.W. Saunders	t	2773	1691
+Acrochaetium	endophyticum	Batters	f	2774	1691
+Choreonema	thuretii	(Bornet) F. Schmitz	t	2775	1619
+Corallina	elongata	J. Ellis & Solander	t	2776	1640
+Corallina	mediterranea	Areschoug	f	2777	1640
+Corallina	officinalis	Linnaeus	t	2778	1692
+Haliptilon	squamatum	(Linnaeus) H.W. Johansen, L.M. Irvine & A. Webster	t	2779	1693
+Corallina	squamata	Ellis et Solander	f	2780	1693
+Hydrolithon	boreale	(Foslie) Y.M. Chamberlain	t	2781	1515
+Melobesia	farinosa var. solmsiana	(Falkenberg) Foslie	f	2782	1515
+Hydrolithon	farinosum	(J.V. Lamouroux) D. Penrose & Y.M. Chamberlain	t	2783	1694
+Melobesia	farinosa	Lamouroux	f	2784	1694
+Jania	longifurca	Zanardini	t	2785	1695
+Jania	rubens	(Linnaeus) J.V. Lamouroux	t	2786	1696
+Jania	rubens var. corniculata	(Linnaeus) Yendo	t	2787	1697
+Jania	corniculata	(Linné) Lamouroux	f	2788	1697
+Corallina	elegans	Lenormand	f	2789	1697
+Lithophyllum	crouaniorum	Foslie	t	2790	1698
+Dermatolithon	crouanii	(Foslie)		2791	1698
+Lithophyllum	incrustans	Philippi	t	2792	1699
+Lithophyllum	orbiculatum	(Foslie) Foslie	t	2793	1700
+Lithothamnion	subtenellum	(Foslie) Lemoine	f	2794	1700
+Lithophyllum	papillosum	(Zanardini ex Hauck) Foslie	t	2795	1701
+Dermatolithon	papillosum	(Zanardini) Foslie	f	2796	1701
+Lithothamnion	glaciale	Kjellman	t	2797	1702
+Lithothamnion	granii	(Foslie)	f	2798	1702
+Lithothamnion	hamelii	M. Lemoine in G.Hamel & M.Lemoine	t	2799	1703
+Lithothamnion	sonderi	Hauck	t	2800	1704
+Melobesia	membranacea	(Esper) J.V. Lamouroux	t	2801	1706
+Epilithon	membranaceum	(Esper) Heydrich	f	2802	1706
+Mesophyllum	lichenoides	(J. Ellis) M. Lemoine	t	2803	1707
+Phymatolithon	calcareum	(Pallas) Adey & D.L. McKibbin	t	2804	1708
+Lithothamnion	calcareum	(Pallas) Areschoug	f	2805	1708
+Phymatolithon	lenormandii	(J.E. Areschoug) W.H. Adey	t	2806	1709
+Lithothamnion	lenormandii	(Areschoug) Foslie	f	2807	1709
+Pneophyllum	confervicola	(Kützing) Y.M. Chamberlain	t	2808	1517
+Melobesia	minutula	Foslie	f	2809	1517
+Pneophyllum	fragile	Kützing	t	2810	1710
+Melobesia	lejolisii	Rosanoff	f	2811	1710
+Pneophyllum	limitatum	(Foslie) Y.M. Chamberlain	t	2812	1711
+Melobesia	limitata	(Foslie)	f	2813	1711
+Pneophyllum	zonale	(P.L. Crouan & H.M. Crouan) Y.M. Chamberlain	t	2814	1712
+Melobesia	zonalis	(Crouan) Foslie	f	2815	1712
+Titanoderma	corallinae	(P.L. Crouan & H.M. Crouan) Woelkerling, Y.M. Chamberlain & P.C. Silva	t	2816	1713
+Dermatolithon	corallinae	(Crouan) Foslie	f	2817	1713
+Titanoderma	pustulatum	(J.V. Lamouroux) Nägeli in Nägeli & C.E.Cramer	t	2818	1714
+Dermatolithon	pustulatum	(Lamouroux) Foslie	f	2819	1714
+Dermatolithon	hapalidoides	(Crouan) Foslie	f	2820	1714
+Dermatolithon	hapalidiodes f. confinis		f	2821	1714
+Gelidiella	calcicola	Maggs & Guiry	t	2822	1642
+Gelidium	corneum	(Hudson) J.V. Lamouroux	t	2823	1675
+Gelidium	sesquipedale	(Turner) Thuret	f	2824	1675
+Gelidium	crinale	(Hare ex Turner) Gaillon	t	2825	1715
+Gelidium	pulchellum	(Turner) Kützing	t	2826	1716
+Gelidium	pusillum	(Stackhouse) Le Jolis	t	2827	1717
+Gelidium	spinosum	(S.G. Gmelin) P.C. Silva	t	2828	1718
+Gelidium	latifolium	(Greville) Thuret et Bornet	f	2829	1718
+Pterocladiella	capillacea	(S.G. Gmelin) Santelices & Hommersand	t	2830	1719
+Pterocladia	pinnata	(Hudson) Papenfuss	f	2831	1719
+Solieria	chordalis	(C. Agardh) J. Agardh	t	2832	1720
+Calosiphonia	vermicularis	(J. Agardh) F. Schmitz	t	2833	1721
+Schmitzia	neapolitana	(Berthold) Lagerheim ex P.C. Silva	t	2834	1722
+Bertholdia	neapolitana	(Berthold) Schmitz	f	2835	1722
+Catenella	caespitosa	(Withering) L.M. Irvine in Parke & P.S.Dixon	t	2836	1723
+Catenella	repens	(Lightfoot) Batters	f	2837	1723
+Choreocolax	polysiphoniae	Reinsch	t	2838	1724
+Harveyella	mirabilis	(Reinsch) F. Schmitz & Reinke in Reinke	t	2839	1725
+Cruoria	cruoriaeformis	(P.L. Crouan & H.M. Crouan) Denizot	t	2840	1728
+Cruoria	purpurea	Crouan	f	2841	1728
+Cruoria	pellita	(Lyngbye) Fries	t	2842	1729
+Calliblepharis	ciliata	(Hudson) Kützing	t	2843	1730
+Calliblepharis	jubata	(Goodenough & Woodward) Kützing	t	2844	1731
+Calliblepharis	lanceolata	Batters	f	2845	1731
+Cystoclonium	purpureum	(Hudson) Batters	t	2846	1733
+Rhodophyllis	divaricata	(Stackhouse) Papenfuss	t	2847	1734
+Dilsea	carnosa	(Schmidel) Kuntze	t	2848	1735
+Dudresnaya	verticillata	(Withering) Le Jolis	t	2849	1736
+Dumontia	contorta	(S.G. Gmelin) Ruprecht	t	2850	1737
+Dumontia	incrassata	(Müller) Lamouroux	f	2851	1737
+Furcellaria	lumbricalis	(Hudson) J.V. Lamouroux	t	2852	1738
+Furcellaria	fastigiata	(Linné) Lamouroux	f	2853	1738
+Halarachnion	ligulatum	(Woodward) Kützing	t	2854	1739
+Chondracanthus	acicularis	(Roth) Fredericq in Hommersand, Guiry, Fredericq & Leister	t	2855	1726
+Gigartina	acicularis	(Wallen)	f	2856	1726
+Chondracanthus	teedei	(Mertens ex Roth) Kützing	t	2857	1740
+Gigartina	teedii	Lamouroux	f	2858	1740
+Chondrus	crispus	Stackhouse	t	2859	1741
+Gigartina	pistillata	(S.G. Gmelin) Stackhouse	t	2860	1742
+Schottera	nicaeënsis	(J.V. Lamouroux ex Duby) Guiry & Hollenberg	t	2861	1743
+Petroglossum	nicaeënse	(Duby) Schotter	f	2862	1743
+Cruoriopsis	hauckii	Batters	t	2863	1744
+Gloiosiphonia	capillaris	(Hudson) Carmichael in W.J. Hooker	t	2864	1745
+Callocolax	neglectus	F. Schmitz ex Batters	t	2865	1746
+Callophyllis	laciniata	(Hudson) Kützing	t	2866	1747
+Kallymenia	reniformis	(Turner) J. Agardh	t	2867	1748
+Meredithia	microphylla	(J. Agardh) J. Agardh	t	2868	1749
+Cruoriella	armorica	Crouan	f	2869	1750
+Peyssonnelia	atropurpurea	P.L. Crouan & H.M. Crouan	t	2870	1751
+Peyssonnelia	dubyi	P.L. Crouan & H.M. Crouan	t	2871	1752
+Cruoriella	dubyi	(Crouan)	f	2872	1752
+Ahnfeltiopsis	devoniensis	(Greville) P.C. Silva & DeCew	t	2873	1753
+Erythrodermis	traillii	(Holmes ex Batters) Guiry & Garbary	t	2874	1754
+Phyllophora	traillii	Holmes	f	2875	1754
+Gymnogongrus	crenulatus	(Turner) J. Agardh	t	2876	1755
+Gymnogongrus	norvegicus	(Gunner) Agardh	f	2877	1755
+Gymnogongrus	griffithsiae	(Turner) C.F.P. Martius	t	2878	1756
+Gymnogongrus	patens	(Goodenough & Woodward) J. Agardh	t	2879	1757
+Mastocarpus	stellatus	(Stackhouse) Guiry in Guiry, J.A.West, D.-H.Kim & Masuda	t	2880	1758
+Gigartina	stellata	(Stackhouse) Batters	f	2881	1758
+Phyllophora	crispa	(Hudson) P.S. Dixon	t	2882	1759
+Phyllophora	epiphylla	(Müller) Batters	f	2883	1759
+Phyllophora	sicula	(Kützing) Guiry & L.M. Irvine	t	2884	1761
+Phyllophora	palmettoides	J. Agardh	f	2885	1761
+Polyides	rotundus	(Hudson) Greville	t	2886	1763
+Polyides	caprinus	(Gunnerus) Papenfuss	f	2887	1763
+Schizymenia	dubyi	(Chauvin ex Duby) J. Agardh	t	2888	1764
+Sphaerococcus	coronopifolius	(Goodenough & Woodward) Stackhouse	t	2889	1765
+Gracilaria	bursa-pastoris	(S.G. Gmelin) P.C. Silva	t	2890	1766
+Gracilaria	compressa	(C. Agardh) Greville	f	2891	1766
+Gracilaria	gracilis	(Stackhouse) Steentoft, L.M. Irvine & Farnham	t	2892	1767
+Gracilaria	verrucosa	(Hudson) Papenfuss	f	2893	1767
+Gracilaria	multipartita	(Clemente) Harvey	t	2894	1768
+Gracilaria	foliifera	(Forskål)	f	2895	1768
+Gracilariopsis	longissima	(S.G. Gmelin) Steentoft, L.M. Irvine & Farnham	t	2896	1769
+Holmsella	pachyderma	(Reinsch) Sturch	t	2897	1770
+Cryptonemia	seminervis	(C. Agardh) J. Agardh	t	2898	1771
+Dermocorynus	montagnei	P.L. Crouan & H.M. Crouan	t	2899	1772
+Grateloupia	dichotoma	J. Agardh	t	2900	1773
+Grateloupia	filicina	(J.V. Lamouroux) C. Agardh	t	2901	1774
+Halymenia	latifolia	P.L. Crouan & H.M. Crouan ex Kützing	t	2902	1775
+Hildenbrandia	rubra	(Sommerfelt) Meneghini	t	2903	1776
+Hildenbrandia	prototypus	Nardo	f	2904	1776
+Scinaia	furcellata	(Turner) J. Agardh	t	2905	1777
+Scinaia	turgida	Chemin 1926: 102	t	2906	1778
+Helminthocladia	calvadosii	(J.V. Lamouroux ex Duby) Setchell	t	2907	1779
+Helminthora	divaricata	(C. Agardh) J. Agardh	t	2908	1780
+Nemalion	helminthoides	(Velley) Batters	t	2909	1781
+Peyssonnelia	armorica	(P.L. Crouan et H.M. Crouan) Weber-van Bosse in Børgesen	t	2910	1750
+Grateloupia	doryphora	(Montagne) M.A. Howe	f	2911	1784
+Stenogramme	interrupta	(C. Agardh) Montagne ex Harvey	t	2912	1762
+Palmaria	palmata	(Linnaeus) Kuntze	t	2913	1785
+Rhodophysema	georgei	Batters	t	2914	1732
+Rhododermis	georgei	(Batters) F.S. Collins	f	2915	1732
+Rhodothamniella	floridula	(Dillwyn) Feldmann in T.A.Christensen	t	2916	1786
+Champia	parvula	(C. Agardh) Harvey	t	2917	1787
+Chylocladia	verticillata	(Lightfoot) Bliding	t	2918	1788
+Chylocladia	squarrosa	(Kützing) Le Jolis.	f	2919	1788
+Gastroclonium	ovatum	(Hudson) Papenfuss	t	2920	1789
+Lomentaria	articulata	(Hudson) Lyngbye	t	2921	1790
+Lomentaria	clavellosa	(Turner) Gaillon	t	2922	1791
+Lomentaria	orcadensis	(Harvey) F.S.Collins ex W.R. Taylor	t	2923	1792
+Cordylecladia	erecta	(Greville) J. Agardh	t	2924	1793
+Rhodymenia	pseudopalmata	(J.V. Lamouroux) P.C. Silva	t	2925	1795
+Ceramium	rubrum	C. Agardh	t	2926	1727
+Ceramium	virgatum	Roth	t	2927	1782
+Ceramium	pedicellatum	(Duby) J. Agardh, nom. illeg.	f	2928	1782
+Lomentaria	hakodatensis	Yendo	t	2929	1796
+Rhodophysema	elegans	(P.L. Crouan & H.M. Crouan ex J. Agardh) P.S. Dixon	t	2930	1705
+Rhodophysema	feldmannii 	Cabioch 	t	2931	1797
+Halosacciocolax	kjellmanii	S. Lund 	t	2932	1533
+Caulacanthus	ustulatus 	(Mertens ex Turner) Kützing	t	2933	1798
+Acrochaetium	cheminii 	Feldmann	t	2934	1799
+Gracilaria	vermiculophylla	(Ohmi) Papenfuss 1967: 101	t	2935	1783
+Pterosiphonia	pinnulata	(Kützing) Maggs & Hommersand 1993: 379-381	t	2936	1520
