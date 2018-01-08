@@ -99,8 +99,15 @@ def sortSequencesByLength(sequenceInfo,sortOrder=SORTORDER_ASC) :
     :param sortOrder: one of two constants SORTORDER_ASC (default) or SORTORDER_DESC defining the sort order
     :return: the list of identifiers sorted by length
     """
-    idsWithLengthList=[ { 'id' : sequenceId, 'length' : int(sequence[POSITION_MAX]-sequence[POSITION_MIN]+1) } for (sequenceId, sequence) in sequenceInfo.items()]
-    idsWithLengthList.sort(key=lambda value : value['length'])
-    sortedIds=[ value['id'] for value in idsWithLengthList]
+    reverse=False
+    if sortOrder == SORTORDER_DESC :
+        reverse=True
+    idsWithLengthList=[]
+    for (sequenceId, sequence) in sequenceInfo.items() :
+        idsWithLengthList.append({ 'id' : sequenceId, 'length' : int(sequence[POSITION_MAX]-sequence[POSITION_MIN]+1) })
+    idsWithLengthList.sort(reverse=reverse,key=lambda value : value['length'])
+    sortedIds=[]
+    for value in idsWithLengthList :
+        sortedIds.append(value['id'])
     return sortedIds
 

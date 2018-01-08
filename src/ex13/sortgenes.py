@@ -8,7 +8,7 @@ parser.add_argument('-v','--verbose',action='store_true',help='Display a lot of 
 args=parser.parse_args()
 
 sequenceInfo=sequencetools.readFastaSequencesFromFile(args.seqfile)
-orderedSequenceIds=sequencetools.sortSequencesByLength(sequenceInfo)
+orderedSequenceIds=sequencetools.sortSequencesByLength(sequenceInfo,sequencetools.SORTORDER_DESC)
 
 shortestSequenceId=orderedSequenceIds[0]
 shortestSequenceInfo=sequenceInfo[shortestSequenceId]
