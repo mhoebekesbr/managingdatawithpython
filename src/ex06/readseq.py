@@ -17,9 +17,9 @@ for line in lines:
         if currentSeqId != '' :
             if currentSeqId not in sequenceInfo :
                 sequenceInfo[currentSeqId]=currentSequence
-                currentSequence=''
             else :
                 print('Duplicate sequence: '+currentSeqId)
+        currentSequence = ''
         currentSeqId=line
     else :
         currentSequence=currentSequence+line

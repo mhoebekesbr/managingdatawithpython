@@ -20,9 +20,9 @@ for line in lines:
         if currentSeqId != '' :
             if currentSeqId not in sequenceInfo :
                 sequenceInfo[currentSeqId]={SEQUENCE_KEY : currentSequence}
-                currentSequence=''
             else :
                 print('Duplicate sequence: '+currentSeqId)
+        currentSequence = ''
         currentSeqId=line
     else :
         currentSequence=currentSequence+line

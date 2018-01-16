@@ -40,7 +40,7 @@ def readFastaSequencesFromFile(filename, sequenceInfo={}, sequenceType=NUCLEOTID
                         sequenceInfo[currentSeqId] = {NUCLEOTIDES_TYPE: None, RESIDUES_TYPE: None}
                         sequenceInfo[currentSeqId] = computeSequencePositionInfo(currentSeqId,sequenceInfo[currentSeqId])
                     sequenceInfo[currentSeqId][sequenceType]=currentSequence
-                    currentSequence = ''
+                currentSequence = ''
                 currentSeqId = line
             else:
                 currentSequence = currentSequence + line

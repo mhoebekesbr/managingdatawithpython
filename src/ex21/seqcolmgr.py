@@ -3,6 +3,7 @@ import json
 
 import sequencetools
 
+
 parser=argparse.ArgumentParser(description='Read a set of sequences, and count the number of sequences on each strand.')
 parser.add_argument('-n','--nucseq',required=False,help='A multi-fasta nucleotide sequence file.')
 parser.add_argument('-r','--residues',required=False,help='A multi-fasta amino acid sequence file.')
