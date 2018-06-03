@@ -3,22 +3,15 @@ lines = infile.readlines()
 infile.close()
 seqIds=[]
 sequences=[]
-currentSeqId=''
-currentSequence=''
 for line in lines:
     line=line[:-1]
-    if len(line)> 0 and line[0] == '>' :
-        if currentSeqId != '' :
+    if len(line)> 0 :
+        if line[0] == '>' :
+            currentSeqId=line
             seqIds.append(currentSeqId)
+        else :
+            currentSequence=line
             sequences.append(currentSequence)
-        currentSeqId=line
-        currentSequence=''
-    else :
-        currentSequence=currentSequence+line
-
-if currentSeqId != '' :
-    seqIds.append(currentSeqId)
-    sequences.append(currentSequence)
 
 print(seqIds[1234])
 print(len(sequences[1234]))

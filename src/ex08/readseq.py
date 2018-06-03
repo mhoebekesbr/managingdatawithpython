@@ -14,49 +14,32 @@ RESIDUES_KEY='residues'
 infile = open(args.nucleotides)
 lines = infile.readlines()
 infile.close()
-currentSeqId=''
-currentSequence=''
 for line in lines:
     line=line[:-1]
-    if len(line)> 0 and line[0] == '>' :
-        if currentSeqId != '' :
+    if len(line)> 0 :
+        if line[0] == '>' :
+            currentSeqId=line
+        else :
+            currentSequence=line
             if currentSeqId not in sequenceInfo :
                 sequenceInfo[currentSeqId]={NUCLEOTIDES_KEY : currentSequence, RESIDUES_KEY : None}
             else :
                 print('Duplicate sequence: '+currentSeqId)
-        currentSequence = ''
-        currentSeqId=line
-    else :
-        currentSequence=currentSequence+line
-if currentSeqId != '' :
-    if currentSeqId not in sequenceInfo :
-        sequenceInfo[currentSeqId] = {NUCLEOTIDES_KEY: currentSequence, RESIDUES_KEY: None}
-        currentSequence=''
-    else :
-        print('Duplicate sequence: '+currentSeqId)
 
 infile = open(args.residues)
 lines = infile.readlines()
 infile.close()
-currentSeqId=''
-currentSequence=''
 for line in lines:
     line=line[:-1]
-    if len(line)> 0 and line[0] == '>' :
-        if currentSeqId != '' :
+    if len(line)> 0 :
+        if line[0] == '>' :
+            currentSeqId=line
+        else :
+            currentSequence=line
             if currentSeqId not in sequenceInfo :
                 sequenceInfo[currentSeqId]={RESIDUES_KEY : currentSequence, NUCLEOTIDES_KEY : None}
             else :
                 sequenceInfo[currentSeqId][RESIDUES_KEY]=currentSequence
-        currentSequence = ''
-        currentSeqId=line
-    else :
-        currentSequence=currentSequence+line
-if currentSeqId != '' :
-    if currentSeqId not in sequenceInfo :
-        sequenceInfo[currentSeqId] = {RESIDUES_KEY: currentSequence, NUCLEOTIDES_KEY: None}
-    else :
-        sequenceInfo[currentSeqId][RESIDUES_KEY] = currentSequence
 
 missingNucleotides=0
 missingResidues=0

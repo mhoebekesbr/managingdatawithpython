@@ -10,13 +10,13 @@ args=parser.parse_args()
 sequenceInfo=sequencetools.readFastaSequencesFromFile(args.seqfile)
 orderedSequenceIds=sequencetools.sortSequencesByLength(sequenceInfo,sequencetools.SORTORDER_DESC)
 
-shortestSequenceId=orderedSequenceIds[0]
-shortestSequenceInfo=sequenceInfo[shortestSequenceId]
-shortestSequenceLength=shortestSequenceInfo[sequencetools.POSITION_MAX]-shortestSequenceInfo[sequencetools.POSITION_MIN]+1
-
-longestSequenceId=orderedSequenceIds[-1]
+longestSequenceId=orderedSequenceIds[0]
 longestSequenceInfo=sequenceInfo[longestSequenceId]
 longestSequenceLength=longestSequenceInfo[sequencetools.POSITION_MAX]-longestSequenceInfo[sequencetools.POSITION_MIN]+1
+
+shortestSequenceId=orderedSequenceIds[-1]
+shortestSequenceInfo=sequenceInfo[shortestSequenceId]
+shortestSequenceLength=shortestSequenceInfo[sequencetools.POSITION_MAX]-shortestSequenceInfo[sequencetools.POSITION_MIN]+1
 
 if args.verbose is True :
     print('Total number of sequences: '+str(len(sequenceInfo)))

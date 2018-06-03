@@ -11,19 +11,14 @@ def readFastaSequencesFromFile(filename, sequenceInfo={}, sequenceType=NUCLEOTID
     currentSequence = ''
     for line in lines:
         line = line[:-1]
-        if len(line) > 0 and line[0] == '>':
-            if currentSeqId != '':
+        if len(line) > 0 :
+            if line[0] == '>':
+                currentSeqId=line
+            else :
+                currentSequence=line
                 if currentSeqId not in sequenceInfo:
                     sequenceInfo[currentSeqId] = {NUCLEOTIDES_TYPE: None, RESIDUES_TYPE: None}
                 sequenceInfo[currentSeqId][sequenceType]=currentSequence
-            currentSequence = ''
-            currentSeqId = line
-        else:
-            currentSequence = currentSequence + line
-    if currentSeqId != '':
-        if currentSeqId not in sequenceInfo:
-            sequenceInfo[currentSeqId] = {NUCLEOTIDES_TYPE: None, RESIDUES_TYPE: None}
-        sequenceInfo[currentSeqId][sequenceType] = currentSequence
 
     return sequenceInfo
 

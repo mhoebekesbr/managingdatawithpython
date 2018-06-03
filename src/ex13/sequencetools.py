@@ -39,27 +39,20 @@ def readFastaSequencesFromFile(filename, sequenceInfo={}, sequenceType=NUCLEOTID
             for storing the amino acid sequence. Depending on the sequenceType argument, one of the two entries will be filled with data read from the file.
     """
     with open(filename) as infile :
-        currentSeqId = ''
-        currentSequence = ''
         for line in infile:
             line = line[:-1]
-            if len(line) > 0 and line[0] == '>':
-                if currentSeqId != '':
+            if len(line) > 0 :
+                if  line[0] == '>':
+                    currentSeqId=line[1:]
+                else :
+                    currentSequence=line
                     if currentSeqId not in sequenceInfo:
                         sequenceInfo[currentSeqId] = {NUCLEOTIDES_TYPE: None, RESIDUES_TYPE: None}
                         sequenceInfo[currentSeqId] = computeSequencePositionInfo(currentSeqId,sequenceInfo[currentSeqId])
                     sequenceInfo[currentSeqId][sequenceType]=currentSequence
-                currentSequence = ''
-                currentSeqId = line
-            else:
-                currentSequence = currentSequence + line
-        if currentSeqId != '':
-            if currentSeqId not in sequenceInfo:
-                sequenceInfo[currentSeqId] = {NUCLEOTIDES_TYPE: None, RESIDUES_TYPE: None}
-                sequenceInfo[currentSeqId] = computeSequencePositionInfo(currentSeqId, sequenceInfo[currentSeqId])
-            sequenceInfo[currentSeqId][sequenceType] = currentSequence
 
     return sequenceInfo
+
 
 def computeSequencePositionInfo(sequenceId,sequenceRecord) :
     """Fill the position descriptors from a sequence identifier

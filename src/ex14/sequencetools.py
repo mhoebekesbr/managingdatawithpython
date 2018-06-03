@@ -18,8 +18,7 @@ RESIDUES_TYPE= 'residues'
 STRAIN_KEY= 'strain'
 
 #: The constant used for specifying the sequence identifier key in the dictionary.
-SEQID_KEY= 'strain'
-
+SEQID_KEY= 'seqid'
 
 #: The constant used for specifying the leftmost position of a gene on a chromosome.
 POSITION_MIN = 'minpos'
@@ -49,27 +48,18 @@ def readFastaSequencesFromFile(filename, sequenceInfo={}, sequenceType=NUCLEOTID
 
 
     with open(filename) as infile :
-        currentSeqId = ''
-        currentSequence = ''
         for line in infile:
             line = line[:-1]
-            if len(line) > 0 and line[0] == '>':
-                if currentSeqId != '':
+            if len(line) > 0 :
+                if line[0] == '>':
+                    currentSeqId=line[1:]
+                else:
+                    currentSequence=line
                     if currentSeqId not in sequenceInfo:
                         strain = re.sub(r"^CK_(?P<synpro>[^_]+)_(?P<strain>[^_]+)_.*$", r"\g<strain>", currentSeqId)
                         sequenceInfo[currentSeqId] = {NUCLEOTIDES_TYPE: None, RESIDUES_TYPE: None, SEQID_KEY : currentSeqId, STRAIN_KEY : strain}
                         sequenceInfo[currentSeqId] = computeSequencePositionInfo(currentSeqId,sequenceInfo[currentSeqId])
                     sequenceInfo[currentSeqId][sequenceType]=currentSequence
-                currentSequence = ''
-                currentSeqId = line[1:]
-            else:
-                currentSequence = currentSequence + line
-        if currentSeqId != '':
-            if currentSeqId not in sequenceInfo:
-                strain = re.sub(r"^CK_(?P<synpro>[^_]+)_(?P<strain>[^_]+)_.*$", r"\g<strain>", currentSeqId)
-                sequenceInfo[currentSeqId] = {NUCLEOTIDES_TYPE: None, RESIDUES_TYPE: None, SEQID_KEY : currentSeqId, STRAIN_KEY : strain}
-                sequenceInfo[currentSeqId] = computeSequencePositionInfo(currentSeqId, sequenceInfo[currentSeqId])
-            sequenceInfo[currentSeqId][sequenceType] = currentSequence
 
     return sequenceInfo
 
