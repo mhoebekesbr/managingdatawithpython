@@ -28,15 +28,13 @@ else :
     shortestSequenceId=orderedSequenceIds[0]
     shortestSequenceInfo=sequenceInfo[shortestSequenceId]
     shortestSequenceLength=shortestSequenceInfo[sequencetools.POSITION_MAX]-shortestSequenceInfo[sequencetools.POSITION_MIN]+1
-    shortestSequenceStrain=sequenceInfo[shortestSequenceId][sequencetools.STRAIN_KEY]
 
     longestSequenceId=orderedSequenceIds[-1]
     longestSequenceInfo=sequenceInfo[longestSequenceId]
     longestSequenceLength=longestSequenceInfo[sequencetools.POSITION_MAX]-longestSequenceInfo[sequencetools.POSITION_MIN]+1
-    longestSequenceStrain = sequenceInfo[longestSequenceId][sequencetools.STRAIN_KEY]
 
     if args.verbose is True :
         print('Total number of sequences: '+str(len(sequenceInfo)))
-    print('Shortest sequence: '+str(shortestSequenceLength)+" gene: "+shortestSequenceId+", strain: "+shortestSequenceStrain)
-    print('Longest sequence: '+str(longestSequenceLength)+" gene: "+longestSequenceId+", strain: "+longestSequenceStrain)
+    print('Shortest sequence: '+str(shortestSequenceLength)+" gene: "+shortestSequenceId)
+    print('Longest sequence: '+str(longestSequenceLength)+" gene: "+longestSequenceId)
 

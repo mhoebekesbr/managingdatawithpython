@@ -14,9 +14,6 @@ NUCLEOTIDES_TYPE= 'nucleotides'
 #: The constant used for specifying amino acid sequences.
 RESIDUES_TYPE= 'residues'
 
-#: The constant used for specifying the strain key in the dictionary.
-STRAIN_KEY= 'strain'
-
 #: The constant used for specifying the sequence identifier key in the dictionary.
 SEQID_KEY= 'seqid'
 
@@ -56,8 +53,7 @@ def readFastaSequencesFromFile(filename, sequenceInfo={}, sequenceType=NUCLEOTID
                 else:
                     currentSequence=line
                     if currentSeqId not in sequenceInfo:
-                        strain = re.sub(r"^CK_(?P<synpro>[^_]+)_(?P<strain>[^_]+)_.*$", r"\g<strain>", currentSeqId)
-                        sequenceInfo[currentSeqId] = {NUCLEOTIDES_TYPE: None, RESIDUES_TYPE: None, SEQID_KEY : currentSeqId, STRAIN_KEY : strain}
+                        sequenceInfo[currentSeqId] = {NUCLEOTIDES_TYPE: None, RESIDUES_TYPE: None, SEQID_KEY : currentSeqId}
                         sequenceInfo[currentSeqId] = computeSequencePositionInfo(currentSeqId,sequenceInfo[currentSeqId])
                     sequenceInfo[currentSeqId][sequenceType]=currentSequence
 
