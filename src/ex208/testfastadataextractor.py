@@ -12,3 +12,7 @@ class FastaDataExtractorTest(unittest.TestCase) :
     def testGetAllFastaIds(self):
         allFastaIds=self.extractor.getAllFastaIds()
         self.assertEqual(len(allFastaIds),35993)
+
+if __name__ == '__main__' :
+
+    unittest.main()

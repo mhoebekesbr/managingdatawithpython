@@ -15,3 +15,6 @@ class Blast2CsvTest(unittest.TestCase) :
                 allrows.append(row)
         self.assertEqual(len(allrows),20)
 
+if __name__ == '__main__' :
+
+    unittest.main()

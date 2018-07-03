@@ -13,3 +13,7 @@ class TaxonRestrieveTest(unittest.TestCase) :
         self.assertEqual(taxonInfo['kingdom'],'Animalia')
         self.assertEqual(taxonInfo['phylum'],'Annelida')
         self.assertEqual(taxonInfo['genus'],'Polygordius')
+
+if __name__ == '__main__' :
+
+    unittest.main()

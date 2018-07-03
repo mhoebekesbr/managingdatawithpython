@@ -27,3 +27,7 @@ class GraphBuilderTest(unittest.TestCase) :
         subgraph=self.graphBuilder.extractSubGraphWithSourceNode('Amyloodinium ocellatum')
         allnodes=list(subgraph.nodes())
         self.assertEqual(len(allnodes),129)
+
+if __name__ == '__main__' :
+
+    unittest.main()

@@ -27,7 +27,9 @@ class TestGenbankDataExtractor(unittest.TestCase) :
         self.assertEqual(feature.start,1842317)
         self.assertEqual(feature.stop,1842866)
 
+if __name__ == '__main__' :
 
+    unittest.main()
 
 
 

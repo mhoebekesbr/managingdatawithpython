@@ -1,7 +1,7 @@
 import cyanosequence
 
 seqCollection=cyanosequence.CyanoSequenceCollection()
-seqCollection.readFastaSequencesFromFile('../../data/fasta/cyanorak_complete.fab')
+seqCollection.readFastaSequencesFromFile('../../data/fasta/cyanorak_complete.faa')
 
 numberOfSequences=seqCollection.len()
 print('Sequence collection contains: '+str(numberOfSequences)+' sequences')

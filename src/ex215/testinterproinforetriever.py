@@ -13,3 +13,6 @@ class InterproInfoRetriever(unittest.TestCase) :
         entry=res[0]
         self.assertEqual(len(entry['GO']),3)
 
+if __name__ == '__main__' :
+
+    unittest.main()

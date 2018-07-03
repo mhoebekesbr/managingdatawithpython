@@ -15,4 +15,8 @@ class TestGenbankDataExtractor(unittest.TestCase) :
         features=self.extractor.getFeaturesOfType('CDS',genbankdataextractor.SimpleFeature.STRAND_LEADING)
         self.assertEqual(len(features),1287)
 
+if __name__ == '__main__' :
+
+    unittest.main()
+
 

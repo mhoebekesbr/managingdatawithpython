@@ -32,3 +32,6 @@ class FastaSequenceExtractorTest(unittest.TestCase) :
             sequence=self.extractor.getSequenceWithId(fastaId,10000000,2000000)
 
 
+if __name__ == '__main__' :
+
+    unittest.main()

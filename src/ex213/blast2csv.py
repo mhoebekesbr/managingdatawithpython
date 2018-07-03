@@ -28,7 +28,7 @@ class Blast2Csv :
                 writer.writeheader()
                 for record in Bio.Blast.NCBIXML.parse(blastfile) :
                     row={}
-                    row['queyname']=record.query
+                    row['queryname']=record.query
                     qlength=record.query_letters
                     for alignment in record.alignments :
                         alength=alignment.length
